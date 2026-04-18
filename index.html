@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>bgm Helper</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="masthead">
+      <div class="masthead-copy">
+        <p class="eyebrow">bgmHelper.github.io</p>
+        <h1>把 Python 小工具搬到浏览器里。</h1>
+        <p class="lede">
+          直接在 GitHub Pages 上加载映射表、导入本地歌词文件、预览内容并跳转到对应编辑页。
+        </p>
+      </div>
+      <div class="masthead-status" aria-label="状态概览">
+        <div>
+          <span class="status-label">CSV 映射</span>
+          <strong id="mappingCount">0</strong>
+        </div>
+        <div>
+          <span class="status-label">已载文件</span>
+          <strong id="fileCount">0</strong>
+        </div>
+        <div>
+          <span class="status-label">当前选择</span>
+          <strong id="currentFileLabel">未选择</strong>
+        </div>
+      </div>
+    </header>
+
+    <main class="workspace">
+      <section class="controls" aria-label="导入与操作">
+        <div class="section-head">
+          <p class="section-kicker">配置</p>
+          <h2>把数据接进来</h2>
+        </div>
+
+        <div class="control-grid">
+          <label class="control-block">
+            <span class="control-title">默认映射表</span>
+            <span class="control-subtitle">启动时自动读取仓库里的 CSV，可随时替换。</span>
+            <button id="reloadDefaultCsvButton" type="button" class="ghost-button">重新加载仓库 CSV</button>
+          </label>
+
+          <label class="control-block">
+            <span class="control-title">自定义 CSV</span>
+            <span class="control-subtitle">接受带有 `database_id` 和 `dev_code` 列的文件。</span>
+            <input id="csvInput" type="file" accept=".csv,text/csv">
+          </label>
+
+          <label class="control-block">
+            <span class="control-title">导入文件夹</span>
+            <span class="control-subtitle">批量读取本地 `.md` / `.txt` 文件。</span>
+            <input id="folderInput" type="file" accept=".md,.txt,text/markdown,text/plain" webkitdirectory multiple>
+          </label>
+
+          <label class="control-block">
+            <span class="control-title">导入文件</span>
+            <span class="control-subtitle">当你只想处理部分文件时更方便。</span>
+            <input id="fileInput" type="file" accept=".md,.txt,text/markdown,text/plain" multiple>
+          </label>
+
+          <label class="control-block">
+            <span class="control-title">导入压缩包</span>
+            <span class="control-subtitle">支持从 `.zip`、`.7z`、`.rar`、`.tar`、`.gz` 中提取 `.md` / `.txt`。</span>
+            <input id="archiveInput" type="file" accept=".zip,.7z,.rar,.tar,.gz,.tgz,.bz2,.xz" multiple>
+          </label>
+        </div>
+
+        <div class="status-strip">
+          <span class="status-dot" aria-hidden="true"></span>
+          <p id="statusText">准备就绪，等待加载映射和文本文件。</p>
+        </div>
+      </section>
+
+      <section class="panel file-panel" aria-label="文件列表">
+        <div class="panel-head">
+          <div>
+            <p class="section-kicker">文件</p>
+            <h2>待处理列表</h2>
+          </div>
+          <span id="visibleCount" class="panel-meta">0 项</span>
+        </div>
+
+        <label class="search-field">
+          <span class="sr-only">搜索文件</span>
+          <input id="searchInput" type="search" placeholder="搜索文件名">
+        </label>
+
+        <ul id="fileList" class="file-list" aria-live="polite"></ul>
+      </section>
+
+      <section class="panel detail-panel" aria-label="文件详情">
+        <div class="panel-head">
+          <div>
+            <p class="section-kicker">详情</p>
+            <h2 id="detailTitle">文件预览</h2>
+          </div>
+          <span id="mappingBadge" class="panel-meta neutral">未匹配</span>
+        </div>
+
+        <div class="detail-actions">
+          <div class="url-box">
+            <span class="url-label">目标 URL</span>
+            <a id="targetUrl" href="#" target="_blank" rel="noreferrer noopener">尚未生成</a>
+          </div>
+          <div class="action-row">
+            <button id="copyButton" type="button">复制内容</button>
+            <button id="openButton" type="button" class="ghost-button">打开链接</button>
+            <button id="markButton" type="button" class="ghost-button">标记已处理</button>
+          </div>
+          <p class="clipboard-hint">首次复制时，请记得在浏览器弹窗中允许访问剪贴板。</p>
+        </div>
+
+        <div class="meta-grid">
+          <div class="meta-card meta-card-source">
+            <span class="meta-label">来源</span>
+            <strong id="sourceLabel" class="meta-value meta-value-source">未加载</strong>
+          </div>
+          <div class="meta-card meta-card-id">
+            <span class="meta-label">数据库 ID</span>
+            <strong id="databaseIdLabel" class="meta-value">-</strong>
+          </div>
+        </div>
+
+        <pre id="preview" class="preview" tabindex="0">请先加载 CSV 和歌词文件。</pre>
+      </section>
+    </main>
+  </div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

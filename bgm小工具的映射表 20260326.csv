@@ -1,0 +1,876 @@
+﻿database_id,dev_code,title,all_tags
+1,Theme_01,Constant Moderato,游戏内曲目 | Theme_01 | 标题曲
+2,Theme_02,Luminous memory,游戏内曲目 | Theme_02 | 3rd PV
+3,Theme_03,Mischievous Step,游戏内曲目 | Theme_03 | 走格子界面
+4,Theme_04,Lovely Picnic,游戏内曲目 | Theme_04 | 剧情
+5,Theme_05,Colorful Mess,游戏内曲目 | Theme_05 | 剧情
+6,Theme_06,Funky Road,游戏内曲目 | Theme_06 | 剧情
+7,Theme_07,Unwelcome School,游戏内曲目 | Theme_07 | 阿露受难曲
+8,Theme_08,Shady Girls,游戏内曲目 | Theme_08 | 剧情
+9,Theme_09,Midsummer cat,游戏内曲目 | Theme_09 | 回忆大厅、剧情
+10,Theme_10,Romantic Smile,游戏内曲目 | Theme_10 | 剧情
+11,Theme_11,Connected Sky,游戏内曲目 | Theme_11 | 抽卡界面
+12,Theme_12,Shooting Stars,游戏内曲目 | Theme_12 | 剧情选择界面
+13,Theme_13,Barrier,游戏内曲目 | Theme_13 | 剧情
+14,Theme_14,Step by Step,游戏内曲目 | Theme_14 | 大厅界面
+15,Theme_15,Honey Jam,游戏内曲目 | Theme_15 | 剧情
+16,Theme_16,MX Adventure,游戏内曲目 | Theme_16 | 编队界面
+17,Theme_17,Irasshaimase,游戏内曲目 | Theme_17 | 商店界面
+18,Theme_18,Mechanical JUNGLE,游戏内曲目 | Theme_18 | 战斗
+19,Theme_19,Virtual Storm,游戏内曲目 | Theme_19 | 战斗
+20,Theme_20,Tech N Tech,游戏内曲目 | Theme_20 | 战斗
+21,Theme_21,Midnight Trip,游戏内曲目 | Theme_21 | 回忆大厅、剧情
+22,,Midnight Trip (Short),游戏内曲目 | Theme_21_Short | 剧情
+23,Theme_22,Daily Routine 247,游戏内曲目 | Theme_22 | 什亭之匣
+24,Theme_23,Party time,游戏内曲目 | Theme_23 | 战斗胜利
+25,Theme_24,Endless Carnival (All),游戏内曲目 | Theme_24 | 大蛇
+26,,Endless Carnival 8-Bit Arrange,游戏内曲目 | theme_24_8bit | 大蛇8-Bit
+27,,Endless Carnival 03 (Chorus),游戏内曲目 | Theme_24_Chorus | 大蛇阶段2
+28,,Endless Carnival 01 (Intro),游戏内曲目 | Theme_24_Intro | 大蛇入场
+29,,Endless Carnival 02 (Verse),游戏内曲目 | Theme_24_Verse | 大蛇阶段1
+30,Theme_25,Future Bossa,游戏内曲目 | Theme_25 | 角色界面
+31,Theme_26,Lemonade Diary,游戏内曲目 | Theme_26 | 咖啡厅
+32,Theme_27,Fade Out,游戏内曲目 | Theme_27 | 战败
+33,Theme_28,Plug and Play,游戏内曲目 | Theme_28 | 剧情
+34,Theme_29,Alert,游戏内曲目 | Theme_29 | 战斗
+35,Theme_30,CrossFire,游戏内曲目 | Theme_30 | 战斗
+36,Theme_31,Hello to Halo,游戏内曲目 | Theme_31 | 剧情
+37,Theme_32,GGF,游戏内曲目 | Theme_32 | 剧情
+38,Theme_33,Vivid Night,游戏内曲目 | Theme_33 | 剧情
+39,Theme_34,Aoharu,游戏内曲目 | Theme_34 | 序章
+40,,Aoharu（short）,游戏内曲目 | Theme_34_Short | 序章
+41,Theme_35,Morose Dreamer,游戏内曲目 | Theme_35 | 剧情
+42,Theme_36,Koi is love,游戏内曲目 | Theme_36 | 回忆大厅、剧情
+43,Theme_37,Aira,游戏内曲目 | Theme_37 | 回忆大厅、剧情
+44,Theme_38,Guruguru Usagi,游戏内曲目 | Theme_38 | 回忆大厅、剧情
+45,Theme_39,Water Drop,游戏内曲目 | Theme_39 | 回忆大厅
+46,Theme_40,Neo City Dive,游戏内曲目 | Theme_40 | 剧情
+47,Theme_41,Interface,游戏内曲目 | Theme_41 | 战斗
+48,Theme_42,Glitch Street,游戏内曲目 | Theme_42 | 2ndPV
+49,Theme_43,KIRISAME,游戏内曲目 | Theme_43 | 回忆大厅、剧情
+50,Theme_44,Walkthrough,游戏内曲目 | Theme_44 | 剧情
+51,Theme_45,Signal of Abydos,游戏内曲目 | Theme_45 | 剧情
+52,Theme_46,Sugar story,游戏内曲目 | Theme_46 | 回忆大厅、剧情
+53,Theme_47,Coffee Cats,游戏内曲目 | Theme_47 | 剧情
+54,Theme_48,Out of Control (All),游戏内曲目 | Theme_48 | 球
+55,,Out of Control 03 (Chorus),游戏内曲目 | Theme_48_Chorus | 球阶段2
+56,,Out of Control 01 (Intro),游戏内曲目 | Theme_48_Intro | 球入场
+57,,Out of Control 02 (Verse),游戏内曲目 | Theme_48_Verse | 球阶段1
+58,Theme_49,Mechanical JUNGLE (Hi-Tech Full On Mix),游戏内曲目 | Theme_49 | 战斗
+59,Theme_50,Hue,游戏内曲目 | Theme_50 | 剧情
+60,Theme_51,ARES,游戏内曲目 | Theme_51 | 竞技场
+61,Theme_52,Vibes,游戏内曲目 | Theme_52 | 课程表
+62,Theme_53,Future Lab,游戏内曲目 | Theme_53 | 制造界面
+63,Theme_54,After the Beep,游戏内曲目 | Theme_54 | 剧情
+64,Theme_55,Moment,游戏内曲目 | Theme_55 | 剧情
+65,Theme_56,Fearful Utopia,游戏内曲目 | Theme_56 | 白&黑
+66,Theme_57,Han-nari,游戏内曲目 | Theme_57 | 活动剧情「樱花烂漫庆典大骚动」
+67,Theme_58,SAKURA PUNCH,游戏内曲目 | Theme_58 | 战斗
+68,Theme_59,RE Aoharu,游戏内曲目 | Theme_59 | 4thPV
+69,,RE Aoharu (Short),游戏内曲目 | Theme_59_Short | 4thPV
+70,,RE Aoharu (Title),游戏内曲目 | Theme_59_Title | 最终章标题
+71,Theme_60,SAKURA PUNCH Hard Arrange,游戏内曲目 | Theme_60 | 战斗
+72,Theme_61,Rolling Beat,游戏内曲目 | Theme_61 | 资源关卡
+73,Theme_62,Merry Blue,游戏内曲目 | Theme_62 | 回忆大厅、剧情
+74,Theme_63,Blooming moon,游戏内曲目 | Theme_63 | 回忆大厅、剧情
+75,Theme_64,Pixel Time,游戏内曲目 | Theme_64 | 游戏部
+76,Theme_65,Accelerator,游戏内曲目 | Theme_65 | 总力战界面
+77,Theme_66,Golden Shangri-la,游戏内曲目 | Theme_66 | 剧情
+78,Theme_67,"Someday, sometime",游戏内曲目 | Theme_67 | 剧情
+79,Theme_68,Virtual Storm Hard Arrange,游戏内曲目 | Theme_68 | 战斗
+80,Theme_69,Snow Pantomime,游戏内曲目 | Theme_69 | 战斗
+81,Theme_70,Black Suit,游戏内曲目 | Theme_70 | 黑服
+82,Theme_71,Denshi Toujou!,游戏内曲目 | Theme_71 | 寿司战队
+83,Theme_72,Kaiten Screw!!!,游戏内曲目 | Theme_72 | 寿司总力
+84,Theme_73,Interface Hard Arrange,游戏内曲目 | Theme_73 | 战斗
+85,Theme_74,Tech N Tech Hard Arrange,游戏内曲目 | Theme_74 | 战斗
+86,Theme_75,Alert Hard Arrange,游戏内曲目 | Theme_75 | 战斗
+87,Theme_76,CrossFire Hard Arrange,游戏内曲目 | Theme_76 | 战斗
+88,Theme_77,Burning Love,游戏内曲目 | Theme_77 | 若藻
+89,Theme_78,Fever Time,游戏内曲目 | Theme_78 | 寿司总力
+90,Theme_79,Summer Bounce,游戏内曲目 | Theme_79 | 活动剧情「日奈会长的夏日休假！」
+91,Theme_80,Colorful Beach,游戏内曲目 | Theme_80 | 活动剧情「夏日天空的愿望清单」
+92,Theme_81,Summer Bounce Hard Arrange,游戏内曲目 | Theme_81 | 战斗 活动剧情「日奈会长的夏日休假！」
+93,Theme_82,Hifumi Daisuki,游戏内曲目 | Theme_82 | 日富美
+94,Theme_83,PRST Academy,游戏内曲目 | Theme_83 | 红冬的小曲 活动剧情「革命之伊万库帕拉」
+95,Theme_84,PRST Marching,游戏内曲目 | Theme_84 | 战斗
+96,Theme_85,Library of Omen (All),游戏内曲目 | Theme_85 | 主教
+97,,Library of Omen （8bit）,游戏内曲目 | Theme_85_8bit | 主教-8Bit
+98,,Library of Omen 02 (Chorus),游戏内曲目 | Theme_85_Chorus | 主教阶段2
+99,,Library of Omen 01 (Verse),游戏内曲目 | Theme_85_Verse | 主教阶段1
+100,Theme_86,Summertime archive,游戏内曲目 | Theme_86 | 回忆大厅、活动剧情「日奈会长的夏日休假！」
+101,Theme_87,Constant Moderato -Piano Arrange-,游戏内曲目 | Theme_87 | 钢琴版标题曲
+102,Theme_88,Oriental Drop,游戏内曲目 | Theme_88 | 活动「在梦幻岛玩捉迷藏」
+103,Theme_89,The Dragon Express,游戏内曲目 | Theme_89 | 战斗
+104,Theme_91,FEEEEVER TIME,游戏内曲目 | Theme_91 | 剧情
+105,Theme_92,Crucial Issue,游戏内曲目 | Theme_92 | 剧情
+106,Theme_93,Formless Dream,游戏内曲目 | Theme_93 | 剧情
+107,Theme_94,Bunny Bunny Carrot Carrot,游戏内曲目 | Theme_94 | 活动剧情「船上的兔子追击者」
+108,Theme_95,Jackpot 777,游戏内曲目 | Theme_95 | 战斗 活动剧情「船上的兔子追击者」
+109,Theme_96,OperationD,游戏内曲目 | Theme_96 | 特殊作战
+110,Theme_97,Blue New Year!,游戏内曲目 | Theme_97 | 活动剧情「新春狂想曲第68号」
+111,Theme_98,Oxygen Destroyer,游戏内曲目 | Theme_98 | 佩洛洛斯拉
+112,Theme_99,nesno wons,游戏内曲目 | Theme_99 | 活动剧情「227号温泉乡运营记录！」
+113,Theme_100,Undefined Behavior,游戏内曲目 | Theme_100 | HOD
+114,Theme_101,NRG FielD,游戏内曲目 | Theme_101 | 战斗 活动剧情「沙勒的快乐情人节巡逻」
+115,Theme_102,GIVE ME CHOCO♡,游戏内曲目 | Theme_102 | 活动剧情「沙勒的快乐情人节巡逻」
+116,Theme_103,Poppin' Memories,游戏内曲目 | Theme_103 | 回忆大厅、剧情
+117,Theme_104,Cotton Candy Island,游戏内曲目 | Theme_104 | 回忆大厅、剧情
+118,Theme_105,Alkaline Tears,游戏内曲目 | Theme_105 | 剧情
+119,Theme_106,Blue New Battle,游戏内曲目 | Theme_106 | 战斗 活动剧情「新春狂想曲第68号」
+120,Theme_107,NERINERI CHALLENGE,游戏内曲目 | Theme_107 | 联合火力演习
+121,Theme_108,Starting Pistol,游戏内曲目 | Theme_108 | 火力演习
+122,Theme_109,Dolce Biblioteca,游戏内曲目 | Theme_109 | 活动剧情「冒失修女与古书馆的魔法师」
+123,Theme_110,Codex of Omen,游戏内曲目 | Theme_110 | 战斗
+124,Theme_113,Usagi Flap,游戏内曲目 | Theme_113 | 剧情
+125,Theme_114,Unwelcome Guest,游戏内曲目 | Theme_114 | 剧情
+126,,Unwelcome Guest 8-Bit Arrange,游戏内曲目 | Theme_114_8bit
+127,Theme_115,Fall into the rabbit hole,游戏内曲目 | Theme_115
+128,Theme_116,IROHANI HOP,游戏内曲目 | Theme_116 | 战斗
+129,Theme_117,KARAKURhythm,游戏内曲目 | Theme_117 | 活动剧情「不忍之心」
+130,Theme_118,Agnus Dei,游戏内曲目 | Theme_118 | 战斗
+131,Theme_119,Blood Stained Faith,游戏内曲目 | Theme_119 | 剧情、战斗
+132,Theme_120,DIVE INTO SUMMER,游戏内曲目 | Theme_120 | 活动剧情「阿拜多斯度假村重建对策委员会」
+133,Theme_121,Na Na Natsu!,游戏内曲目 | Theme_121 | 气垫船战斗 活动「阿拜多斯度假村重建对策委员会」
+134,Theme_122,Underwater Jungle,游戏内曲目 | Theme_122 | 战斗
+135,Theme_123,Luxury Cool,游戏内曲目 | Theme_123 | 战斗
+136,Theme_124,TOMODACHI Summer,游戏内曲目 | Theme_124 | 活动剧情「出差！百夜堂海之家加盟计划」
+137,Theme_125,Kaphar,游戏内曲目 | Theme_125 | 剧情
+138,,Kaphar (Blank),游戏内曲目 | Theme_125_Blank | 剧情
+139,Theme_127,Wave & Conquer,游戏内曲目 | Theme_127 | 占领战UI
+140,Theme_128,After School Dessert,游戏内曲目 | Theme_128 | 活动剧情「课后甜点故事 ~甜秘枪战~」
+141,Theme_129,Let me think about it,游戏内曲目 | Theme_129 | 剧情 大决战
+142,Theme_130,Foolish Days,游戏内曲目 | Theme_130 | 剧情
+143,Theme_131,Shooting Athletes,游戏内曲目 | Theme_131 | 运动会活动剧情「ON YOUR MARK @ MILLENNIUM ~基沃托斯晄轮大会~」
+144,Theme_132,Raise the Huddle,游戏内曲目 | Theme_132 | 运动会活动战斗「ON YOUR MARK @ MILLENNIUM ~基沃托斯晄轮大会~」
+145,Theme_133,Goal Wo Nerae!,"游戏内曲目 | Theme_133 | 运动会活动剧情「Get Set, Go! ~基沃托斯晄轮大会~」"
+146,Theme_134,Gestalt Angst,游戏内曲目 | Theme_134 | 剧情
+147,Theme_135,Fruitful Blossom,游戏内曲目 | Theme_135 | 剧情
+148,Theme_136,Kyrie Eleison,游戏内曲目 | Theme_136 | 垂怜经
+149,,Kyrie Eleison (Short),游戏内曲目 | Theme_136_Short | 垂怜经
+150,Theme_137,Theme_137,游戏内曲目 | Theme_137
+151,Theme_138,Utaha No Uta,游戏内曲目 | Theme_138
+152,Theme_139,Cherry Berry Merry,游戏内曲目 | Theme_139 | 活动剧情「圣堂的圣夜祝福 ~救护骑士团的礼物~」
+153,Theme_140,Defective Pixel,游戏内曲目 | Theme_140 | 剧情
+154,Theme_141,Tasty New Year,游戏内曲目 | Theme_141 | 活动剧情「新年开胃菜 ~一局定输赢~」
+155,Theme_142,Encroached sky,游戏内曲目 | Theme_142 | 终章
+156,,Encroached sky (Short),游戏内曲目 | Theme_142_Short | 终章
+157,Theme_143,!؟ WAS IT A CAT I SAW !?,游戏内曲目 | Theme_143 | Goz
+158,Theme_148,Polyphonic,游戏内曲目 | Theme_148 | 终章
+159,Theme_151,Kaiten Hurricane!!!,游戏内曲目 | Theme_151 | 终章
+160,,Kaiten Hurricane!!! (Short),游戏内曲目 | Theme_151_Short | 终章
+161,,Kaiten Hurricane!!! (Very Short),游戏内曲目 | Theme_151_VeryShort | 终章
+162,Theme_159,Operation☆DOTABATA,游戏内曲目 | Theme_159 | 活动剧情「纯白的预告信~虚饰之邸与美学所在之处~」
+163,Theme_160,Noble Hallway,游戏内曲目 | Theme_160 | 活动战斗「纯白的预告信~虚饰之邸与美学所在之处~」
+164,Theme_161,Oriental Bounce,游戏内曲目 | Theme_161 | 活动剧情「龙武同舟~心中所绘，同一个未来~」
+165,Theme_162,Welcome School,游戏内曲目 | Theme_162 | 终章
+166,Theme_172,Rendezvous Recorder ver,游戏内曲目 | Theme_172
+167,,私たちのクエスト(Instrumental Ver),游戏内曲目 | WatashitachiNoQuest_Inst | 剧情
+168,,AMB_Helicopter,AMB_Helicopter | 直升机音效
+169,BGM_Mikumikuni,みくみくにしてあげる♪【してやんよ】,游戏内曲目 | BGM_Mikumikuni | 初音联动
+170,BGM_TellYourWorld_Short,Tell Your World (Short),游戏内曲目 | BGM_TellYourWorld_Short | 初音联动
+171,BGM_TenchikaibyakuShinwa_Short,初音天地開闢神話,游戏内曲目 | BGM_TenchikaibyakuShinwa_Short | 初音联动
+172,,Blue New World (Short Instrumental),游戏内曲目 | BlueNewWorld_Lobby | 初音联动
+173,,Blue New World (Short),游戏内曲目 | BLueNewWorld_Short | 初音联动
+174,,Clear Morning (Short),游戏内曲目 | ClearMorning_Short
+175,Theme_149,Ark in the Blood Sky,游戏内曲目 | Theme_149 | 终章
+176,Theme_150,System All Green,游戏内曲目 | Theme_150 | 终章
+177,Theme_156,Final Destination of Ark,游戏内曲目 | Theme_156 | 终章
+178,Theme_157,Step of Terror,游戏内曲目 | Theme_157 | 终章
+179,Theme_171,Rendezvous,游戏内曲目 | Theme_171
+180,Theme_152,Aoharu (Band Arrange),游戏内曲目 | Theme_152 | 5th PV
+181,Theme_155,Responsibility,游戏内曲目 | Theme_155 | 终章
+195,,LA LA RUN!,「ドラマCD　舞台袖のかくしごと～キヴォトス晄輪大祭～」楽曲「LA LA RUN!」 | 专辑曲目
+196,,LA LA RUN! (Instrumental Ver.),「ドラマCD　舞台袖のかくしごと～キヴォトス晄輪大祭～」楽曲「LA LA RUN!」 | 专辑曲目
+197,,Thanks to (EN Ver),Thanks to | 其他 - 国际服1.5周年主题曲
+198,,Thanks to (KR Ver),Thanks to | 其他 - 国际服1.5周年主题曲
+199,,かがやきサマーデイズ,かがやきサマーデイズ | 专辑曲目
+200,,かがやきサマーデイズ （Instrumental Ver）,かがやきサマーデイズ | 专辑曲目
+201,,キラメクMiLieへ （Instrumental Ver）,キラメクMiLieヘ | 专辑曲目
+202,,キラメクMiLieへ,キラメクMiLieヘ | 专辑曲目
+203,,Memories of Kindness / 優しさの記憶,優しさの記憶 | 专辑曲目 - 最终章ED
+204,,One. Two. Henshin!,Blue Archive Extra Soundtrack | 专辑曲目
+205,,Target for love (KR Full ver),Target for love | 专辑曲目 - 国际服开服曲
+206,,Target for love (EN Full ver),Target for love | 专辑曲目 - 国际服开服曲
+207,,Robogrex,Blue Archive Extra Soundtrack | 专辑曲目
+208,,Bluearchive Fanfare,Blue Archive Extra Soundtrack | 专辑曲目
+209,,Dayscape,Blue Archive Extra Soundtrack | 专辑曲目
+210,,Spooky Spice,Blue Archive Extra Soundtrack | 专辑曲目
+211,,Complementary Contrast,Blue Archive Extra Soundtrack | 专辑曲目
+212,,Perorodzilla Requiem,Blue Archive Extra Soundtrack | 专辑曲目
+213,,Crisis Point,Blue Archive Extra Soundtrack | 专辑曲目
+214,,Fastest Spark,Blue Archive Extra Soundtrack | 专辑曲目
+215,,Nobis,Blue Archive Extra Soundtrack | 专辑曲目
+216,,Pixel Land,Blue Archive Extra Soundtrack | 专辑曲目
+217,Theme_163,Trigger For Ambition,游戏内曲目 | Theme_163
+218,Theme_164,Kitsunebi,游戏内曲目 | Theme_164 | 战斗
+219,Theme_154,Our New Story,游戏内曲目 | Theme_154 | 标题曲
+220,Theme_165,Up to 21°C,游戏内曲目 | Theme_165 | 活动剧情「夏日特别行动！RABBIT小队与虾的消失之谜」
+221,Theme_170,Container Corner,游戏内曲目 | Theme_170 | 活动战斗「夏日特别行动！RABBIT小队与虾的消失之谜」
+222,,Gregorius I Symphony (Verse),游戏内曲目 | Theme_158_Verse | Gregorius
+223,,Gregorius I Symphony (Intro),游戏内曲目 | Theme_158_Intro | Gregorius
+224,,Gregorius I Symphony (Chorus),游戏内曲目 | Theme_158_Chorus | Gregorius
+225,Theme_158,Gregorius I Symphony,游戏内曲目 | Theme_158 | Gregorius
+226,,EN0005_Skill_04,游戏内曲目 | EN0005_Skill_04 | 其他 - 技能音效
+227,,EN0005_Skill_03,游戏内曲目 | EN0005_Skill_03 | 其他 - 技能音效
+228,,EN0005_Skill_02,游戏内曲目 | EN0005_Skill_02 | 其他 - 技能音效
+229,,EN0005_Skill_01,游戏内曲目 | EN0005_Skill_01 | 其他 - 技能音效
+230,Theme_168,Hunter Bible,游戏内曲目 | Theme_168 | 活动战斗「寻找隐藏的遗产~崔尼蒂的课外活动~」
+231,Theme_173,Takaramonogatari,游戏内曲目 | Theme_173 | 活动剧情「寻找隐藏的遗产~崔尼蒂的课外活动~」
+232,Theme_167,Hidden Treasure,游戏内曲目 | Theme_167 | 活动剧情「Trip-Trap-Train」
+233,Theme_174,Tok9 Train,游戏内曲目 | Theme_174 | 活动战斗「Trip-Trap-Train」
+234,Theme_191,F1ghtback,游戏内曲目 | Theme_191
+235,Theme_192,Chilling Out,游戏内曲目 | Theme_192
+236,Theme_169,OTKPARA!,游戏内曲目 | Theme_169 | 活动剧情「学漫同人物语~两人追寻的最终章~」
+237,,ボイスドラマ Vol.1 「アロナのお掃除大作戦!」,青春あんさんぶる Vol.1 「アロナ」 | 专辑曲目
+238,,エブリディいっしょ♪(Instrumental Ver）,青春あんさんぶる Vol.1 「アロナ」 | 专辑曲目
+239,,エブリディいっしょ♪,青春あんさんぶる Vol.1 「アロナ」 | 专辑曲目
+240,Theme_136,Kyrie Eleison (Song),游戏内曲目 | Theme_136 | 垂怜经
+241,Theme_175,HIGH-VELOCITY,游戏内曲目 | Theme_175 | 某科学的超电磁炮联动 活动剧情「某科学的青春记录」
+242,Theme_194,Ridiculous,游戏内曲目 | Theme_194
+243,Theme_176,Illuminated Night,游戏内曲目 | Theme_176 | 剧情
+244,Theme_178,Tsukikage,游戏内曲目 | Theme_178 | 剧情
+245,Theme_195,Nichirin,游戏内曲目 | Theme_195 | 剧情
+246,Theme_145,Hinagesi,游戏内曲目 | Theme_145 | 剧情
+247,Theme_177,Illuminated Night Hard Arrange,游戏内曲目 | Theme_177 | 剧情
+248,Theme_181,Dark Shadows,游戏内曲目 | Theme_181 | 猫鬼
+249,,Dark Shadows (Chorus),游戏内曲目 | Theme_181_Chorus | 猫鬼
+250,,Dark Shadows (Verse),游戏内曲目 | Theme_181_Verse | 猫鬼
+251,Theme_190,Dancing Falsehood,游戏内曲目 | Theme_190 | 剧情
+252,Theme_193,Starry Confession,游戏内曲目 | Theme_193
+253,Theme_196,Getsurin,游戏内曲目 | Theme_196 | 剧情
+254,Theme_182,PACHAD,游戏内曲目 | Theme_182 | 盖布拉
+255,,Get Over the World,青春あんさんぶる Vol.2 「ヴェリタス」 | 专辑曲目
+256,,Get Over the World(Instrumental Ver.),青春あんさんぶる Vol.2 「ヴェリタス」 | 专辑曲目
+257,,ボイスドラマ Vol.2 「Rest & Panic」（广播剧）,青春あんさんぶる Vol.2 「ヴェリタス」 | 专辑曲目
+258,Theme_183,Indoor Outdoor,游戏内曲目 | Theme_183 | 真理部活动剧情「新春进行曲」
+259,Theme_186,Starry Night,游戏内曲目 | Theme_186 | 活动剧情「新春进行曲」
+260,,澄んだ青空、萌ゆる心,澄んだ青空、萌ゆる心 | 专辑曲目 - 三周年主题曲
+261,,可爱补习法-中文版,可爱补习法 | 专辑曲目 - 国服半周年主题曲
+262,,可爱补习法-日文版,可爱补习法 | 专辑曲目 - 国服半周年主题曲
+263,,全力絶対Come☆True,全力絶対Come☆True | 专辑曲目
+264,,全力絶対Come☆True(Short Ver.),全力絶対Come☆True | 专辑曲目
+265,,全力絶対Come☆True(Instrumental Ver.),全力絶対Come☆True | 专辑曲目
+266,Theme_179,夢路の花 (Game Ver.),游戏内曲目 | Theme_179 | 3周年活动剧情「向阳绽放 少女们的小夜曲」
+267,Theme_179_Inst,游戏内曲目 | Theme_179_Inst | 3周年活动剧情「向阳绽放 少女们的小夜曲」,
+268,Theme_179_Inst2,游戏内曲目 | Theme_179_Inst2 | 3周年活动剧情「向阳绽放 少女们的小夜曲」,
+269,Theme_179_Short,游戏内曲目 | Theme_179_Short | 3周年活动剧情「向阳绽放 少女们的小夜曲」,
+270,Theme_179_Short_Inst,游戏内曲目 | Theme_179_Short_Inst | 3周年活动,
+271,Theme_199,Yumeji Party,游戏内曲目 | Theme_199 | 3周年活动剧情「向阳绽放 少女们的小夜曲」
+272,Theme_201,Serene Scenario,游戏内曲目 | Theme_201 | 3周年活动剧情「向阳绽放 少女们的小夜曲」
+273,Theme_208,Shoujo Delight,游戏内曲目 | Theme_208 | Vol1.3
+274,Theme_187,Action 68,游戏内曲目 | Theme_187 | 活动剧情「0068 来自歌剧的爱！」
+275,Theme_198,It Takes Two To Tiramisu,游戏内曲目 | Theme_198 | 活动剧情「0068 来自歌剧的爱！」
+276,,夢路の花,夢路の花 | 3周年活动剧情「向阳绽放 少女们的小夜曲」
+277,,夢路の花(Instrumental Ver),夢路の花 | 3周年活动
+278,,一日一惡★レッツゴー！,青春あんさんぶる Vol.3 「便利屋68」 | 专辑曲目
+279,,一日一惡★レッツゴー！(Instrumental Ver.),青春あんさんぶる Vol.3 「便利屋68」 | 专辑曲目
+280,,有声剧 Vol.3 「便利屋の夜はこれからよ！」,青春あんさんぶる Vol.3 「便利屋68」 | 专辑曲目
+281,,Blue Canvas,Blue Canvas | 专辑曲目 - 国服开服曲
+282,,青空Magic Day - 中文版,青空Magic Day | 专辑曲目 - 国服半周年电音节
+283,,青空Magic Day - 日文版,青空Magic Day | 专辑曲目 - 国服半周年电音节
+284,Theme_188,Dreaming Trip,游戏内曲目 | Theme_188 | 活动剧情「热热闹闹，走走逛逛」
+286,Theme_209,Sometimes I Cry,游戏内曲目 | Theme_209
+287,Theme_212,Fury of Set,游戏内曲目 | Theme_212 | 赛特的愤怒
+288,Theme_216,Miracle,游戏内曲目 | Theme_216
+289,Theme_219,Our Oath,游戏内曲目 | Theme_219 | 制约解除决战
+290,Theme_207,HIGH5LANDER,游戏内曲目 | Theme_207
+291,,あゆみ,絆ダイアローグ Vol.1 「シロコ」 | 专辑曲目
+292,,あゆみ(Instrumental Ver.),絆ダイアローグ Vol.1 「シロコ」 | 专辑曲目
+293,,Dialogue Vol.1「前略、終わらない鼓動と」,絆ダイアローグ Vol.1 「シロコ」 | 专辑曲目
+294,,忍術研究部!只今参上!の巻,青春あんさんぶる Vol.4 「忍術研究部」 | 专辑曲目
+295,,忍術研究部!只今参上!の巻。(Instrumental Ver.),青春あんさんぶる Vol.4 「忍術研究部」 | 专辑曲目
+296,,ボイスドラマ Vol.4 「忍法・妹系後輩の術!」,青春あんさんぶる Vol.4 「忍術研究部」 | 专辑曲目
+297,,手つなぎハッピーエンド,青春あんさんぶる Vol.5 「補習授業部」 | 专辑曲目
+298,,手つなぎハッピーエンド(Instrumental Ver.),青春あんさんぶる Vol.5 「補習授業部」 | 专辑曲目
+299,,ボイスドラマ Vol.5 「夏と水着とエッチじゃないもの」,青春あんさんぶる Vol.5 「補習授業部」 | 专辑曲目
+301,Theme_180,彩りキャンバス (Game Ver.),游戏内曲目 | Theme_180 | 活动剧情「-ive aLIVE!」
+302,Theme_189,Bluemark Canvas,游戏内曲目 | Theme_189 | 活动剧情「-ive aLIVE!」
+303,Theme_202,Theme_202,游戏内曲目 | Theme_202
+304,Theme_210,Bishoujo tachi no Cliché,游戏内曲目 | Theme_210 | 活动剧情「-ive aLIVE!」
+305,Theme_214,OHAYOU Daily morning,游戏内曲目 | Theme_214
+306,Theme_215,Theme_215,游戏内曲目 | Theme_215
+307,Theme_222,Candy Step,游戏内曲目 | Theme_222
+308,Theme_180_Inst,游戏内曲目 | Theme_180_Inst | 甜点部乐队活动,
+309,,Aoharu (Band Arrange) Title,游戏内曲目 | Theme_152_Title
+310,,青春のアーカイブ [TVsize],青春のアーカイブ | 专辑曲目 - TV动画
+311,,真昼の空の月 [TVsize],真昼の空の月 | 专辑曲目 - TV动画
+312,Theme_220,Dazzle Everyday,游戏内曲目 | Theme_220
+313,,Kaiten Screw!!! (8bit),游戏内曲目 | Theme_72_8bit
+314,,PRST Academy (8bit),游戏内曲目 | Theme_83_8bit
+315,,Kyrie Eleison（中配）,其他 - 垂怜经（中配）
+316,Theme_218,Achromatic Prism,游戏内曲目 | Theme_218 | Vol 1.3
+317,Theme_221,U mak3 m3 smil3,游戏内曲目 | Theme_221
+318,,「放課後スイーツ部の夏休み！」待ちに待った夏休み！編,放課後スイーツ部の夏休み！ | 专辑曲目 - DyDo联动
+319,,「放課後スイーツ部の夏休み！」 素敵なグッズ？編,放課後スイーツ部の夏休み！ | 专辑曲目 - DyDo联动
+320,,これが私のハードボイルド！？,絆ダイアローグ Vol.2 「アル」 | 专辑曲目
+321,,これが私のハードボイルド！？(Instrumental Ver.),絆ダイアローグ Vol.2 「アル」 | 专辑曲目
+322,,Dialogue Vol.2「カレー屋は一日にして成らず」,絆ダイアローグ Vol.2 「アル」 | 专辑曲目
+323,,青春のアーカイブ,青春のアーカイブ | 专辑曲目 - TV动画
+324,,青春のアーカイブ [instrumental],青春のアーカイブ | 专辑曲目 - TV动画
+325,,真昼の空の月,真昼の空の月 | 专辑曲目 - TV动画
+326,,真昼の空の月 [instrumental],真昼の空の月 | 专辑曲目 - TV动画
+327,Theme_204,Ramune Lagoon,游戏内曲目 | Theme_204 | 活动剧情「Say-Bing! 」
+328,Theme_205,Summer Attack!,游戏内曲目 | Theme_205 | 活动战斗「Say-Bing! 」
+329,,AMB_Subway,AMB_Subway | 地铁音效
+330,,AMB_Train_L,AMB_Train_L | 火车音效
+331,,RE Aoharu (4th PV),其他 - 4thPV
+332,Theme_203,Realm Rumble,游戏内曲目 | Theme_203
+333,Theme_229,Sudden Onset Disaster,游戏内曲目 | Theme_229
+334,,准备出发！,准备出发！ | 专辑曲目 - 国服一周年晄轮大祭
+335,,「放課後スイーツ部の夏休み！」 ナツのサプライズ編,放課後スイーツ部の夏休み！ | 专辑曲目 - DyDo联动
+336,,准备出发！ (伴奏),准备出发！ | 专辑曲目 - 国服一周年晄轮大祭
+337,,彩りキャンバス,彩りキャンバス | 专辑曲目
+338,,彩りキャンバス(Short Ver.),彩りキャンバス | 专辑曲目
+339,,彩りキャンバス(Instrumental Ver.),彩りキャンバス | 专辑曲目
+340,,パフェダイアリーズ,青春あんさんぶる Vol.6 「放課後スイーツ部」 | 专辑曲目
+341,,パフェダイアリーズ(Instrumental Ver.),青春あんさんぶる Vol.6 「放課後スイーツ部」 | 专辑曲目
+342,,ボイスドラマ Vol.6 「真夏の海と幻のスイーツ!」,青春あんさんぶる Vol.6 「放課後スイーツ部」 | 专辑曲目
+343,,好きなんです!,絆ダイアローグ Vol.3 「ヒフミ」 | 专辑曲目
+344,,好きなんです！(Instrumental Ver.),絆ダイアローグ Vol.3 「ヒフミ」 | 专辑曲目
+345,,Dialogue Vol.3「とまらない心を聞かせて」,絆ダイアローグ Vol.3 「ヒフミ」 | 专辑曲目
+346,,Glitch Street (Short),游戏内曲目 | Theme_42_Short
+347,Theme_153,Theme_153,游戏内曲目 | Theme_153
+348,Theme_206,Let me go Seaside,游戏内曲目 | Theme_206 | 活动剧情「Sheside outside」
+349,Theme_217,Shoujo Sorrow,游戏内曲目 | Theme_217 | Vol1.3
+350,Theme_228,0k@eri,游戏内曲目 | Theme_228
+351,Theme_234,U-n.I,游戏内曲目 | Theme_234
+352,Theme_237,Peaceful Day,游戏内曲目 | Theme_237
+353,,Paint It Now(Game Ver.),游戏内曲目 | 活动剧情「Sheside outside」
+354,,夕映えの約束 (Game Ver.),游戏内曲目 | Vol1.3
+355,,ぷかぷかぴ～す,絆ダイアローグ Vol.4 「ホシノ」 | 专辑曲目
+356,,ぷかぷかぴ～す(Instrumental Ver),絆ダイアローグ Vol.4 「ホシノ」 | 专辑曲目 | 专辑曲目
+357,,Dialogue Vol.4「幸福を探す遠道」,絆ダイアローグ Vol.4 「ホシノ」 | 专辑曲目
+358,,「放課後スイーツ部の夏休み！」水分補給も忘れずに編,放課後スイーツ部の夏休み！ | DyDo联动
+359,,希望の朝へ (向着黎明奔去),向着黎明奔去 | 专辑曲目 - 国服一周年
+360,,向着黎明奔去,向着黎明奔去 | 专辑曲目 - 国服一周年
+361,Theme_197,SHANHAIJING Tragicomedy,游戏内曲目 | Theme_197
+362,Theme_223,Scarlet Chrysanthemum,游戏内曲目 | Theme_223 | 活动剧情「月华梦骚」
+363,Theme_233,Theme_233,游戏内曲目 | Theme_233
+364,,JUMP！BEAT！PLAY！,JUMP！BEAT！PLAY！ | 专辑曲目 - 国服游戏开发部主题曲
+365,,JUMP！BEAT！PLAY！ (伴奏),JUMP！BEAT！PLAY！ | 专辑曲目 - 国服游戏开发部主题曲
+366,,Quintilis Abydos,Blue Archive Extra Soundtrack | 专辑曲目
+367,,Fruity Vacation,Blue Archive Extra Soundtrack | 专辑曲目
+368,,ワンダー・ファニー・ハーモニー,ワンダー・ファニー・ハーモニー | 专辑曲目
+369,,ワンダー・ファニー・ハーモニー (Short Ver),ワンダー・ファニー・ハーモニー | 专辑曲目
+370,,ワンダー・ファニー・ハーモニー (Instrumental Ver),ワンダー・ファニー・ハーモニー | 专辑曲目
+371,Theme_224,Flip Flap Festival!,游戏内曲目 | Theme_224 | 活动剧情「五尘来降」
+372,,KIRISAME (City Pop Rearrange),其他 - 百鬼夜行秋季播放清单
+373,,Strawberry milk complex,Strawberry milk complex | 国际服愚人节
+374,,Constant Moderato × Step by Step (CN Mashup),其他 - 国服首曝PV
+375,,わたしたちのクエスト,アニメーション「beautiful day dreamer」 主題歌「わたしたちのクエスト」 | 专辑曲目 - Vol2.2
+376,,わたしたちのクエスト(Instrumental Ver.),アニメーション「beautiful day dreamer」 主題歌「わたしたちのクエスト」 | 专辑曲目 - Vol2.
+377,,Memories of Kindness / 상냥함의 기억,其他 - 最终章ED
+378,,Memories of Kindness,其他 - 最终章ED
+379,,Memories of Kindness / 優しさの記憶(Instrumental Ver.),優しさの記憶 | 专辑曲目 - 最终章ED
+381,,Library of Omen（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+382,,SAKURA PUNCH（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+383,,Fevertime（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+384,,CrossFire Hard Arrange（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+385,,Denshi Toujou!（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+386,,Kaiten Screw!!!（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+387,,Mechanical JUNGLE Hard Arrange （OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+388,,Fearful Utopia（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+389,,Out of Control（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+390,,Interface（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+391,,Alert（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+392,,Fade Out（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+393,,CrossFire （OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+394,,Party time（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+395,,Tech N Tech（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+396,,Endless Carnival（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+397,,Mischievous Step（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+398,,Mechanical JUNGLE（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+399,,Virtual Storm（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+400,,Accelerator（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+401,,Rolling beat（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+402,,After the Beep（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+403,,Future Lab（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+404,,Signal of Abydos（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+405,,ARES（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+406,,Vibes（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+407,,Sugar story（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+408,,Water Drop（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+409,,Plug and Play（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+410,,Daily Routine 247（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+411,,Lemonade Diary（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+412,,Future Bossa（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+413,,Irasshaimase（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+414,,MX Adventure（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+415,,Step by Step（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+416,,Shooting Stars（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+417,,Constant Moderato （OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+418,,Midsummer cat（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+419,,Connected Sky（OST）,Blue Archive Original Soundtrack Vol.1 ~Longing for the Memorable Days ~ | 专辑 - OST原声大碟
+420,,Target for love(Instrumental Ver),Target for love | 专辑曲目 - 国际服开服曲
+421,,Target for love Piano Ver.(Covered by FONZI M),国际服「Happy 100th day！」纪念数位周边
+422,,Unwelcome School(Jazz Trio Ver.),国际服「Happy 100th day！」纪念数位周边
+423,,美食追求の道 ～いただきます!～,青春あんさんぶる Vol.7 「美食研究会」 | 专辑曲目
+424,,美食追求の道 ～いただきます!～(Instrumental Ver),青春あんさんぶる Vol.7 「美食研究会」 | 专辑曲目
+425,,ボイスドラマ Vol.7 「山グルメ研究会」,青春あんさんぶる Vol.7 「美食研究会」 | 专辑曲目
+426,,主殿のお傍でニンニンニン,絆ダイアローグ Vol.5 「イズナ」 | 专辑曲目
+427,,主殿のお傍でニンニンニン(Instrumental Ver),絆ダイアローグ Vol.5 「イズナ」 | 专辑曲目
+428,,Dialogue Vol.5「そしてイズナは宣言する」,絆ダイアローグ Vol.5 「イズナ」 | 专辑曲目
+429,,月導,絆ダイアローグ Vol.6 「ミヤコ」 | 专辑曲目
+430,,月導(Instrumental Ver),絆ダイアローグ Vol.6 「ミヤコ」 | 专辑曲目
+431,,Dialogue Vol.6「眠れぬウサギは夜光にたゆたう」,絆ダイアローグ Vol.6 「ミヤコ」 | 专辑曲目
+432,,Paint It Now,Paint It Now | 专辑曲目
+433,,Paint It Now(Short Ver),Paint It Now | 专辑曲目
+434,,Paint It Now(Instrumental Ver),Paint It Now | 专辑曲目
+435,,Paint It Now(Short Instrumental Ver),Paint It Now | 专辑曲目
+436,,トモダチOneStep(Game instrumental Ver.）,游戏内曲目 | Theme_185_Short_Inst | 活动剧情「Serenade Promenade」
+437,Theme_226,Tremendous Celebration,游戏内曲目 | Theme_226 | 活动剧情「Serenade Promenade」
+438,Theme_232,The Eruption,游戏内曲目 | Theme_232 | 霍克玛
+439,Theme_239,NekoTime,游戏内曲目 | Theme_239
+440,Theme_240,InuTime,游戏内曲目 | Theme_240
+441,Theme_241,DAN! DAN!! INVADER!!!,游戏内曲目 | Theme_241
+442,Theme_242,Theme_242,游戏内曲目 | Theme_242
+443,,トモダチOneStep (Game Ver.),游戏内曲目 | Theme_185_Short | 活动剧情「Serenade Promenade」
+444,Theme_225,Prophets,游戏内曲目 | Theme_225
+445,,Do you wanna kiss angel (中文版),Do you wanna kiss angel | 专辑曲目 - 圣园未花国服角色曲
+446,,Do you wanna kiss angel (日文版),Do you wanna kiss angel | 专辑曲目 - 圣园未花国服角色曲
+447,,Do you wanna kiss angel (伴奏),Do you wanna kiss angel | 专辑曲目 - 圣园未花国服角色曲
+448,,彩りキャンバス/彩色畫布 Cover by 彩奈小編,其他 - 彩奈小编翻唱
+449,,꿈길 위의 꽃 / 夢路の花 (Korean Ver.),꿈길 위의 꽃 | 专辑曲目
+450,,채색 캔버스 / 彩りキャンバス (Korean Ver.),채색 캔버스 | 专辑曲目
+451,,Rolling Beat (PV ver.),其他 - Vol2.2PV
+452,,Mint Choco Days,Mint Choco Days | 专辑曲目
+453,,채색 캔버스 / 彩りキャンバス (Bass Boost Ver.),其他 - 彩りキャンバス - 国际服索尼联动
+454,,ありがとう、そしてこれからも。,ありがとう、そしてこれからも。 | 专辑曲目
+455,,ありがとう、そしてこれからも。(Instrumental Ver.),ありがとう、そしてこれからも。 | 专辑曲目
+456,,勇者アリスの大冒険！,絆ダイアローグ Vol.8 「アリス」 | 专辑曲目
+457,,勇者アリスの大冒険！(Instrumental Ver.),絆ダイアローグ Vol.8 「アリス」 | 专辑曲目
+458,,Dialogue Vol.8「アリスクエスト～辿り着く誓約の大樹～」,絆ダイアローグ Vol.8 「アリス」 | 专辑曲目
+459,,コントロールできない感情という変数,絆ダイアローグ Vol.7 「ユウカ」 | 专辑曲目
+460,,コントロールできない感情という変数(Instrumental Ver.),絆ダイアローグ Vol.7 「ユウカ」 | 专辑曲目
+461,,Dialogue Vol.7「想い重ねる数字の証明。」,絆ダイアローグ Vol.7 「ユウカ」 | 专辑曲目
+462,,進み続ける兎たち,青春あんさんぶる Vol.8 「RABBIT小隊」 | 专辑曲目
+463,,進み続ける兎たち(Instrumental Ver.),青春あんさんぶる Vol.8 「RABBIT小隊」 | 专辑曲目
+464,,ボイスドラマ Vol.8 「暴風雨vs子ウサギたちの暗闘！」,青春あんさんぶる Vol.8 「RABBIT小隊」 | 专辑曲目
+465,,トモダチOneStep,トモダチOneStep | 专辑曲目
+466,,トモダチOneStep(Short Ver.),トモダチOneStep | 专辑曲目
+467,,トモダチOneStep(instrumental Ver.),トモダチOneStep | 专辑曲目
+468,,トモダチOneStep(Short instrumental Ver.),トモダチOneStep | 专辑曲目
+469,,温柔的回忆 / 優しさの記憶（中文版）,其他 - 最终章ED
+470,Theme_236,P.A.J.A.M.A Sleep Over,游戏内曲目 | Theme_236 | 活动剧情「秘密的午夜派对 新年钟声里的捉迷藏」
+471,Theme_255,Sweet Allegro,游戏内曲目 | Theme_255
+472,Theme_256,The Loop of Life,游戏内曲目 | Theme_256
+473,,Colorful Mess（OST）,Blue Archive Original Soundtrack Vol.2～Searching for the unknown truth～ | 专辑 - OST原声大碟
+474,,Neo City Dive（OST）,Blue Archive Original Soundtrack Vol.2～Searching for the unknown truth～ | 专辑 - OST原声大碟
+475,,Vivid Night（OST）,Blue Archive Original Soundtrack Vol.2～Searching for the unknown truth～ | 专辑 - OST原声大碟
+476,,Pixel Time（OST）,Blue Archive Original Soundtrack Vol.2～Searching for the unknown truth～ | 专辑 - OST原声大碟
+477,,Hue（OST）,Blue Archive Original Soundtrack Vol.2～Searching for the unknown truth～ | 专辑 - OST原声大碟
+478,,Snow Pantomime（OST）,Blue Archive Original Soundtrack Vol.2～Searching for the unknown truth～ | 专辑 - OST原声大碟
+479,,Barrier（OST）,Blue Archive Original Soundtrack Vol.2～Searching for the unknown truth～ | 专辑 - OST原声大碟
+480,,Koi is Love（OST）,Blue Archive Original Soundtrack Vol.2～Searching for the unknown truth～ | 专辑 - OST原声大碟
+481,,Black Suit（OST）,Blue Archive Original Soundtrack Vol.2～Searching for the unknown truth～ | 专辑 - OST原声大碟
+482,,Luminous Memory（OST）,Blue Archive Original Soundtrack Vol.2～Searching for the unknown truth～ | 专辑 - OST原声大碟
+483,,Crucial Issue（OST）,Blue Archive Original Soundtrack Vol.2～Searching for the unknown truth～ | 专辑 - OST原声大碟
+484,,Water Drop（OST 2）,Blue Archive Original Soundtrack Vol.2～Searching for the unknown truth～ | 专辑 - OST原声大碟
+485,,JACKPOT 777（OST）,Blue Archive Original Soundtrack Vol.2～Searching for the unknown truth～ | 专辑 - OST原声大碟
+486,,Formless Dream（OST）,Blue Archive Original Soundtrack Vol.2～Searching for the unknown truth～ | 专辑 - OST原声大碟
+487,,Oxygen Destroyer（OST）,Blue Archive Original Soundtrack Vol.2～Searching for the unknown truth～ | 专辑 - OST原声大碟
+488,,Bunny Bunny Carrot Carrot（OST）,Blue Archive Original Soundtrack Vol.2～Searching for the unknown truth～ | 专辑 - OST原声大碟
+489,,OperationD（OST）,Blue Archive Original Soundtrack Vol.2～Searching for the unknown truth～ | 专辑 - OST原声大碟
+490,,Undefined Behavior（OST）,Blue Archive Original Soundtrack Vol.2～Searching for the unknown truth～ | 专辑 - OST原声大碟
+491,,GGF（OST）,Blue Archive Original Soundtrack Vol.2～Searching for the unknown truth～ | 专辑 - OST原声大碟
+492,,"someday, sometime（OST）",Blue Archive Original Soundtrack Vol.2～Searching for the unknown truth～ | 专辑 - OST原声大碟
+493,,Hello to Halo（OST）,Blue Archive Original Soundtrack Vol.2～Searching for the unknown truth～ | 专辑 - OST原声大碟
+494,,Aoharu（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+495,,Midnight Trip（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+496,,Glitch Street（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+497,,Romantic Smile（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+498,,NRG FielD（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+499,,Guruguru Usagi（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+500,,Alkaline Tears（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+501,,Hifumi Daisuki（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+502,,Coffee Cats（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+503,,Kyrie Eleison（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+504,,Kaphar（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+505,,Lovely Picnic（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+506,,Honey Jam（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+507,,Morose Dreamer（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+508,,Agnus Dei（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+509,,Dolce Biblioteca（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+510,,Blood Stained Faith（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+511,,Colorful Beach（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+512,,After School Dessert（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+513,,Codex of Omen（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+514,,FEEEEVER TIME（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+515,,RE Aoharu（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+516,,Moment（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+517,,Walkthrough（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+518,,Aira（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+519,,Constant Moderato Piano Arrange（OST）,Blue Archive Original Soundtrack Vol.3～Reaching for the precious time～ | 专辑 - OST原声大碟
+520,,Unwelcome School（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+521,,NERINERI CHALLENGE（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+522,,Funky Road（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+523,,Interface Hard Arrange（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+524,,Shady Girls（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+525,,Encroached Sky（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+526,,Let me think about it（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+527,,SAKURA PUNCH Hard Arrange（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+528,,Kaiten Hurricane!!!（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+529,,Polyphonic（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+530,,Foolish Days（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+531,,Ark in the Blood Sky（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+532,,Virtual Storm Hard Arrange（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+533,,Alert Hard Arrange（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+534,,System All Green（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+535,,Final Destination of Ark（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+536,,Tech N Tech Hard Arrange（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+537,,Step of Terror（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+538,,Summer Bounce Hard Arrange（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+539,,Responsibility（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+540,,Summer Bounce（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+541,,Summertime Archive（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+542,,Welcome School（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+543,,Aoharu Band Arrange（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+544,,Blue New Battle（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+545,,Tasty New Year（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+546,,Our New Story（OST）,Blue Archive Original Soundtrack Vol.4～Aiming for the ideal freedom～ | 专辑 - OST原声大碟
+547,,Han-nari（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+548,,Poppin' Memories（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+549,,Burning Love（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+550,,IROHANI HOP（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+551,,TOMODACHI Summer（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+552,,KARAKURhythm（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+553,,wave & Conquer（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+554,,Luxury Cool（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+555,,Cotton Candy Island（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+556,,GIVE ME CHOCO♡（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+557,,Hinagesi（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+558,,Na Na Natsu!（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+559,,Illuminated Night（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+560,,Illuminated Night Hard Arrange（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+561,,Dive into Summer（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+562,,Nichirin（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+563,,Raise the Huddle（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+564,,Getsurin（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+565,,Shooting Athletes（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+566,,Goal Wo Nerae!（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+567,,Dancing Falsehood（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+568,,Gestalt Angst（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+569,,Tsukikage（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+570,,! ⸮ WAS IT A CAT I SAW？!（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+571,,KIRISAME（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+572,,Dark Shadows（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+573,,Fruitful Blossom（OST）,Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～ | 专辑 - OST原声大碟
+574,,Usagi Flap（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+575,,Unwelcome Guest（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+576,,Fall into the rabbit hole（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+577,,Operation☆DOTABATA!（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+578,,Noble Hallway（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+579,,Trigger For Ambition（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+580,,Kitsunebi（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+581,,Up to 21°C（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+582,,Hidden Treasure（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+583,,Hunter Bible（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+584,,Takaramonogatari（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+585,,Tok9 Train（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+586,,Ramune Lagoon（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+587,,Summer Attack!（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+588,,Blooming moon（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+589,,Utaha No Uta（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+590,,Cherry Berry Merry（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+591,,Container Corner（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+592,,HIGH-VELOCITY（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+593,,Indoor Outdoor（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+594,,Action 68（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+595,,Dreaming Trip（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+596,,F1ghtback（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+597,,Chilling Out（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+598,,Starry Confession（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+599,,Ridiculous（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+600,,Yumeji Party（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+601,,Serene Scenario（OST）,Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～ | 专辑 - OST原声大碟
+602,,"괜찮아, 지금 이대로 / It Will Be Alright",It Will Be Alright - Memories in Melody | 专辑曲目
+603,,一緒の約束,青春あんさんぶる Vol.9 「対策委員会」 | 专辑曲目
+604,,一緒の約束(Instrumental Ver.),青春あんさんぶる Vol.9 「対策委員会」 | 专辑曲目
+605,,ボイスドラマ Vol.9 「マラソン大会入賞対策委員会」,青春あんさんぶる Vol.9 「対策委員会」 | 专辑曲目
+606,,純真レゾンデートル,青春あんさんぶる Vol.10 「風紀委員会」 | 专辑曲目
+607,,純真レゾンデートル(Instrumental Ver.),青春あんさんぶる Vol.10 「風紀委員会」 | 专辑曲目
+608,,ボイスドラマ Vol.10 「風紀を乱す者たちへ」,青春あんさんぶる Vol.10 「風紀委員会」 | 专辑曲目
+609,,夜明けのコーヒーの香り,絆ダイアローグ Vol.9 「カンナ」 | 专辑曲目
+610,,夜明けのコーヒーの香り(Instrumental Ver.),絆ダイアローグ Vol.9 「カンナ」 | 专辑曲目
+611,,Dialogue Vol.9「休暇と出会いのスペシャルブレンド」,絆ダイアローグ Vol.9 「カンナ」 | 专辑曲目
+612,Theme_268,Love Story,游戏内曲目 | Theme_268
+613,Theme_267,Theme_267,游戏内曲目 | Theme_267
+614,Theme_266,Theme_266,游戏内曲目 | Theme_266
+615,Theme_265,Theme_265,游戏内曲目 | Theme_265
+616,Theme_264,Breaking Silence,游戏内曲目 | Theme_264
+617,Theme_262,Odekake,游戏内曲目 | Theme_262
+618,Theme_257,Funk 4 Dummies,游戏内曲目 | Theme_257
+619,Theme_252,Playful Maniac,游戏内曲目 | Theme_252
+620,Theme_251,The Runaway Until You Die,游戏内曲目 | Theme_251
+621,Theme_247,Mission Possible,游戏内曲目 | Theme_247
+622,Theme_245,Expo Festa,游戏内曲目 | Theme_245 | 千禧博览会活动剧情「Code: BOX 迫近千年的阴影~一个问题与两个答案~」
+623,Theme_244,Sunset Memory,游戏内曲目 | Theme_244
+624,,夕映えの約束 / 저녁놀의 약속 / The Promise at Sunset (Korean Ver.),The Promise at Sunset | 专辑曲目
+625,,夕映えの約束 / The Promise at Sunset,The Promise at Sunset | 专辑曲目
+626,,夕映えの約束 / The Promise at Sunset (Instrumental Ver.),The Promise at Sunset | 专辑曲目
+627,Theme_258,Theme_258,游戏内曲目 | Theme_258
+628,Theme_235,Sugary Holiday,游戏内曲目 | Theme_235 | 格赫娜活动剧情「疫饼危机~奇迹的一张~」
+629,,Oriental Drop (Dream Pop Rearrange),其他 - 山海经播放清单
+630,,彩りキャンバス/Irodori Canvas Cover by Arcie,其他 - Arcie翻唱
+631,,"꽃, 바람, 그대 / Flower, Wind, and You / 花，风，汝","꽃, 바람, 그대 | 专辑曲目"
+632,,"꽃, 바람, 그대 / Flower, Wind, and You / 花，风，汝 (Instrumental)","꽃, 바람, 그대 | 专辑曲目"
+633,Theme_250,Play Ball!,游戏内曲目 | Theme_250 | 千禧棒球活动剧情「开球！~目标！满垒本垒打~」
+634,Theme_261,Theme_261,游戏内曲目 | Theme_261
+635,Theme_263,Rewind Again,游戏内曲目 | Theme_263
+636,,Mint Choco Days (Instrumental),Mint Choco Days | 专辑曲目
+637,,It Will Be Alright (Instrumental),It Will Be Alright - Memories in Melody | 专辑曲目
+638,,"Sensei, it's time to clock out",It Will Be Alright - Memories in Melody | 专辑曲目
+639,,「ToSchool 〜君がそばにいる日常〜」opening,其他 - 愚人节小游戏「ToSchool 〜君がそばにいる日常〜」标题曲
+640,,「ToSchool 〜君がそばにいる日常〜」ending,其他 - 愚人节小游戏「ToSchool 〜君がそばにいる日常〜」片尾曲
+641,,대 판데모니움 찬가 / 大万魔殿颂歌,其他 - 国际服愚人节
+642,,Encountered,其他 - 6thPV
+643,,うららか☆SYUGYOU,青春あんさんぶる Vol.11 「修行部」 | 专辑曲目
+644,,うららか☆SYUGYOU(Instrumental Ver.),青春あんさんぶる Vol.11 「修行部」 | 专辑曲目
+645,,ボイスドラマ Vol.11 「たとえばこんな、ある日のこと～みんなで修行をやったなら～」,青春あんさんぶる Vol.11 「修行部」 | 专辑曲目
+646,,Victory Sky,絆ダイアローグ Vol.10 「ネル」 | 专辑曲目
+647,,Victory Sky(Instrumental Ver.),絆ダイアローグ Vol.10 「ネル」 | 专辑曲目
+648,,Dialogue Vol.10 「コールサイン00の賑やかな休息」,絆ダイアローグ Vol.10 「ネル」 | 专辑曲目
+649,,Walking Night,絆ダイアローグ Vol.11 「サオリ」 | 专辑曲目
+650,,Walking Night(Instrumental Ver.),絆ダイアローグ Vol.11 「サオリ」 | 专辑曲目
+651,,Dialogue Vol.11 「新たな学びは、誰かのために」,絆ダイアローグ Vol.11 「サオリ」 | 专辑曲目
+652,,Train Showdown（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+653,Theme_253,WE'RE CCC,游戏内曲目 | Theme_253 | 活动剧情「海兰德铁路狂飙事故~于是列车灰飞烟灭~」
+654,Theme_275,Theme_275,游戏内曲目 | Theme_275 | 提法勒特
+655,,Luminous Memory (Title),游戏内曲目 | Theme_271_Title | 标题曲
+656,Theme_276,Last Station,游戏内曲目 | Theme_276
+657,Theme_274,Theme_274,游戏内曲目 | Theme_274 | 提法勒特
+658,,Glitch Street (Title),游戏内曲目 | Theme_42_Title | 标题曲
+659,,Golden Shangri-la（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+660,,Oriental Drop（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+661,,The Dragon Express（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+662,,Oriental Bounce （OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+663,,Rendezvous（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+664,,Rendezvous Recorder ver（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+665,,SHANHAIJING Tragicomedy（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+666,,Let me go Seaside（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+667,,Tremendous Celebration（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+668,,Bluemark Canvas（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+669,,Flip Flap Festival!（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+670,,P.A.J.A.M.A Sleep Over（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+671,,Expo Festa（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+672,,Gregorius I Symphony（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+673,,Fury of Set（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+674,,0k@eri（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+675,,Realm Rumble（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+676,,HIGH5LANDER（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+677,,Sudden Onset Disaster（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+678,,Achromatic Prism（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+679,,U-n.I（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+680,,Shoujo Sorrow（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+681,,Shoujo Delight（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+682,,U mak3 m3 smil3（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+683,,Dazzle Everyday（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+684,,Miracle（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+685,,Candy Step（OST）,Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～ | 专辑 - OST原声大碟
+686,,Tomodachi OneStep (Korean Version),トモダチOneStep | 专辑曲目
+687,,Tomodachi OneStep (Korean Short Version),トモダチOneStep | 专辑曲目
+688,,Twinkle☆Magic,Twinkle☆Magic – Memories in Melody | 专辑曲目
+689,,Twinkle☆Magic (Instrumental),Twinkle☆Magic – Memories in Melody | 专辑曲目
+690,,"Sensei, do you prefer tea first, or milk first",Twinkle☆Magic – Memories in Melody | 专辑曲目
+691,Theme_230,Succession,游戏内曲目 | Theme_230
+692,Theme_231,Oukaranman,游戏内曲目 | Theme_231 | 其他 - Vol5.2PV
+693,Theme_246,Theme_246,游戏内曲目 | Theme_246
+694,Theme_279,Theme_279,游戏内曲目 | Theme_279
+695,Theme_280,Lonely Flower,游戏内曲目 | Theme_280
+696,,P.A.J.A.M.A Sleep Over (Jazz Fusion Arrange),在千年的一夜 | 专辑曲目
+697,,Bunny Bunny Carrot Carrot (Fusion Electronic Arrange),在千年的一夜 | 专辑曲目
+698,,Pixel Time (Bossa Nova Arrange),在千年的一夜 | 专辑曲目
+699,,Operation☆DOTABATA! (Latin Arrange),在千年的一夜 | 专辑曲目
+700,,FEEEEVER TIME (CHIIIILL Arrange),在千年的一夜 | 专辑曲目
+701,,Indoor Outdoor (Unplugged Arrange),在千年的一夜 | 专辑曲目
+702,,Goal wo Nerae! (Acoustic Arrange),在千年的一夜 | 专辑曲目
+703,,Shooting Athletes (Chilling Athletes Arrange),在千年的一夜 | 专辑曲目
+704,,Sweet Allegro (Lo-fi Arrange),在千年的一夜 | 专辑曲目
+705,,Utaha no Uta (Lo-fi & Chill Arrange),在千年的一夜 | 专辑曲目
+706,,优香的泡面计时器,其他 - 数位周边「优香&诺亚的语音讯息」
+707,,诺亚的晨唤语音,其他 - 数位周边「优香&诺亚的语音讯息」
+708,,优香的熟睡辅助语音,其他 - 数位周边「优香&诺亚的语音讯息」
+709,,诺亚是你的伸展教练,其他 - 数位周边「优香&诺亚的语音讯息」
+710,,パトランプハーモニー！,青春あんさんぶる Vol.12 「ヴァルキューレ」 | 专辑曲目
+711,,パトランプハーモニー！(Instrumental Ver.),青春あんさんぶる Vol.12 「ヴァルキューレ」 | 专辑曲目
+712,,ボイスドラマ Vol.12「こちらヴァルキューレ、市民の皆様にお伝えします！」,青春あんさんぶる Vol.12 「ヴァルキューレ」 | 专辑曲目
+713,,イマハカラメル ―Sweeten Up Later,絆ダイアローグ Vol.12 「ヨシミ」 | 专辑曲目
+714,,イマハカラメル ―Sweeten Up Later(Instrumental Ver.),絆ダイアローグ Vol.12 「ヨシミ」 | 专辑曲目
+715,,Dialogue Vol.12「甘いお菓子と乙女の心得」,絆ダイアローグ Vol.12 「ヨシミ」 | 专辑曲目
+716,,憧れの日々,絆ダイアローグ Vol.13 「フウカ」 | 专辑曲目
+717,,憧れの日々(Instrumental Ver.),絆ダイアローグ Vol.13 「フウカ」 | 专辑曲目
+718,,Dialogue Vol.13「たまには、優雅な休息を」,絆ダイアローグ Vol.13 「フウカ」 | 专辑曲目
+719,Theme_289,Summer Survival!,游戏内曲目 | Theme_289 | 活动剧情「百ヨリ出ズル一輪ノ 〜いざ尋常に、水上勝負〜」
+721,,夕映えの約束,夕映えの約束 | 专辑曲目
+722,,夕映えの約束(instrumental Ver.),夕映えの約束 | 专辑曲目
+723,,笑顔 はなまる Happy Day,青春あんさんぶる Vol.13 「梅花園」 | 专辑曲目
+724,,笑顔 はなまる Happy Day(Instrumental Ver.),青春あんさんぶる Vol.13 「梅花園」 | 专辑曲目
+725,,大怪獣バイカゴン現る！,青春あんさんぶる Vol.13 「梅花園」 | 专辑曲目
+726,,"Hand in Hand, Heart in Heart",絆ダイアローグ Vol.14「ノノミ」 | 专辑曲目
+727,,"Hand in Hand, Heart in Heart(Instrumental Ver.)",絆ダイアローグ Vol.14「ノノミ」 | 专辑曲目
+728,,アビドスアイドルプロジェクトの足跡,絆ダイアローグ Vol.14「ノノミ」 | 专辑曲目
+729,,記憶と記録の間に,絆ダイアローグ Vol.15 「ノア」 | 专辑曲目
+730,,記憶と記録の間に(Instrumental Ver.),絆ダイアローグ Vol.15 「ノア」 | 专辑曲目
+731,,Eau de Noaはどこまでも透明なのに,絆ダイアローグ Vol.15 「ノア」 | 专辑曲目
+732,Theme_291,Shining Seaside,游戏内曲目 | Theme_291 | 活动剧情「夏空のやくそく」
+733,Theme_292,Theme_292,游戏内曲目 | Theme_292
+734,Theme_293,Theme_293,游戏内曲目 | Theme_293
+735,Theme_294,Theme_294,游戏内曲目 | Theme_294
+736,Theme_295,Theme_295,游戏内曲目 | Theme_295
+737,Theme_298,You’re My Princess,游戏内曲目 | Theme_298
+738,Theme_299,Theme_299,游戏内曲目 | Theme_299
+739,Theme_300,Theme_300,游戏内曲目 | Theme_300
+740,,Romantic Seaside (Game ver.),游戏内曲目 | 10046_ED_Sound | 活动剧情「夏空のやくそく」
+741,,Love Parade (Feat. DovIvI),Love Parade | 专辑曲目
+742,,Love Parade (Instrumental),Love Parade | 专辑曲目
+743,,有时候的时候,有时候的时候 | 专辑曲目
+744,,有时候的时候 (伴奏),有时候的时候 | 专辑曲目
+745,Theme_249,Music for Your Soul,游戏内曲目 | Theme_249
+746,Theme_243,Our Hearts,游戏内曲目 | Theme_243
+747,Theme_254,OOZ0RA,游戏内曲目 | Theme_254
+748,Theme_281,Laboratorium Occultum,游戏内曲目 | Theme_281 | 活动「我们是神秘学研究会！」
+751,Theme_283,4You Harmonica Arrange,游戏内曲目 | Theme_283 | 剧情
+752,Theme_285,Theme_285,游戏内曲目 | Theme_285 | 剧情
+753,Theme_287,Theme_287,游戏内曲目 | Theme_287
+754,Theme_296,Wachawacha Rush,游戏内曲目 | Theme_296 | 活动「献给谁的艺术」
+755,Theme_297,Theme_297,游戏内曲目 | Theme_297
+756,,Sparkle Express (MV ver.),其他 - 国际服「Sparkle Express」MV
+757,,HIGH5LANDER Eurobeat Remix,其他 - 海兰德播放清单
+758,,Romantic Seaside,Romantic Seaside | 专辑曲目
+759,,Romantic Seaside(Drama Ver.),Romantic Seaside | 专辑曲目
+760,,Romantic Seaside(Drama Short Ver.),Romantic Seaside | 专辑曲目
+761,,Romantic Seaside(Instrumental Ver.),Romantic Seaside | 专辑曲目
+762,,Romantic Seaside(Short Instrumental Ver.),Romantic Seaside | 专辑曲目
+763,,看板娘のヒミツ素顔,絆ダイアローグ Vol.16「シズコ」 | 专辑曲目
+764,,看板娘のヒミツ素顔(Instrumental Ver.),絆ダイアローグ Vol.16「シズコ」 | 专辑曲目
+765,,Dialogue Vol.16「お祭りを楽しむ、1人の少女として。」,絆ダイアローグ Vol.16「シズコ」 | 专辑曲目
+766,,発明！ロマン！Engineer Dream！！,青春あんさんぶる Vol.14 「エンジニア部」 | 专辑曲目
+767,,発明！ロマン！Engineer Dream！！(Instrumental Ver.),青春あんさんぶる Vol.14 「エンジニア部」 | 专辑曲目
+768,,ボイスドラマVol.14「夢のロマン・ピザマシン誕生」,青春あんさんぶる Vol.14 「エンジニア部」 | 专辑曲目
+769,,アスナのまにまに？,絆ダイアローグ Vol.17 「アスナ」 | 专辑曲目
+770,,02-アスナのまにまに？(Instrumental Ver.),絆ダイアローグ Vol.17 「アスナ」 | 专辑曲目
+771,,Dialogue Vol.17「アスナも歩けば幸運に当たる。」,絆ダイアローグ Vol.17 「アスナ」 | 专辑曲目
+772,Theme_302,Someday Certainly inst arrange,游戏内曲目 | Theme_302
+773,Theme_303,Theme_303,游戏内曲目 | Theme_303
+774,Theme_332,Theme_332,游戏内曲目 | Theme_332
+775,Theme_333,Theme_333,游戏内曲目 | Theme_333
+776,,Someday Certainly (Game Ver.),游戏内曲目 | 10049_ED_Sound | 活动「魔法少女的重火力 ～艾拉的野心与正义的资格～」ED
+777,,Irodori Canvas (EN Ver.),其他 - 国际服4周年
+778,,Kokoro Gradation (JP Ver.),其他 - 国际服4周年
+779,Theme_282,Theme_282,游戏内曲目 | Theme_282 | 剧情
+780,Theme_284,Theme_284,游戏内曲目 | Theme_284 | 剧情
+781,Theme_286,Theme_286,游戏内曲目 | Theme_286 | 剧情
+782,Theme_288,Theme_288,游戏内曲目 | Theme_288 | 剧情
+783,Theme_297_Inst2,游戏内曲目 | Theme_297_Inst2 | 剧情,
+784,,마음 그라데이션 / Kokoro Gradation (Korean Ver.) (MV ver.),其他 - 国际服4周年
+785,,Kokoro Gradation (EN Ver.) (by Raon),其他 - 国际服4周年
+786,Theme_317,OTKMARCHING!,游戏内曲目 | Theme_317 | 活动「冬空的文艺复兴～关于健全文化的交流～」
+787,,온도 / 溫度,其他 - 国际服桔梗角色曲
+788,,Sparkle Express (feat. Serentium),Sparkle Express | 专辑曲目
+789,,Sparkle Express (Backing Track),Sparkle Express | 专辑曲目
+790,,Kokoro Gradation (Korean Version),Kokoro Gradation | 专辑曲目
+791,,Kokoro Gradation (Instrumental),Kokoro Gradation | 专辑曲目
+792,,Let's Go With...,Let's Go With... | 5周年专辑
+793,,Let's Go With...(Instrumental Ver.),Let's Go With... | 5周年专辑
+794,,Someday Certainly,Someday Certainly | 专辑曲目
+795,,Someday Certainly(Short Ver.),Someday Certainly | 专辑曲目
+796,,Someday Certainly(Instrumental Ver.),Someday Certainly | 专辑曲目
+797,,Someday Certainly(Short Instrumental Ver.),Someday Certainly | 专辑曲目
+798,,黒翼が奏でる正義,青春あんさんぶる Vol.15 「正義実現委員会」 | 专辑曲目
+799,,黒翼が奏でる正義(Instrumental Ver.),青春あんさんぶる Vol.15 「正義実現委員会」 | 专辑曲目
+800,,紡ぐ時間,絆ダイアローグ Vol.18 「セナ」 | 专辑曲目
+801,,紡ぐ時間(Instrumental Ver.),絆ダイアローグ Vol.18 「セナ」 | 专辑曲目
+802,,Dialogue Vol.18「待機への期待～先生を添えて～」,絆ダイアローグ Vol.18 「セナ」 | 专辑曲目
+803,,Happy×Smiley,絆ダイアローグ Vol.19 「ハナエ」 | 专辑曲目
+804,,Happy×Smiley(Instrumental Ver.),絆ダイアローグ Vol.19 「ハナエ」 | 专辑曲目
+805,,Dialogue Vol.19「朝顔ハナエの健康のススメ！」,絆ダイアローグ Vol.19 「ハナエ」 | 专辑曲目
+806,Theme_227,Encountered,游戏内曲目 | Theme_227 | 其他 - 6thPV
+807,Theme_318,Run Way My Way,游戏内曲目 | Theme_318
+808,,Warmth,Warmth - Memories in Melody | 专辑曲目
+809,,Warmth (Instrumental),Warmth - Memories in Melody | 专辑曲目
+810,,"I was waiting for you, Sensei",Warmth - Memories in Melody | 专辑曲目
+811,,Romantic Seaside (Korean Version),Romantic Seaside | 专辑曲目
+812,,Romantic Seaside (Korean Drama Version),Romantic Seaside | 专辑曲目
+813,,Romantic Seaside (Korean Short Drama Version),Romantic Seaside | 专辑曲目
+814,,Romantic Seaside (Backing Track),Romantic Seaside | 专辑曲目
+815,,Romantic Seaside (Short Backing Track),Romantic Seaside | 专辑曲目
+816,,PRST Academy（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+817,,PRST Marching（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+818,,Merry blue（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+819,,nesno wons（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+820,,OTKPARA!（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+821,,Scarlet Chrysanthemum（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+822,,Sugary Holiday（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+823,,DAN! DAN!! INVADER!!!（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+824,,Mission Possible（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+825,,The Runaway Until You Die（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+826,,Play Ball!（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+827,,Music for Your Soul（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+828,,WE'RE CCC（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+829,,Odekake（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+830,,Starry Night（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+831,,It Takes Two To Tiramisu（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+832,,Metal † Crisis（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+833,,Bishoujo tachi no Cliché（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+834,,OHAYOU Daily morning（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+835,,Starry Sky（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+836,,Our Oath（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+837,,Peaceful Day（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+838,,NekoTime（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+839,,InuTime（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+840,,Playful Maniac（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+841,,Sweet Allegro（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+842,,The Loop of Life（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+843,,Funk 4 Dummies（OST）,Blue Archive Original Soundtrack Vol.8 ～Dreaming for the Melody of Revolution～ | 专辑 - OST原声大碟
+844,,温もりのそばで、羽を預けて,絆ダイアローグ Vol.20 「ヒナ」 | 专辑曲目
+845,,温もりのそばで、羽を預けて(Instrumental Ver),絆ダイアローグ Vol.20 「ヒナ」 | 专辑曲目
+846,,Dialogue Vol.20「poco a poco」,絆ダイアローグ Vol.20 「ヒナ」 | 专辑曲目
+847,,出発進行！ハイランダー！！,青春あんさんぶる Vol.16 「ハイランダー」 | 专辑曲目
+848,,出発進行！ハイランダー！！(Instrumental Ver.),青春あんさんぶる Vol.16 「ハイランダー」 | 专辑曲目
+849,,ボイスドラマVol.16「途中下車で行く列車旅」,青春あんさんぶる Vol.16 「ハイランダー」 | 专辑曲目
+850,,幸せになるよ,絆ダイアローグ Vol.21 「ミカ」 | 专辑曲目
+851,,幸せになるよ(Instrumental Ver.),絆ダイアローグ Vol.21 「ミカ」 | 专辑曲目
+852,,Dialogue Vol.21「君の無邪気な海の希望」,絆ダイアローグ Vol.21 「ミカ」 | 专辑曲目
+853,,Encountered (Title),游戏内曲目 | Theme_227_Title | 其他 - 6thPV
+854,Theme_248,Theme_248,游戏内曲目 | Theme_248
+855,Theme_304,Theme_304,游戏内曲目 | Theme_304
+856,Theme_305,Theme_305,游戏内曲目 | Theme_305
+857,Theme_306,Theme_306,游戏内曲目 | Theme_306
+858,Theme_310,Theme_310,游戏内曲目 | Theme_310
+859,Theme_307,Theme_307,游戏内曲目 | Theme_307
+860,Theme_312,Theme_312,游戏内曲目 | Theme_312
+861,Theme_314_Short,游戏内曲目 | Theme_314_Short,
+862,Theme_314_Short2,游戏内曲目 | Theme_314_Short2,
+863,Theme_328,Theme_328,游戏内曲目 | Theme_328
+864,Theme_330,Steel Horizon,游戏内曲目 | Theme_330
+865,Theme_331,Theme_331,游戏内曲目 | Theme_331
+866,Theme_340,Theme_340,游戏内曲目 | Theme_340
+867,Theme_341,Theme_341,游戏内曲目 | Theme_341
+868,Theme_342,Theme_342,游戏内曲目 | Theme_342
+869,Theme_308,Theme_308,游戏内曲目 | Theme_308
+870,Theme_309,Theme_309,游戏内曲目 | Theme_309
+871,Theme_311,Theme_311,游戏内曲目 | Theme_311
+872,Theme_316_Light,游戏内曲目 | Theme_316_Light,
+873,Theme_316_Short,游戏内曲目 | Theme_316_Short,
+874,Theme_316,Theme_316,游戏内曲目 | Theme_316
+875,Theme_329,Theme_329,游戏内曲目 | Theme_329
+876,Theme_339,Theme_339,游戏内曲目 | Theme_339
+877,,Mint Choco Days (Album Ver.),Mint Choco Days - Memories in Melody | 专辑曲目
+878,,Mint Choco Days (Instrumental) (Album Ver.),Mint Choco Days - Memories in Melody | 专辑曲目
+879,,"Sensei, what a coincidence to see you at this hour!",Mint Choco Days - Memories in Melody | 专辑曲目
+880,,"Sensei, at this hour…",Aria to the Star - Memories in Melody | 专辑曲目
+881,,Prismatic Diary,Aria to the Star - Memories in Melody | 专辑曲目
+882,,I'm happy… that Sensei liked it,Aria to the Star - Memories in Melody | 专辑曲目
+883,,The Incandescent Blue and the Comet,Aria to the Star - Memories in Melody | 专辑曲目
+884,,"I want to be like you, Sensei",Aria to the Star - Memories in Melody | 专辑曲目
+885,,Prismatic Diary (Instrumental),Aria to the Star - Memories in Melody | 专辑曲目
+886,,The Incandescent Blue and the Comet (Instrumental),Aria to the Star - Memories in Melody | 专辑曲目
+887,Theme_144,Theme_144,游戏内曲目 | Theme_144
+888,Theme_313,Theme_313,游戏内曲目 | Theme_313
+889,Theme_326,Theme_326,游戏内曲目 | Theme_326
+890,Theme_327,Theme_327,游戏内曲目 | Theme_327
+891,,憧れの残響,游戏内曲目 | 90002000_ED_Sound | Vol.Ex 神名十文字篇ED
+892,,准备出发！（琵琶版）,其他 - 国服活动用曲
+893,,Flip Flap Festival!（竹笛版）,其他 - 国服活动用曲
+894,Theme_334,,
