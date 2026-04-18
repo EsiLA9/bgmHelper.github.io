@@ -10,6 +10,7 @@
   --accent-strong: #1f7f65;
   --warning: #b7791f;
   --shadow: 0 22px 64px rgba(117, 95, 68, 0.12);
+  --workspace-panel-height: min(72vh, 820px);
   --radius-xl: 28px;
   --radius-lg: 20px;
   --radius-md: 14px;
@@ -252,6 +253,8 @@ input[type="file"]::file-selector-button:hover {
 .detail-panel {
   display: grid;
   grid-template-rows: auto auto minmax(0, 1fr);
+  height: var(--workspace-panel-height);
+  overflow: hidden;
 }
 
 .detail-panel {
@@ -300,6 +303,7 @@ input[type="file"]::file-selector-button:hover {
   padding: 0;
   list-style: none;
   overflow: auto;
+  min-height: 0;
   display: grid;
   gap: 10px;
 }
@@ -424,8 +428,8 @@ input[type="file"]::file-selector-button:hover {
 .preview {
   margin: 18px 0 0;
   padding: 22px;
-  min-height: 420px;
   overflow: auto;
+  min-height: 0;
   border-radius: 22px;
   background: rgba(255, 253, 249, 0.94);
   border: 1px solid rgba(98, 117, 128, 0.12);
@@ -444,6 +448,7 @@ input[type="file"]::file-selector-button:hover {
   .file-panel,
   .detail-panel {
     grid-column: auto;
+    height: auto;
   }
 
   .control-grid {
