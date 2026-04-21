@@ -1,6 +1,6 @@
 import { Archive } from "./vendor/libarchive/libarchive.js";
 
-const DEFAULT_CSV_PATH = "bgm小工具的映射表 20260326.csv";
+const DEFAULT_CSV_PATH = "bgm小工具的映射表 20260421.csv";
 const BASE_URL = "https://seminar.kivo.wiki/music/update/";
 const TEXT_EXTENSIONS = [".md", ".txt"];
 const ARCHIVE_EXTENSIONS = [".zip", ".7z", ".rar", ".tar", ".gz", ".tgz", ".bz2", ".xz"];
