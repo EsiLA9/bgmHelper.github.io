@@ -1,0 +1,1652 @@
+﻿database_id,dev_code,mapping_title,api_title,introduction,status,error
+1,Theme_01,Constant Moderato,Constant Moderato,蔚蓝档案的标题曲，同时也是整个游戏的代表曲目。,ok,
+2,Theme_02,Luminous memory,Luminous memory,3rd PV使用的曲目，作为泳装梓回忆大厅背景音乐更为玩家们所熟知。,ok,
+3,Theme_03,Mischievous Step,Mischievous Step,最常见的日常剧情曲目之一，也是推图时不得不听的背景音乐。常常出现在一些有趣的情境下。,ok,
+4,Theme_04,Lovely Picnic,Lovely Picnic,最常见的日常剧情曲目之一，多用于日常剧情的开头。不论音乐还是与其搭配的剧情都能令人感到轻松愉快。,ok,
+5,Theme_05,Colorful Mess,Colorful Mess,常见的日常剧情曲目之一，节奏很动感，一听就知道很跳脱的事情正在发生。,ok,
+6,Theme_06,Funky Road,Funky Road,最常见的日常曲目之一，多用于日常剧情开头。旋律中带着活力，很有青春气息。,ok,
+7,Theme_07,Unwelcome School,Unwelcome School,"银行不妙曲、阿露受难曲…… 
+
+> 在制作这首歌曲时，关键词是“恶党虽然会做出恶行，但恶行里也存在搞笑的元素，希望曲子本身能够表现出一定的速度感”，虽然脑海中浮现的创意不多，但是过多的想法和苦恼可能也会成为毒药，所以就抱着“先做做看吧!”的想法，跟随着指尖的动作自然而然地进行了创作。因为恶徒这一关键词，所以比起Major,更多的采用了Minor，比起全音阶，我使用了更多的半音阶，很适合表达不稳定和脱线的感觉。 
+——[《蔚蓝档案》开发者对话vol.3——音乐总监篇](
+https://www.bilibili.com/video/BV1Wp4y1j7Cy/)",ok,
+8,Theme_08,Shady Girls,Shady Girls,最常见的日常剧情曲目之一，一般此时发生的事情稍显滑稽——即使在基沃托斯。,ok,
+9,Theme_09,Midsummer cat,Midsummer cat,常见的回忆大厅和日常剧情曲目之一。仿佛可以看到由夏日、蓝天和阳光组成的清新画面。,ok,
+10,Theme_10,Romantic Smile,Romantic Smile,最常见的日常剧情曲目之一，多用于日常剧情开头。曲如其名，是足以让人露出微笑的音乐。,ok,
+11,Theme_11,Connected Sky,Connected Sky,学生招募界面未曾改变过的背景音乐，同时也是常见的日常剧情曲目之一。,ok,
+12,Theme_12,Shooting Stars,Shooting Stars,次回To Be Continued......,ok,
+13,Theme_13,Barrier,Barrier,常见的日常剧情曲目之一，相比其他音乐更加侧重青春中的“活力”这一部分。,ok,
+14,Theme_14,Step by Step,Step by Step,是时候开始夏莱今天的工作了，老师。,ok,
+15,Theme_15,Honey Jam,Honey Jam,最常用的日常剧情曲目之一。争端、火并和喧闹结束之后，基沃托斯的暖心日常。,ok,
+16,Theme_16,MX Adventure,MX Adventure,编队和任务界面的背景音乐，也是最常用的日常剧情曲目之一。听着好像没出什么大事。,ok,
+17,Theme_17,Irasshaimase,Irasshaimase,会令人立刻联想到冷酷的算数使与打工的初中生的背景音乐。,ok,
+18,Theme_18,Mechanical JUNGLE,Mechanical JUNGLE,最常见的战斗及战斗剧情曲目之一。 偶尔也会出现在一些意义不明的“战斗”中。,ok,
+19,Theme_19,Virtual Storm,Virtual Storm,最常见的战斗曲目之一。,ok,
+20,Theme_20,Tech N Tech,Tech N Tech,最常见的战斗曲目之一。,ok,
+21,Theme_21,Midnight Trip,Midnight Trip,常见的回忆大厅和日常剧情曲目之一，基沃托斯温柔的宁静瞬间。,ok,
+22,,Midnight Trip (Short),Midnight Trip (Short),游戏内使用的非发行版曲目，剪辑过的Midnight Trip。,ok,
+23,Theme_22,Daily Routine 247,Daily Routine 247,观察两位小小的什亭之匣管理者时的背景音乐，也是最常用的日常曲目之一。,ok,
+24,Theme_23,Party time,Party time,"战斗胜利的音乐，到底是在跟什么战斗暂且不论。
+> 将Chiptune(芯片电子音乐)的感觉与Future Bass(未来贝斯)融合起来
+——[《蔚蓝档案》开发者对话vol.3——音乐总监篇](https://www.bilibili.com/video/BV1Wp4y1j7Cy/)",ok,
+25,Theme_24,Endless Carnival (All),Endless Carnival (All),"比纳总力战战斗曲目的完整版。 
+> 融合了Classic( 古典音乐)的感觉和Drum & Bass (鼓点贝斯)两种风格
+——[《蔚蓝档案》开发者对话vol.3——音乐总监篇](https://www.bilibili.com/video/BV1Wp4y1j7Cy/)",ok,
+26,,Endless Carnival 8-Bit Arrange,Endless Carnival 8-Bit Arrange,比纳总力战战斗曲目的8-Bit版，出现于游戏部小游戏。,ok,
+27,,Endless Carnival 03 (Chorus),Endless Carnival 03 (Chorus),比纳总力战战斗曲目的第三部分，在战斗的第二阶段内循环播放。,ok,
+28,,Endless Carnival 01 (Intro),Endless Carnival 01 (Intro),比纳总力战战斗曲目的第一部分，进入战斗时播放。,ok,
+29,,Endless Carnival 02 (Verse),Endless Carnival 02 (Verse),比纳总力战战斗曲目的第二部分，在战斗的第一阶段内循环播放。,ok,
+30,Theme_25,Future Bossa,Future Bossa,学生管理界面的背景音乐。,ok,
+31,Theme_26,Lemonade Diary,Lemonade Diary,夏莱自营咖啡厅常年循环播放的背景音乐。,ok,
+32,Theme_27,Fade Out,Fade Out,战斗失败界面的曲目，也是剧情中营造紧张氛围的常用曲目之一。,ok,
+33,Theme_28,Plug and Play,Plug and Play,常见的日常剧情曲目之一，睦月回忆大厅的背景音乐。,ok,
+34,Theme_29,Alert,Alert,常见的战斗及战斗剧情曲目之一。,ok,
+35,Theme_30,CrossFire,CrossFire,常见的战斗及战斗剧情曲目之一。,ok,
+36,Theme_31,Hello to Halo,Hello to Halo,事件结束，她们继续着充满希望的日常。,ok,
+37,Theme_32,GGF,GGF,"困境之中仍存希望，带领她们进入下一个阶段的战斗吧。
+常见的关键剧情曲目。",ok,
+38,Theme_33,Vivid Night,Vivid Night,大概是有什么人又在做些令人胃疼的事情时会听到的背景音乐。常见的日常曲目之一，多见于剧情开头。,ok,
+39,Theme_34,Aoharu,Aoharu,"她的声音逐渐远去...... 
+电车驶离，你睁开双眼，眼前是蔚蓝的天空、巨大的光环、喧闹的学园都市......
+你和她们的青春故事就此展开。 
+蔚蓝档案的关键曲目之一，传达了“青春”和“阳光”的主题曲。",ok,
+40,,Aoharu（short）,Aoharu（short）,游戏内使用的非发行版曲目，剪辑过的Aoharu。,ok,
+41,Theme_35,Morose Dreamer,Morose Dreamer,"尽管令人痛心，但悲伤也是她们的青春中不可或缺的一部分。
+常用的情绪渲染曲目之一。",ok,
+42,Theme_36,Koi is love,Koi is love,可爱就是正义！处处透露出可爱和青春感的曲目，是最常见的回忆大厅曲目之一。,ok,
+43,Theme_37,Aira,Aira,"被令人安心的寂静包围，眼前的画面也许并不华丽，但那份光辉温暖心灵。
+常见的回忆大厅曲目之一。",ok,
+44,Theme_38,Guruguru Usagi,Guruguru Usagi,"非常可爱的旋律，不过取决于人，有时好像还混杂着一丝傻气。
+最常用的日常剧情曲目之一。",ok,
+45,Theme_39,Water Drop,Water Drop,"学生们散发出纯真光芒的瞬间。
+常用的回忆大厅曲目之一。",ok,
+46,Theme_40,Neo City Dive,Neo City Dive,令人忍不住想要跟着跳几下的旋律，能想象出学生们欢快的样子。常用的日常剧情曲目之一。,ok,
+47,Theme_41,Interface,Interface,最常见的战斗及战斗剧情曲目之一。,ok,
+48,Theme_42,Glitch Street,Glitch Street,"2ndPV使用的曲目，推出时引起了大量玩家对主线剧情的猜想。 
+铺垫...积累...最后爆发。",ok,
+49,Theme_43,KIRISAME,KIRISAME,"温柔的旋律，温柔的时刻。
+常用的回忆大厅曲目之一。",ok,
+50,Theme_44,Walkthrough,Walkthrough,"平凡的每一天里，平凡的每一刻。
+日常感很强的常用日常曲目之一。",ok,
+51,Theme_45,Signal of Abydos,Signal of Abydos,充满阳光与活力的日常曲目之一。,ok,
+52,Theme_46,Sugar story,Sugar story,"没有青春的那份刺激和跃动，仅仅是一份温柔的宁静回忆。
+常用的回忆大厅曲目之一。",ok,
+53,Theme_47,Coffee Cats,Coffee Cats,带着些许生活气息的常用日常曲目之一。,ok,
+54,Theme_48,Out of Control (All),Out of Control (All),"敌人数量有着压倒性的优势时的压迫感，反复的战斗的刺激感体现的淋漓尽致。
+与第四质点「凯赛德」及其无限军队战斗的曲目完整版。",ok,
+55,,Out of Control 03 (Chorus),Out of Control 03 (Chorus),"凯赛德总力战的第三部分，在第二阶段循环播放。
+与第四质点「凯赛德」本体及其无限军队战斗的曲目。",ok,
+56,,Out of Control 01 (Intro),Out of Control 01 (Intro),"凯赛德总力战的第一部分，进入战斗时播放。
+与第四质点「凯赛德」的无限军队战斗的曲目。",ok,
+57,,Out of Control 02 (Verse),Out of Control 02 (Verse),"凯赛德总力战的第二部分，在第一阶段循环播放。
+与第四质点「凯赛德」的无限军队战斗的曲目。",ok,
+58,Theme_49,Mechanical JUNGLE (Hi-Tech Full On Mix),Mechanical JUNGLE (Hi-Tech Full On Mix),"Mechanical JUNGLE的Remix版，将原版中稍缺动感的一部分加以改动。
+常见的战斗及战斗剧情曲目之一。",ok,
+59,Theme_50,Hue,Hue,让人倍感温馨的常用日常剧情曲目之一。,ok,
+60,Theme_51,ARES,ARES,作为竞技场和学院交流会界面的背景音乐而闻名的曲目。,ok,
+61,Theme_52,Vibes,Vibes,老师今天要访问哪些地方安排课程呢？,ok,
+62,Theme_53,Future Lab,Future Lab,这一未知的物体，又将能制造出什么来呢？,ok,
+63,Theme_54,After the Beep,After the Beep,以人声采样为特点的可爱曲目之一。,ok,
+64,Theme_55,Moment,Moment,"事情不会一帆风顺，这个世界上也永远存在着悲伤、不幸、斗争……
+渲染悲凉情绪时常用的曲目之一。",ok,
+65,Theme_56,Fearful Utopia,Fearful Utopia,"早已废弃的游乐园响起光亮，本应静止的玩偶站在园内，荒诞的都市怪谈成为现实……
+与白&黑战斗时的曲目的完整版。",ok,
+66,Theme_57,Han-nari,Han-nari,是首很有百鬼夜行学校风格的音乐，初登场于活动「樱花烂漫祭典大骚动！」。,ok,
+67,Theme_58,SAKURA PUNCH,SAKURA PUNCH,以人声采样为特点的战斗曲目之一。,ok,
+68,Theme_59,RE Aoharu,RE Aoharu,"面对任何困难、任何事件、任何力量都不会害怕的，即使是重来一次的，与你一起的青春故事。
+突入，缓和，转折——震撼人心的Re Aoharu，蔚蓝档案的关键曲目之一，最终章主题曲。于日服2周年纪念直播上与最终章预告4thPV一同放出，广受好评。",ok,
+69,,RE Aoharu (Short),RE Aoharu (Short),"面对任何困难、任何事件、任何力量都不会害怕的，即使是重来一次的，与你一起的青春故事。
+突入，缓和，转折——震撼人心的Re Aoharu，蔚蓝档案的关键曲目之一，最终章主题曲。于日服2周年纪念直播上与最终章预告4thPV一同放出，广受好评。
+
+游戏内使用的非发行版曲目，剪辑过的RE Aoharu。",ok,
+70,,RE Aoharu (Title),RE Aoharu (Title),"最终章期间游戏的标题界面用曲，剪辑过的Re Aoharu,以钢琴部分到原曲结尾部分进行循环。",ok,
+71,Theme_60,SAKURA PUNCH Hard Arrange,SAKURA PUNCH Hard Arrange,SAKURA PUNCH的Remix版，对原曲的后部分进行了修改，是常用的战斗及战斗剧情曲目之一。,ok,
+72,Theme_61,Rolling Beat,Rolling Beat,总是和一直在吃明太子味薯片的桃香一起出现的曲目。,ok,
+73,Theme_62,Merry Blue,Merry Blue,虽然并不是圣诞节活动曲，但确实是很有圣诞节气息的一首曲目。,ok,
+74,Theme_63,Blooming moon,Blooming moon,优雅的同时不失可爱与活泼，眼前的少女正用着自己的方式向你展示这古香的景色。,ok,
+75,Theme_64,Pixel Time,Pixel Time,内向怕羞的部长，头脑跳脱的脚本，吐槽役的美术，还有试玩员爱丽丝！千禧年的游戏开发部，今天也在为了向全基沃托斯传达游戏的魅力而进行游戏开发！,ok,
+76,Theme_65,Accelerator,Accelerator,接下来的作战异常艰难，至关重要。老师，她们需要你的指挥。,ok,
+77,Theme_66,Golden Shangri-la,Golden Shangri-la,欢迎来到山海经！多样的美食，古风的街道，悠久的文化……总有一个能让你流连忘返！,ok,
+78,Theme_67,"Someday, sometime","Someday, sometime",此刻的寂静并未令人感到不适，陪伴便已足够。,ok,
+79,Theme_68,Virtual Storm Hard Arrange,Virtual Storm Hard Arrange,Virtual Storm的Remix版，前半部分的旋律稍显克制，更加凸显战斗的紧张感。,ok,
+80,Theme_69,Snow Pantomime,Snow Pantomime,最常用的战斗曲目之一，适用场景多为雪地。,ok,
+81,Theme_70,Black Suit,Black Suit,令人不寒而栗的不详音乐。面对眼前的「人」必须多加谨慎。,ok,
+82,Theme_71,Denshi Toujou!,Denshi Toujou!,"KAITENGER!!! 
+在各个地方追击通缉犯无限回转寿司战队成员时的音乐。",ok,
+83,Theme_72,Kaiten Screw!!!,Kaiten Screw!!!,"这真的不是在拍特摄片吗？
+与无限回转寿司战队及其机甲「KAITEN FX Mk.0」对战时的曲目。",ok,
+84,Theme_73,Interface Hard Arrange,Interface Hard Arrange,Interface的Remix版，更适合塑造危险和阴谋的氛围，是常用的战斗曲目，也是常用的剧情曲目之一。,ok,
+85,Theme_74,Tech N Tech Hard Arrange,Tech N Tech Hard Arrange,Tech N Tech的Remix版，是常见的战斗及战斗剧情曲目之一。,ok,
+86,Theme_75,Alert Hard Arrange,Alert Hard Arrange,Alert的Remix版，是常见的战斗及战斗剧情曲目之一。,ok,
+87,Theme_76,CrossFire Hard Arrange,CrossFire Hard Arrange,Crossfire的Remix版，是常用的战斗及战斗剧情曲目之一。,ok,
+88,Theme_77,Burning Love,Burning Love,携带着快要满溢出来的感情的「灾厄之狐」，全速奔来！,ok,
+89,Theme_78,Fever Time,Fever Time,与通缉犯无限回转寿司战队的5位成员对战的曲目。,ok,
+90,Theme_79,Summer Bounce,Summer Bounce,"为了能让日奈委员长顺利度过一个放松的暑假，风纪委众人进行着手忙脚乱的战斗...... 
+第一年夏活用曲之一，充满夏日气息。",ok,
+91,Theme_80,Colorful Beach,Colorful Beach,"夏天...海边...伙伴...青春，还有坦克！ 
+第一年夏活用曲之一，夏日感和青春感的完美融合。",ok,
+92,Theme_81,Summer Bounce Hard Arrange,Summer Bounce Hard Arrange,"Summer Bounce的Remix版，更加适合融入战斗的紧张感。 
+仅用在夏活关卡中的曲目。",ok,
+93,Theme_82,Hifumi Daisuki,Hifumi Daisuki,地下犯罪组织蒙面泳装团魁首浮士德大人的专用背景音乐......,ok,
+94,Theme_83,PRST Academy,PRST Academy,"充满了红冬学园特殊风格气息的音乐...... 
+ 常见的红冬相关剧情曲目之一。",ok,
+95,Theme_84,PRST Marching,PRST Marching,"又是一首很有红冬味道的行军音乐...... 
+常见的红冬相关战斗及战斗剧情曲目之一。",ok,
+96,Theme_85,Library of Omen (All),Library of Omen (All),"面前的「教义」气势恢宏，将神秘与恐怖同时带给世界—— 
+将恢宏与动感合理融合在一起，是与希罗尼穆斯战斗的曲目的完整版。",ok,
+97,,Library of Omen （8bit）,Library of Omen （8bit）,主教战斗曲的8-Bit版，出现于游戏部小游戏。,ok,
+98,,Library of Omen 02 (Chorus),Library of Omen 02 (Chorus),与希罗尼穆斯战斗的曲目的第二部分，在第二阶段循环。,ok,
+99,,Library of Omen 01 (Verse),Library of Omen 01 (Verse),与希罗尼穆斯战斗的曲目的第一部分，在第一阶段循环。,ok,
+100,Theme_86,Summertime archive,Summertime archive,向人传达夏日海滨的轻松感、惬意感与愉快情绪的夏日曲目。,ok,
+101,Theme_87,Constant Moderato -Piano Arrange-,Constant Moderato -Piano Arrange-,"我们的青春故事，是要由自己来书写的Happy End！ 
+使用于Vol3剧情关键节点的音乐。",ok,
+102,Theme_88,Oriental Drop,Oriental Drop,来和小瞬一起在世外桃源般优美的山海经闲逛吧！,ok,
+103,Theme_89,The Dragon Express,The Dragon Express,同时使用了弦乐与电子合成元素的战斗曲目，常见于与山海经相关的战斗中。,ok,
+104,Theme_91,FEEEEVER TIME,FEEEEVER TIME,"还真是闹出大动静了呢...... 
+日常剧情曲目之一，常用于较为离谱的情景中。",ok,
+105,Theme_92,Crucial Issue,Crucial Issue,"情况急转直下，危机悄然来临。 
+渲染紧张感时常用的剧情曲目之一。",ok,
+106,Theme_93,Formless Dream,Formless Dream,气氛神秘而诡异的常用剧情音乐，阴谋正徐徐展开。,ok,
+107,Theme_94,Bunny Bunny Carrot Carrot,Bunny Bunny Carrot Carrot,"活动「船上的兔女郎」使用曲目，包含了熟悉的人声采样，吵吵闹闹的仿佛有用不完的活力。
+
+1.游戏内界面：
+ - 活动「船上的兔女郎」：活动大厅、活动商店
+
+2.回忆大厅：
+ - 花凛（兔女郎）
+ - 明日奈（兔女郎）
+
+3.活动剧情：
+ - 船上的兔女郎 7、9、11
+
+4.个人剧情：
+ - 妮禄（兔女郎） 3
+ - 花凛（兔女郎） 1
+ - 明日奈（兔女郎） 1、4
+ - 茜（兔女郎） 1
+
+5.社团剧情：
+ - C&C 3",ok,
+108,Theme_95,Jackpot 777,Jackpot 777,活动「船上的兔女郎」战斗使用曲目，豪华的邮轮赌场上的音乐，容易让人想起表情嚣张的小雪。,ok,
+109,Theme_96,OperationD,OperationD,活动特殊作战「神名十文字」篇使用曲目，科技感强烈的电音。,ok,
+110,Theme_97,Blue New Year!,Blue New Year!,活动「新春狂想曲 第68番」使用曲目，喜气洋洋新年风格的电音，让人沉浸在新春的喜庆氛围里。,ok,
+111,Theme_98,Oxygen Destroyer,Oxygen Destroyer,总力战佩洛洛斯拉使用曲目，在总力战战斗过程中循环播放，曲名“氧气毁灭者”出自哥斯拉系列中的一种强大武器，足以杀死怪兽之王——哥斯拉。在激烈的快节奏鼓点、警报声中面对神秘的巨大怪兽，守护基沃托斯的城市。,ok,
+112,Theme_99,nesno wons,nesno wons,活动「227号温泉乡的运营记录」使用曲目，非常悠闲惬意，在温泉乡里休息一下吧。,ok,
+113,Theme_100,Undefined Behavior,Undefined Behavior,总力战HOD使用曲目，在HOD总力战过程中循环播放。与前身为千禧科学学院通信单元AI的预言者战斗，相当有科技感与hardcore风格。,ok,
+114,Theme_101,NRG FielD,NRG FielD,常见战斗曲目之一。,ok,
+115,Theme_102,GIVE ME CHOCO♡,GIVE ME CHOCO♡,活动「夏莱的快乐情人节巡逻」使用曲目，使用了类似于汽车鸣笛声的采样音，契合了基沃托斯情人节欢快的警察故事。,ok,
+116,Theme_103,Poppin' Memories,Poppin' Memories,非常欢快、跳脱的音乐，非常适合与活力四射的学生们一起度过的回忆。,ok,
+117,Theme_104,Cotton Candy Island,Cotton Candy Island,平稳的主旋律中，不断地回荡着电钢琴的旋律。正是在这样的日常里，大家都拥有属于自己的小小的、令人欣喜的幸福。,ok,
+118,Theme_105,Alkaline Tears,Alkaline Tears,背景中连绵不断地下着雨，让过去的悲痛与伤痕追上现在的、充满悲伤气息的乐曲。常用于角色坦白自己的悲伤、过错的场景，亦或者只是在单纯地展现自己的心声时使用。,ok,
+119,Theme_106,Blue New Battle,Blue New Battle,活动「新春狂想曲 第68番」战斗用曲，非常有活力的新年风格乐曲，新的一年，也与学生们在基沃托斯四处奔波着解决麻烦。,ok,
+120,Theme_107,NERINERI CHALLENGE,NERINERI CHALLENGE,活动「基沃托斯大运动会 晄轮大祭 Get Set，Go！」战斗使用曲目，同时是火力演习大使用曲目，充满活力、热情四射的一首歌，也是富有运动会特征的歌。,ok,
+121,Theme_108,Starting Pistol,Starting Pistol,活动「ON YOUR MARK @ MILLENNIUM」战斗使用曲目，同时也是火力演习使用曲目，使用了大量哨声采样与喝彩声，基沃托斯最热闹的大运动会蓄势待发。,ok,
+122,Theme_109,Dolce Biblioteca,Dolce Biblioteca,"属于图书馆和修女会的音乐。""Dolce Biblioteca""为意大利语的“甜蜜的图书馆”。尽管带有图书馆一词，这首歌却并不静谧平缓，而是有着相当活泼而有动感的节奏与风格，节拍就如同少女加速的心跳一般敲击着心房，令人心动。",ok,
+123,Theme_110,Codex of Omen,Codex of Omen,Vol3贝阿朵莉切战使用曲目，不属于这个世界的恐怖降临到了这个世界上。,ok,
+124,Theme_113,Usagi Flap,Usagi Flap,Rabbit小队代表曲，使用了Rabbit小队最具代表性的人声采样，最适合即使在公园长期露宿也总是有着用不完的活力的小兔子们的歌曲。,ok,
+125,Theme_114,Unwelcome Guest,Unwelcome Guest,Vol4使用曲目，常用于基沃托斯某神秘组织「所确幸」的出场环节中。,ok,
+126,,Unwelcome Guest 8-Bit Arrange,Unwelcome Guest 8-Bit Arrange,Unwelcome  Guest的8bit重排版本。,ok,
+127,Theme_115,Fall into the rabbit hole,Fall into the rabbit hole,Vol4使用曲目，紧张的特种作战进行中。Rabbit小队，也是会捕食的。,ok,
+128,Theme_116,IROHANI HOP,IROHANI HOP,主要用于活动「不忍之心」战斗的曲目，歌曲中使用了很多枪械声采样与和风乐器，作为百鬼夜行的忍者们与来自万魔殿的坦克的行进曲。,ok,
+129,Theme_117,KARAKURhythm,KARAKURhythm,活动「不忍之心」使用曲目，主要使用人声采样构建主要旋律，动感强烈，吸引着人参与到百鬼夜行（有大量格黑娜学生参加的）的旅游活动中。,ok,
+130,Theme_118,Agnus Dei,Agnus Dei,常用战斗曲，反复敲响的钟声似乎在为谁的逝去而鸣，令人害怕战场的前方究竟隐藏着什么危机。Agnus Dei是拉丁语中的“神的羔羊”，一般用于指代耶稣基督。,ok,
+131,Theme_119,Blood Stained Faith,Blood Stained Faith,贝阿朵莉切战使用曲目，染血的信仰。电子风格浓厚，带有人声咏唱和声，令人置身于与外来崇高存在的战斗之中，热血沸腾。,ok,
+132,Theme_120,DIVE INTO SUMMER,DIVE INTO SUMMER,活动「阿比多斯度假胜地复兴对策委员会」使用曲目，主要使用人声采样来构建旋律，这种喧闹感也是阿比多斯对策委员会的学生们暑期所拥有的主旋律。,ok,
+133,Theme_121,Na Na Natsu!,Na Na Natsu!,联合作战「若藻（泳装）」使用曲目，同时也是总力战「气垫船」使用曲目，在总力战过程中循环播放。这是按照夏日度假的风格所做的战斗用曲，在海边度假的日子里，也要守护好我们的度假地。,ok,
+134,Theme_122,Underwater Jungle,Underwater Jungle,战斗用曲，也意味着事件发展也急转直下，死死地抓住了每个人的心弦，情况正在彻底失控。,ok,
+135,Theme_123,Luxury Cool,Luxury Cool,战斗用曲，但却有着不紧不慢的节奏，更像是来轻松地度假了。不过度假也不能忘记维护我们的美好日常。,ok,
+136,Theme_124,TOMODACHI Summer,TOMODACHI Summer,活动「出差！百夜堂海之家FC计划」使用曲目，夏日感强烈，令人回忆起与朋友们在暑期假日、海边充满活力的假期时光。,ok,
+137,Theme_125,Kaphar,Kaphar,kaphar，希伯来语中意为“赎罪”、“弥补”。这是“困于牢笼中的公主”一节所使用的曲目，为未花在监狱里做礼拜时听的赞美歌。其旋律与垂怜经Kyrie Eleison相同。,ok,
+138,,Kaphar (Blank),Kaphar (Blank),kaphar，希伯来语中意为“赎罪”、“弥补”。这是“困于牢笼中的公主”一节所使用的曲目的较短版本，为未花在监狱里做礼拜时听的赞美歌。其旋律与垂怜经Kyrie Eleison相同。,ok,
+139,Theme_127,Wave & Conquer,Wave & Conquer,活动「出差！百夜堂海之家FC计划」占领战使用曲目，让人仿佛置身于夏日度假胜地般的欢快夏日曲风。,ok,
+140,Theme_128,After School Dessert,After School Dessert,活动「放学后甜点故事 甜香的秘密和枪战」使用曲目，放学后甜点部的代表曲目，欢快而脱线的曲风，为活动定下了基调——活力四射的学生们把事情搅得天翻地覆。,ok,
+141,Theme_129,Let me think about it,Let me think about it,剧情常用曲，科技感强烈，也许作战会议正在进行中。,ok,
+142,Theme_130,Foolish Days,Foolish Days,剧情常用曲，旋律平稳，很适合处理日常的小插曲，不过很有可能是你不乐意见到的小插曲。,ok,
+143,Theme_131,Shooting Athletes,Shooting Athletes,活动「ON YOUR MARK @ MILLENNIUM」使用曲目，描绘了运动会开幕前夕，大家紧锣密鼓地为运动会筹备事宜的、团结一致的景象。,ok,
+144,Theme_132,Raise the Huddle,Raise the Huddle,运动会战斗用曲，使用了非常有特点的哨声采样，鼓点强劲，蓄势待发，冲上赛道！,ok,
+145,Theme_133,Goal Wo Nerae!,Goal Wo Nerae!,活动「基沃托斯大运动会 晄轮大祭 Get Set，Go！」使用曲目，青春洋溢的风格，果然还是得有运动、竞技、友情！,ok,
+146,Theme_134,Gestalt Angst,Gestalt Angst,神秘、诡异、幽森、恐怖，此处隐藏什么不可告人的巨大秘密，越是接近真相，越可能陷入疯狂。,ok,
+147,Theme_135,Fruitful Blossom,Fruitful Blossom,Lo-Fi风格的音乐，温柔的风格似乎能感化人心，很适合双方互相袒露自己的心声。,ok,
+148,Theme_136,Kyrie Eleison,Kyrie Eleison,Vol3.4使用曲目，未花所唱的垂怜经的无人声版，是礼拜时，向主承认自己的错误、祈求主的的原谅的诗歌。,ok,
+149,,Kyrie Eleison (Short),Kyrie Eleison (Short),Vol3.4使用曲目，未花所唱的垂怜经的无人声版，是礼拜时，向主承认自己的错误、祈求主的的原谅的诗歌。,ok,
+150,Theme_137,Theme_137,Theme_137,科技感强烈的歌曲，很适合高科技设备的登场。,ok,
+151,Theme_138,Utaha No Uta,Utaha No Uta,日本演歌风格的乐曲，似乎深受某些兴趣比较独特的学生们的喜爱。,ok,
+152,Theme_139,Cherry Berry Merry,Cherry Berry Merry,活动「圣堂的圣诞快乐~救护骑士团的赠礼~」使用曲目，在基沃托斯的圣诞节，大家也要和平相处，快快乐乐地度过平安夜。,ok,
+153,Theme_140,Defective Pixel,Defective Pixel,Vol2使用曲，Pixel Time的变奏，像是坏掉的八音盒一般，反复重复着过去美好的回忆。成为勇者的愿望，平稳快乐的日常，似乎就这样从脚下开始崩坏。,ok,
+154,Theme_141,Tasty New Year,Tasty New Year,活动「正餐前的开胃年菜 ~ 一局定输赢 ～」使用曲目，平缓而清晰的节奏音，祈祷新的一年也能平稳地度过。,ok,
+155,Theme_142,Encroached sky,Encroached sky,最终章使用曲目，相当hardstyle的乐曲，警报大作，全员戒备。,ok,
+156,,Encroached sky (Short),Encroached sky (Short),bgm出现于终章最终章使用曲目，相当hardstyle的乐曲，警报大作，全员戒备。,ok,
+157,Theme_143,!؟ WAS IT A CAT I SAW !?,!؟ WAS IT A CAT I SAW !?,总力战Goz使用曲目，在总力战Goz战斗时循环播放。,ok,
+158,Theme_148,Polyphonic,Polyphonic,活动 虚妄的神圣之塔攻略战使用曲目，电子风格浓厚，所有学生团结起来面对敌人的（也许并不紧张的）战斗开始了。,ok,
+159,Theme_151,Kaiten Hurricane!!!,Kaiten  Hurricane!!!,Kaiten Screw!!!的变奏，用于超巨大寿司机器人KAITEN FX Mk.∞与佩洛洛斯拉（色彩）的战斗中，超巨大机器人才是真正的浪漫！,ok,
+160,,Kaiten Hurricane!!! (Short),Kaiten  Hurricane!!! (Short),Kaiten Screw!!!的变奏，用于超巨大寿司机器人KAITEN FX Mk.∞与佩洛洛斯拉（色彩）的战斗中，超巨大机器人才是真正的浪漫！,ok,
+161,,Kaiten Hurricane!!! (Very Short),Kaiten  Hurricane!!! (Very Short),Kaiten Screw!!!的变奏，用于超巨大寿司机器人KAITEN FX Mk.∞与佩洛洛斯拉（色彩）的战斗中，超巨大机器人才是真正的浪漫！,ok,
+162,Theme_159,Operation☆DOTABATA,Operation☆DOTABATA,活动 白色的预告信 使用曲目，女仆勇者和兔女郎特工大战怪盗的场景映入眼帘。,ok,
+163,Theme_160,Noble Hallway,Noble Hallway,战斗用曲，宅邸里有怪盗，请小心谨慎。,ok,
+164,Theme_161,Oriental Bounce,Oriental Bounce,活动龙武同舟使用曲目，包含了中国乐器要素，富有活力，热闹非凡。,ok,
+165,Theme_162,Welcome School,Welcome School,Unwelcome School的变奏。作为蔚蓝档案最具代表性的曲目之一，在合适的时候响起这首温柔的变奏，令人回忆起一切故事的起点。,ok,
+166,Theme_172,Rendezvous Recorder ver,Rendezvous Recorder ver,南练习竖笛的片段，宛如天籁，仿佛世界的喧嚣都被这音乐所吞噬，每一个音符都像是从天堂飘落下来的羽毛，轻轻地触碰路人们的心灵，这段旋律如同山间清晨的溪流，清脆悠扬，让人心旷神怡。就好像一位大师级的画家，每一个音符都被精心描绘，每一段旋律都被巧妙编织，如同一首美妙的诗，让人沉醉其中，无法自拔。,ok,
+167,,私たちのクエスト(Instrumental Ver),私たちのクエスト(Instrumental Ver),游戏部第二章主题曲的无人声版，游戏部的故事才刚刚开始，还将继续编织下去。,ok,
+168,,AMB_Helicopter,AMB_Helicopter,直升机音效,ok,
+169,BGM_Mikumikuni,みくみくにしてあげる♪【してやんよ】,みくみくにしてあげる♪【してやんよ】,"初音未来联动活动游戏内音游用曲之一。
+n站原曲：https://www.nicovideo.jp/watch/sm1097445",ok,
+170,BGM_TellYourWorld_Short,Tell Your World (Short),Tell Your World (Short),"初音未来联动活动游戏内音游用曲之一。
+youtube原曲：https://www.youtube.com/watch?v=PqJNc9KVIZE",ok,
+171,BGM_TenchikaibyakuShinwa_Short,初音天地開闢神話,初音天地開闢神話,"初音未来联动活动游戏内音游用曲之一。
+n站原曲：https://www.nicovideo.jp/watch/sm39209934",ok,
+172,,Blue New World (Short Instrumental),Blue New World (Short Instrumental),初音未来联动活动用曲无人声版。,ok,
+173,,Blue New World (Short),Blue New World (Short),初音未来联动活动用曲，人气虚拟歌姬在基沃托斯的献唱。,ok,
+174,,Clear Morning (Short),Clear Morning (Short),日服开服宣传用曲，在一个清爽的早晨，开始我们的青春故事。欢迎来到基沃托斯，老师。,ok,
+175,Theme_149,Ark in the Blood Sky,Ark in the Blood Sky,活动「阿特拉·哈西斯方舟占领战」使用曲目，在漂浮在血红色天空上的方舟里，为了拯救基沃托斯，也是探明方舟的真相的作战正在进行中。,ok,
+176,Theme_150,System All Green,System All Green,乌塔那匹兹姆的大船起飞的音乐，排除万难，穿过云雾，抵达天际，朝着目标出发。,ok,
+177,Theme_156,Final Destination of Ark,Final Destination of Ark,很适合最终BOSS、幕后黑手登场的音乐，有某种崇高的存在降临，令所有人震颤。,ok,
+178,Theme_157,Step of Terror,Step of Terror,紧张压抑的决战用曲，直面恐怖的战斗即将开始。,ok,
+179,Theme_171,Rendezvous,Rendezvous,会令人回忆起上世纪港台歌曲的曲风，给人飒爽帅气的感觉。,ok,
+180,Theme_152,Aoharu (Band Arrange),Aoharu (Band Arrange),Aoharu的band arrange版，熟悉的旋律，但是昭示着旧的告一段落，与新的开始。,ok,
+181,Theme_155,Responsibility,Responsibility,让人回忆起责任之象征的歌曲，沉重、无法摆脱、又有种平稳的安心感。,ok,
+195,,LA LA RUN!,LA LA RUN!,"晄轮大祭广播剧附赠曲，日奈、芹娜、濑名所唱的歌曲，描绘了运动会上、来自不同学校的、青春洋溢的学生们互帮互助的场景。
+
+> 晄輪大祭の合同医療本部で出会った、ヒナ(CV:広橋涼)、セナ(CV:大西沙織)、セリナ(CV:涼本あきほ)の3人が歌う「LA LA RUN!」を収録！
+> https://nex-tone.link/A00111575
+
+作曲：Nor
+作词：YUC'e",ok,
+196,,LA LA RUN! (Instrumental Ver.),LA LA RUN! (Instrumental Ver.),"晄轮大祭广播剧附赠曲的无人声版，日奈、芹娜、濑名所唱的歌曲，描绘了运动会上、来自不同学校的、青春洋溢的学生们互帮互助的场景。
+
+> 晄輪大祭の合同医療本部で出会った、ヒナ(CV:広橋涼)、セナ(CV:大西沙織)、セリナ(CV:涼本あきほ)の3人が歌う「LA LA RUN!」を収録！
+> https://nex-tone.link/A00111575
+
+作曲：Nor
+作词：YUC'e",ok,
+197,,Thanks to (EN Ver),Thanks to (EN Ver),"国际服1.5周年贺曲英文版，感谢老师们一直以来的支持，才有了学生们快乐健康成长的每一天，才有了今天的Blue Archive。
+
+暂未发布专辑或上线流媒体平台，只能在国际服官方youtube账号上查看。",ok,
+198,,Thanks to (KR Ver),Thanks to (KR Ver),"国际服1.5周年贺曲英文版，感谢老师们一直以来的支持，才有了学生们快乐健康成长的每一天，才有了今天的Blue Archive。
+
+暂未发布专辑或上线流媒体平台，只能在国际服官方youtube账号上查看。",ok,
+199,,かがやきサマーデイズ,かがやきサマーデイズ,阿比多斯对策委员会演唱的夏日活动主题曲，闪闪发光的summer days开始了！,ok,
+200,,かがやきサマーデイズ （Instrumental Ver）,かがやきサマーデイズ （Instrumental Ver）,阿比多斯对策委员会演唱的夏日活动主题曲的伴奏，闪闪发光的summer days开始了！,ok,
+201,,キラメクMiLieへ （Instrumental Ver）,キラメクMiLieへ （Instrumental Ver）,"愚人节短片用曲的伴奏。优香、阿露、爱丽丝、日富美成为偶像，为老师献上的歌曲。
+
+作词：夕野ヨシミ(IOSYS)
+作曲：KOJI oba",ok,
+202,,キラメクMiLieへ,キラメクMiLieへ,"愚人节短片用曲。优香、阿露、爱丽丝、日富美成为偶像，为老师献上的歌曲。
+
+作词：夕野ヨシミ(IOSYS)
+作曲：KOJI oba",ok,
+203,,Memories of Kindness / 優しさの記憶,Memories of Kindness / 優しさの記憶,"最终章ED。伴随着温柔的歌声，星光落地，夜空迎来日出，基沃托斯回归了和平。
+
+演唱：鹿乃
+作词：夕野ヨシミ(IOSYS)
+作曲：Mitsukiyo",ok,
+204,,One. Two. Henshin!,One. Two. Henshin!,"激昂、阳光的乐曲，就像踏上了探索大陆、打败魔王的征程。 
+ 
+该曲未曾使用。",ok,
+205,,Target for love (KR Full ver),Target for love (KR Full ver),"国际服主题曲的韩文版，In the story of us so marvelous.
+欢迎来到基沃托斯，老师！
+
+演唱：이진아/Lee Jin-ah、Mitsukiyo、DANI
+作词：DANI
+作曲：이진아/Lee Jin-ah、Mitsukiyo",ok,
+206,,Target for love (EN Full ver),Target for love (EN Full ver),"国际服主题曲的英文版，In the story of us so marvelous.
+欢迎来到基沃托斯，老师！
+
+演唱：이진아/Lee Jin Ah
+作曲：이진아/Lee Jin Ah、Mitsukiyo
+作词：DANI、HARU",ok,
+207,,Robogrex,Robogrex,充满了活泼与夏日风格的乐曲，学生们都很热闹的样子。,ok,
+208,,Bluearchive Fanfare,Bluearchive Fanfare,短短15秒的小曲，适合作为运动会等活动的开幕配乐。,ok,
+209,,Dayscape,Dayscape,平淡而有少女感的日常曲，领人走入平静美好的日常。,ok,
+210,,Spooky Spice,Spooky Spice,无厘头的小曲，是谁闯祸了呢？,ok,
+211,,Complementary Contrast,Complementary Contrast,日常的小插曲，也许发生了偶遇，也许只是在做些生活琐事。,ok,
+212,,Perorodzilla Requiem,Perorodzilla Requiem,压抑而优雅，适合黑幕的宏大计划展开的乐曲。,ok,
+213,,Crisis Point,Crisis Point,压抑的乐曲，让人感到可怖的灾难的降临。,ok,
+214,,Fastest Spark,Fastest Spark,超快速的节奏鼓点，适合逐渐紧张起来的战斗与逆转时刻的乐曲。,ok,
+215,,Nobis,Nobis,充满希望的乐曲，似有美好的花田在眼前盛开，那一定是美好的Happy Ending。,ok,
+216,,Pixel Land,Pixel Land,8bit风的小曲，让人联想到意外与死线交织的游戏部的日常。,ok,
+217,Theme_163,Trigger For Ambition,Trigger For Ambition,曲风压抑的战斗曲，前有苦战，咬紧牙关吧。,ok,
+218,Theme_164,Kitsunebi,Kitsunebi,混乱与危机中的战斗用曲，让人心跳加速，也让人斗志昂扬。,ok,
+219,Theme_154,Our New Story,Our New Story,登陆界面用曲，也是PV4.5用曲的完整版，快速的节奏、激扬的曲风，为接下来不平稳的日常，拉开序幕。,ok,
+220,Theme_165,Up to 21°C,Up to 21°C,活动「夏天的特殊作战！RABBIT小队与「虾」的失踪之谜！」使用曲目，使用了兔子小队的常用采样，似能听到兔子小队在海边嬉闹。,ok,
+221,Theme_170,Container Corner,Container Corner,bgm出现于兔子夏活激烈的鼓点与轻快的旋律，一场小小的火并冲突正在进行。,ok,
+222,,Gregorius I Symphony (Verse),Gregorius I Symphony (Verse),总力战格里高利使用曲目第二部分，在战斗内循环播放，转阶段切换。,ok,
+223,,Gregorius I Symphony (Intro),Gregorius I Symphony (Intro),总力战格里高利使用曲目第一部分，在战斗内循环播放。,ok,
+224,,Gregorius I Symphony (Chorus),Gregorius I Symphony (Chorus),总力战格里高利使用曲目第三部分，在战斗内循环播放，转阶段切换。,ok,
+225,Theme_158,Gregorius I Symphony,Gregorius I Symphony,格里高利总力战战斗曲目的完整版，在战斗内循环播放。,ok,
+226,,EN0005_Skill_04,EN0005_Skill_04,格里高利总力战使用曲目，是在格里高利使用技能「万人的救赎」时播放的Finale。,ok,
+227,,EN0005_Skill_03,EN0005_Skill_03,格里高利总力战使用曲目，是在格里高利使用技能「圣者之絮语」时播放的音乐。,ok,
+228,,EN0005_Skill_02,EN0005_Skill_02,格里高利总力战使用曲目，是在格里高利使用技能「严肃的悔悟」时播放的音乐。,ok,
+229,,EN0005_Skill_01,EN0005_Skill_01,格里高利总力战使用曲目，是在格里高利使用技能「格里高利圣歌」时播放的音乐。,ok,
+230,Theme_168,Hunter Bible,Hunter Bible,战斗用曲，有战斗的刺激与夏日的欢快，但是似乎并不算紧张。,ok,
+231,Theme_173,Takaramonogatari,Takaramonogatari,宝物語！活动「寻找隐藏的遗产」使用曲目，孤岛密林中度过的夏日假期。,ok,
+232,Theme_167,Hidden Treasure,Hidden Treasure,活动「Trip-Trap-Train」使用曲目，多方好戏拉开序幕。,ok,
+233,Theme_174,Tok9 Train,Tok9 Train,战斗用曲，渐入佳境，手痒难耐。,ok,
+234,Theme_191,F1ghtback,F1ghtback,很适合反派登场的BGM，至少暂时是反派。,ok,
+235,Theme_192,Chilling Out,Chilling Out,日常用曲，风和日丽，静谧而美好。,ok,
+236,Theme_169,OTKPARA!,OTKPARA!,"活动学漫同人物語使用曲目，朋友间吵吵闹闹而平稳的日常。
+
+该曲在社区中似乎有一首名为“Don't Let It End - Mistsukiyo”的误传版本，实际上与本曲是同一首BGM，具体渊源和细节暂时不明。",ok,
+237,,ボイスドラマ Vol.1 「アロナのお掃除大作戦!」,ボイスドラマ Vol.1 「アロナのお掃除大作戦!」,"什亭之匣的常驻OS超级阿罗娜有努力地打扫房间哦！
+ 
+作词：夕野ヨシミ（IOSYS）
+作曲：ミツキヨ
+演唱：阿罗娜（CV.小原好美）
+![57eD88pwTADIIfakxTH2hCvx70cbMCR1.png](files/3/57eD88pwTADIIfakxTH2hCvx70cbMCR1.png)",ok,
+238,,エブリディいっしょ♪(Instrumental Ver）,エブリディいっしょ♪(Instrumental Ver）,"エブリディいっしょ♪的配乐。
+作词：夕野ヨシミ（IOSYS）
+作曲：ミツキヨ
+演唱：阿罗娜（CV.小原好美）
+![57eD88pwTADIIfakxTH2hCvx70cbMCR1.png](files/3/57eD88pwTADIIfakxTH2hCvx70cbMCR1.png)",ok,
+239,,エブリディいっしょ♪,エブリディいっしょ♪,"每天都要一起♪ 听可爱的阿罗娜唱歌~
+作词：夕野ヨシミ（IOSYS）
+作曲：ミツキヨ
+演唱：阿罗娜（CV.小原好美）
+![57eD88pwTADIIfakxTH2hCvx70cbMCR1.png](files/3/57eD88pwTADIIfakxTH2hCvx70cbMCR1.png)",ok,
+240,Theme_136,Kyrie Eleison (Song),Kyrie Eleison (Song),"Vol3.4使用曲目，未花所唱的垂怜经，全曲共2句歌词：Kyrie eleison, Christe eleison。是礼拜时，向主承认自己的错误、祈求主的的原谅的诗歌。",ok,
+241,Theme_175,HIGH-VELOCITY,HIGH-VELOCITY,超电磁炮联动使用曲目，跳戏到了隔壁fripSide的风格。,ok,
+242,Theme_194,Ridiculous,Ridiculous,充满了脱线风格的BGM，看来发生了些意料外的事情。,ok,
+243,Theme_176,Illuminated Night,Illuminated Night,Vol.5使用曲目，在欢快的节奏中有着日常感。,ok,
+244,Theme_178,Tsukikage,Tsukikage,Vol.5使用曲目，以和风乐器编织了主要旋律，紧张而有神秘感。,ok,
+245,Theme_195,Nichirin,Nichirin,Vol.5使用曲目，节奏明快，跃动感强，仿佛能看到学生们活跃的身影。,ok,
+246,Theme_145,Hinagesi,Hinagesi,Vol.5使用曲目，齐心协力之下事情终于迎来了开心的结局，大家又能回到庆典之中。,ok,
+247,Theme_177,Illuminated Night Hard Arrange,Illuminated Night Hard Arrange,Vol.5使用曲目，和风乐曲与人声吟唱渲染的危机妖怪四伏的情景，但似乎希望尚存。,ok,
+248,Theme_181,Dark Shadows,Dark Shadows,总力战猫鬼クロカゲ与Vol.5使用曲目。,ok,
+249,,Dark Shadows (Chorus),Dark Shadows (Chorus),总力战猫鬼クロカゲ二阶段使用曲目，在战斗的第二阶段内循环播放。,ok,
+250,,Dark Shadows (Verse),Dark Shadows (Verse),总力战猫鬼クロカゲ一阶段使用曲目，在战斗的第一阶段内循环播放。,ok,
+251,Theme_190,Dancing Falsehood,Dancing Falsehood,Vol.5 使用曲目，悲壮而美丽，似有人在此袒露自己的心声。,ok,
+252,Theme_193,Starry Confession,Starry Confession,Vol.5 使用曲目，雨过终能遇彩虹，跨过困难定能迎来美好的结局。,ok,
+253,Theme_196,Getsurin,Getsurin,Vol.5 使用曲目，以和风乐器为主，风格舒缓，留下美好的回忆。,ok,
+254,Theme_182,PACHAD,PACHAD,特殊作战「神名十文字」篇使用曲目，用于与盖布拉的战斗中。,ok,
+255,,Get Over the World,Get Over the World,"Veritas《千寻(CV:山村響)、小玉(CV:高川みな)、晴(CV:貝原怜奈)、真纪(CV:三上枝織)》
+
+[https://nex-tone.link/A00133244](https://nex-tone.link/A00133244)
+
+
+> 专辑「青春あんさんぶる Vol.2 『ヴェリタス』」
+ヴェリタス《チヒロ(CV:山村響)、コタマ(CV:高川みな)、ハレ(CV:貝原怜奈)、マキ(CV:三上枝織)》",ok,
+256,,Get Over the World(Instrumental Ver.),Get Over the World(Instrumental Ver.),"纯伴奏版
+
+[https://nex-tone.link/A00133244](https://nex-tone.link/A00133244)
+
+Veritas《千寻(CV:山村響)、小玉(CV:高川みな)、晴(CV:貝原怜奈)、真纪(CV:三上枝織)》
+
+
+> 专辑「青春あんさんぶる Vol.2 『ヴェリタス』」
+ヴェリタス《チヒロ(CV:山村響)、コタマ(CV:高川みな)、ハレ(CV:貝原怜奈)、マキ(CV:三上枝織)》",ok,
+257,,ボイスドラマ Vol.2 「Rest & Panic」（广播剧）,ボイスドラマ Vol.2 「Rest & Panic」（广播剧）,"广播剧
+
+[https://nex-tone.link/A00133244](https://nex-tone.link/A00133244)
+
+
+Veritas《千寻(CV:山村響)、小玉(CV:高川みな)、晴(CV:貝原怜奈)、真纪(CV:三上枝織)》
+
+
+> 专辑「青春あんさんぶる Vol.2 『ヴェリタス』」
+ヴェリタス《チヒロ(CV:山村響)、コタマ(CV:高川みな)、ハレ(CV:貝原怜奈)、マキ(CV:三上枝織)》",ok,
+258,Theme_183,Indoor Outdoor,Indoor Outdoor,"这是一段关于一众死宅被赶到露营区度过新年的愉快故事。 
+ 活动「（电脑）新春进行曲」标题曲，目前仅用于该活动剧情及战斗中。",ok,
+259,Theme_186,Starry Night,Starry Night,充满温馨日常感的较短的音乐，首次出现于活动（电脑）新春进行曲中。,ok,
+260,,澄んだ青空、萌ゆる心,澄んだ青空、萌ゆる心,"カスミ(CV.上坂すみれ)、ユカリ(CV.村上まなつ)、モミジ (CV.大亀あすか)、ハレ(CV.貝原玲奈)、エイミ（ CV.松永あかね）
+
+[https://www.youtube.com/watch?v=LaAm_uweyXY](https://www.youtube.com/watch?v=LaAm_uweyXY)
+
+Yostarより好評配信中のアプリゲーム「ブルーアーカイブ」のカスミ(CV.上坂すみれ)、ユカリ(CV.村上まなつ)、モミジ (CV.大亀あすか)、ハレ(CV.貝原玲奈)、エイミ（ CV.松永あかね）が歌った、「ブルーアーカイブ」の未来に繋がる記念楽曲です。
+
+3周年目のブルアカは、澄んだ明日を目指します！",ok,
+261,,可爱补习法-中文版,可爱补习法-中文版,"《蔚蓝档案》半周年主题曲【可爱补习法】
+
+作曲：依溪禾
+编曲&混音：Zris & iKz-茶壶 (from Signal-E)
+吉他录制：绛舞乱丸
+中文作词：纪远 中文演唱：泠鸢yousa
+日文作词：煤奈、Makan 日文演唱：青木阳菜
+后期：白茶_joe
+母带：Digifan
+配唱：量子猫EH、凜凜蝶凜
+和声：Ciyo
+音乐监督：CARDINAL星海 & 一只岁碎
+
+补习补习~（Fighting!!）~可爱补习~（Fighting!!）~
+每天都想~和你在一起~（Shining!! Shining!!）~",ok,
+262,,可爱补习法-日文版,可爱补习法-日文版,"《蔚蓝档案》半周年主题曲【可爱补习法】
+
+作曲：依溪禾
+编曲&混音：Zris & iKz-茶壶 (from Signal-E)
+吉他录制：绛舞乱丸
+中文作词：纪远 中文演唱：泠鸢yousa
+日文作词：煤奈、Makan 日文演唱：青木阳菜
+后期：白茶_joe
+母带：Digifan
+配唱：量子猫EH、凜凜蝶凜
+和声：Ciyo
+音乐监督：CARDINAL星海 & 一只岁碎
+
+补习补习~（Fighting!!）~可爱补习~（Fighting!!）~
+每天都想~和你在一起~（Shining!! Shining!!）~",ok,
+263,,全力絶対Come☆True,全力絶対Come☆True,,empty,
+264,,全力絶対Come☆True(Short Ver.),全力絶対Come☆True(Short Ver.),,empty,
+265,,全力絶対Come☆True(Instrumental Ver.),全力絶対Come☆True(Instrumental Ver.),,empty,
+266,Theme_179,夢路の花 (Game Ver.),夢路の花 (Game Ver.),空崎日奈在格赫娜晚会上所弹唱的歌曲，是为格赫娜全校，为老师，所献上的歌曲。,ok,
+267,Theme_179_Inst,游戏内曲目 | Theme_179_Inst | 3周年活动剧情「向阳绽放 少女们的小夜曲」,Theme_179_Inst,,empty,
+268,Theme_179_Inst2,游戏内曲目 | Theme_179_Inst2 | 3周年活动剧情「向阳绽放 少女们的小夜曲」,Theme_179_Inst2,,empty,
+269,Theme_179_Short,游戏内曲目 | Theme_179_Short | 3周年活动剧情「向阳绽放 少女们的小夜曲」,Theme_179_Short,,empty,
+270,Theme_179_Short_Inst,游戏内曲目 | Theme_179_Short_Inst | 3周年活动,Theme_179_Short_Inst,,empty,
+271,Theme_199,Yumeji Party,Yumeji Party,舒缓而带有一点高雅的曲调，迎接即将到来的格赫娜庆典。,ok,
+272,Theme_201,Serene Scenario,Serene Scenario,学生们每天普通（？）而不平淡的青春日常，正在上演。开始新的一天吧！,ok,
+273,Theme_208,Shoujo Delight,Shoujo Delight,代表星野美好记忆的乐曲，每天都活力满满，每天都会留下珍贵的回忆。,ok,
+274,Theme_187,Action 68,Action 68,快节奏而有爵士风格的歌曲，令人想起经典影视作品里的特工们。特工代号0068能否完成这次的委托呢？,ok,
+275,Theme_198,It Takes Two To Tiramisu,It Takes Two To Tiramisu,"好像是一首很老的……电影的开场曲，有着很雅的品味。
+但一想到主角是阿露就不免开始担忧。",ok,
+276,,夢路の花,夢路の花,空崎日奈在格黑娜晚会上所弹唱的歌曲，是为格黑娜全校，为老师，所献上的歌曲。,ok,
+277,,夢路の花(Instrumental Ver),夢路の花(Instrumental Ver),空崎日奈在格黑娜晚会上所弹唱的歌曲的无人声版，是为格黑娜全校，为老师，所献上的歌曲。,ok,
+278,,一日一惡★レッツゴー！,一日一惡★レッツゴー！,,empty,
+279,,一日一惡★レッツゴー！(Instrumental Ver.),一日一惡★レッツゴー！(Instrumental Ver.),,empty,
+280,,有声剧 Vol.3 「便利屋の夜はこれからよ！」,有声剧 Vol.3 「便利屋の夜はこれからよ！」,,empty,
+281,,Blue Canvas,Blue Canvas,Claris演唱的《蔚蓝档案》简中服开服曲。让我们一起描画吧，画出那无比美丽的Blue Canvas。,ok,
+282,,青空Magic Day - 中文版,青空Magic Day - 中文版,"Sakula小舞演唱的国服半周年电音节主题曲。
+感谢老师们的半年来的陪伴。
+不管怎样的困境，奇迹与梦都一定会实现；让我们一起飞向，这青空的彼方。",ok,
+283,,青空Magic Day - 日文版,青空Magic Day - 日文版,"Sakula小舞演唱的国服半周年电音节主题曲。
+感谢老师们的半年来的陪伴。
+不管怎样的困境，奇迹与梦都一定会实现；让我们一起飞向，这青空的彼方。",ok,
+284,Theme_188,Dreaming Trip,Dreaming Trip,热热闹闹，活力满满！快活的修学旅行开始啦！,ok,
+286,Theme_209,Sometimes I Cry,Sometimes I Cry,故事，终于告一段落。舒缓的曲调，记录着一段没有留下缺憾的回忆。,ok,
+287,Theme_212,Fury of Set,Fury of Set,"赛特神之怒使用曲目，会在战斗过程中循环播放。
+神圣而庄严，天灾的具象化。",ok,
+288,Theme_216,Miracle,Miracle,平静的曲调，适合与重要之人度过的珍贵时光。,ok,
+289,Theme_219,Our Oath,Our Oath,"空灵的开头，逐渐激昂的情绪，适合吹起反击号角的时刻。
+是制约解除作战大厅使用曲目。",ok,
+290,Theme_207,HIGH5LANDER,HIGH5LANDER,两个蜜瓜雪糕味小孩的专属曲目。只要这对双子参与进来，场面似乎就紧张不起来。,ok,
+291,,あゆみ,あゆみ,"角色曲系列「絆ダイアローグシリーズ」第1弹，白子的角色曲。
+ブルーアーカイブ 絆ダイアローグ Vol.1「シロコ」
+[https://nex-tone.link/A00143322](http://nex-tone.link/A00143322)
+> あゆみ
+アーティスト：シロコ
+作詞：夕野ヨシミ(IOSYS)
+作曲：Nor",ok,
+292,,あゆみ(Instrumental Ver.),あゆみ(Instrumental Ver.),"角色曲系列「絆ダイアローグシリーズ」第1弹，白子的角色曲的纯伴奏版。
+ブルーアーカイブ 絆ダイアローグ Vol.1「シロコ」
+[https://nex-tone.link/A00143322](http://nex-tone.link/A00143322)
+> あゆみ
+アーティスト：シロコ
+作詞：夕野ヨシミ(IOSYS)
+作曲：Nor",ok,
+293,,Dialogue Vol.1「前略、終わらない鼓動と」,Dialogue Vol.1「前略、終わらない鼓動と」,"与白子在休息日一起……干什么呢？
+[https://nex-tone.link/A00143322](http://nex-tone.link/A00143322)
+ブルーアーカイブ 絆ダイアローグ Vol.1「シロコ」",ok,
+294,,忍術研究部!只今参上!の巻,忍術研究部!只今参上!の巻,"[nex-tone.link/A00143320](http://nex-tone.link/A00143320)
+> ブルーアーカイブ　青春あんさんぶる Vol.4 「忍術研究部」
+忍術研究部, ミチル(CV:水橋かおり), イズナ(CV:阿澄佳奈) & ツクヨ(CV:後藤彩佐)",ok,
+295,,忍術研究部!只今参上!の巻。(Instrumental Ver.),忍術研究部!只今参上!の巻。(Instrumental Ver.),"纯伴奏版
+[nex-tone.link/A00143320](http://nex-tone.link/A00143320)
+> ブルーアーカイブ　青春あんさんぶる Vol.4 「忍術研究部」
+忍術研究部, ミチル(CV:水橋かおり), イズナ(CV:阿澄佳奈) & ツクヨ(CV:後藤彩佐)",ok,
+296,,ボイスドラマ Vol.4 「忍法・妹系後輩の術!」,ボイスドラマ Vol.4 「忍法・妹系後輩の術!」,"广播剧
+[nex-tone.link/A00143320](http://nex-tone.link/A00143320)
+> ブルーアーカイブ　青春あんさんぶる Vol.4 「忍術研究部」
+忍術研究部, ミチル(CV:水橋かおり), イズナ(CV:阿澄佳奈) & ツクヨ(CV:後藤彩佐)",ok,
+297,,手つなぎハッピーエンド,手つなぎハッピーエンド,"[nex-tone.link/A00143321](http://nex-tone.link/A00143321)
+> ブルーアーカイブ　青春あんさんぶる Vol.5 「補習授業部」
+補習授業部, ヒフミ(CV:本渡楓), アズサ(CV:種田梨沙), ハナコ(CV:豊田萌絵) & コハル(CV-赤尾ひかる)",ok,
+298,,手つなぎハッピーエンド(Instrumental Ver.),手つなぎハッピーエンド(Instrumental Ver.),"纯伴奏版
+[nex-tone.link/A00143321](http://nex-tone.link/A00143321)
+> ブルーアーカイブ　青春あんさんぶる Vol.5 「補習授業部」
+補習授業部, ヒフミ(CV:本渡楓), アズサ(CV:種田梨沙), ハナコ(CV:豊田萌絵) & コハル(CV-赤尾ひかる)",ok,
+299,,ボイスドラマ Vol.5 「夏と水着とエッチじゃないもの」,ボイスドラマ Vol.5 「夏と水着とエッチじゃないもの」,"广播剧
+[nex-tone.link/A00143321](http://nex-tone.link/A00143321)
+> ブルーアーカイブ　青春あんさんぶる Vol.5 「補習授業部」
+補習授業部, ヒフミ(CV:本渡楓), アズサ(CV:種田梨沙), ハナコ(CV:豊田萌絵) & コハル(CV-赤尾ひかる)",ok,
+301,Theme_180,彩りキャンバス (Game Ver.),彩りキャンバス (Game Ver.),传奇乐队Sugar Rush演唱的歌曲！,ok,
+302,Theme_189,Bluemark Canvas,Bluemark Canvas,活动-ive aLIVE使用曲。组乐队果然是青春和学园祭必不可少的一环！,ok,
+303,Theme_202,Theme_202,Theme_202,"摇滚劲曲，基沃托斯平常比较少见的风格，但也有女子高中生偏爱这种乐队。
+KARUT在个人账号上还上传了此曲的[人声版本](https://x.com/TriplebulletS/status/1788883247235215426)。",ok,
+304,Theme_210,Bishoujo tachi no Cliché,Bishoujo tachi no Cliché,仿佛下课铃声般、适合课余时光的曲目。,ok,
+305,Theme_214,OHAYOU Daily morning,OHAYOU Daily morning,难得能够懒懒散散的时光，正好适合摸个鱼。,ok,
+306,Theme_215,Theme_215,Theme_215,适合一段美好故事落下帷幕的旋律。我们美好的日常，正是一个个小小的奇迹。,ok,
+307,Theme_222,Candy Step,Candy Step,熟悉的Kawaii Bass风格曲目，适合一段小有活力的高光时刻。,ok,
+308,Theme_180_Inst,游戏内曲目 | Theme_180_Inst | 甜点部乐队活动,Theme_180_Inst,传奇乐队Sugar Rush演唱曲目的伴奏。,ok,
+309,,Aoharu (Band Arrange) Title,Aoharu (Band Arrange) Title,Aoharu的band arrange版，熟悉的旋律，但是昭示着旧的告一段落，与新的开始。,ok,
+310,,青春のアーカイブ [TVsize],青春のアーカイブ [TVsize],"TV动画所使用的OP曲目。
+是一首仿佛能看到画面的，节奏明快的摇滚乐。
+[linkco.re/RrruF9HX](https://linkco.re/RrruF9HX)
+>TVアニメ「ブルーアーカイブ The Animation」テーマソング「青春のアーカイブ／真昼の空の月」
+アビドス高等学校対策委員会",ok,
+311,,真昼の空の月 [TVsize],真昼の空の月 [TVsize],"TV动画所使用的ED曲目。
+为直到消失后才发现无可替代的那些平凡的日子而作，爱与伤感交织的柔和歌曲。
+[linkco.re/RrruF9HX](https://linkco.re/RrruF9HX)
+>TVアニメ「ブルーアーカイブ The Animation」テーマソング「青春のアーカイブ／真昼の空の月」
+アビドス高等学校対策委員会",ok,
+312,Theme_220,Dazzle Everyday,Dazzle Everyday,日常常见的可爱曲目，适合平时的日常故事。,ok,
+313,,Kaiten Screw!!! (8bit),Kaiten Screw!!! (8bit),「Kaiten Screw!!!」的8bit版。,ok,
+314,,PRST Academy (8bit),PRST Academy (8bit),充满了红冬学园特殊风格气息的音乐。PRST Academy的8bit版。,ok,
+315,,Kyrie Eleison（中配）,Kyrie Eleison（中配）,"由简中服圣园未花的中文配音演员龟娘演唱的垂怜经，游戏内未实装。
+音频文件提取自龟娘在B站上传的视频：[BV1oD421G7B5](https://www.bilibili.com/video/BV1oD421G7B5)",ok,
+316,Theme_218,Achromatic Prism,Achromatic Prism,"氛围伤感的曲目。
+很多人的心中都有这么一段难以放下的往事、无法弥补的缺憾。",ok,
+317,Theme_221,U mak3 m3 smil3,U mak3 m3 smil3,动感十足的曲目，日常中的心动时刻。,ok,
+318,,「放課後スイーツ部の夏休み！」待ちに待った夏休み！編,「放課後スイーツ部の夏休み！」待ちに待った夏休み！編,"【#放課後スイーツ部の夏休み！ 】
+今回は
+「☀️待ちに待った夏休み！編☀️」
+
+さいっこうの夏、楽しみですねっ♪
+みなさんも是非チェックしてください！
+
+▼詳細はこちら
+http://bit.ly/3wJ1vw2",ok,
+319,,「放課後スイーツ部の夏休み！」 素敵なグッズ？編,「放課後スイーツ部の夏休み！」 素敵なグッズ？編,"【#放課後スイーツ部の夏休み ！】
+第2話も公開ですっ！😍
+
+今回は
+「🤔素敵なグッズ？編！🤔」
+
+#放課後スイーツ部 の皆が気になる景品は何でしょう？？
+皆のお話をぜひ聞いてみてください♪
+次回もお楽しみに❣️
+
+#ダイドーブルアカキャンペーン #ダイドー #ブルアカ
+
+▼詳細はこちら
+[http://bit.ly/3wJ1vw2](http://bit.ly/3wJ1vw2)",ok,
+320,,これが私のハードボイルド！？,これが私のハードボイルド！？,"絆ダイアローグ系列第2弹，由阿露社长演唱的「これが私のハードボイルド！？」。
+是一首很符合法外狂徒阿露气质的帅气的音乐（？）
+[nex-tone.link/A00156779](https://nex-tone.link/A00156779)
+>ブルーアーカイブ　絆ダイアローグ Vol.2 「アル」
+アル(CV:近藤玲奈)",ok,
+321,,これが私のハードボイルド！？(Instrumental Ver.),これが私のハードボイルド！？(Instrumental Ver.),"「これが私のハードボイルド！？」的无人声版。
+[nex-tone.link/A00156779](https://nex-tone.link/A00156779)
+>ブルーアーカイブ　絆ダイアローグ Vol.2 「アル」
+アル(CV:近藤玲奈)",ok,
+322,,Dialogue Vol.2「カレー屋は一日にして成らず」,Dialogue Vol.2「カレー屋は一日にして成らず」,"专辑「絆ダイアローグ Vol.2」内的广播剧。
+[nex-tone.link/A00156779](https://nex-tone.link/A00156779)
+>ブルーアーカイブ　絆ダイアローグ Vol.2 「アル」
+アル(CV:近藤玲奈)",ok,
+323,,青春のアーカイブ,青春のアーカイブ,"完整版的TV动画的OP曲。
+[linkco.re/RrruF9HX](https://linkco.re/RrruF9HX)
+>TVアニメ「ブルーアーカイブ The Animation」テーマソング「青春のアーカイブ／真昼の空の月」
+アビドス高等学校対策委員会",ok,
+324,,青春のアーカイブ [instrumental],青春のアーカイブ [instrumental],"完整版TV动画OP曲的无人声版。
+[linkco.re/RrruF9HX](https://linkco.re/RrruF9HX)
+>TVアニメ「ブルーアーカイブ The Animation」テーマソング「青春のアーカイブ／真昼の空の月」
+アビドス高等学校対策委員会",ok,
+325,,真昼の空の月,真昼の空の月,"完整版的TV动画的ED曲。
+[linkco.re/RrruF9HX](https://linkco.re/RrruF9HX)
+>TVアニメ「ブルーアーカイブ The Animation」テーマソング「青春のアーカイブ／真昼の空の月」
+アビドス高等学校対策委員会",ok,
+326,,真昼の空の月 [instrumental],真昼の空の月 [instrumental],"完整版TV动画ED曲的无人声版。
+[linkco.re/RrruF9HX](https://linkco.re/RrruF9HX)
+>TVアニメ「ブルーアーカイブ The Animation」テーマソング「青春のアーカイブ／真昼の空の月」
+アビドス高等学校対策委員会",ok,
+327,Theme_204,Ramune Lagoon,Ramune Lagoon,瓦尔基里泳装活动使用曲目。享受水上公园的快乐度假时光吧！,ok,
+328,Theme_205,Summer Attack!,Summer Attack!,"瓦尔基里夏活首次出现的战斗曲目，开头使用了与活动主题曲相同的采样声。
+风格可爱而又激昂，适合一场欢快的战斗。",ok,
+329,,AMB_Subway,AMB_Subway,,empty,
+330,,AMB_Train_L,AMB_Train_L,,empty,
+331,,RE Aoharu (4th PV),RE Aoharu (4th PV),"面对任何困难、任何事件、任何力量都不会害怕的，即使是重来一次的，与你一起的青春故事。
+突入，缓和，转折——震撼人心的Re Aoharu，蔚蓝档案的关键曲目之一，最终章主题曲。于日服2周年纪念直播上与最终章预告4thPV一同放出，广受好评。
+
+4th PV中使用的版本，包含了联邦学生会长的人声。",ok,
+332,Theme_203,Realm Rumble,Realm Rumble,结果难料的激战使用的曲目，强者才有资格使用。,ok,
+333,Theme_229,Sudden Onset Disaster,Sudden Onset Disaster,压抑、紧张……首次出现于主线Vol1.3.33，「恐怖」显现。,ok,
+334,,准备出发！,准备出发！,"音乐制作Music Production：DashSound
+动画制作Animation Production：ARCUS_Anime
+演唱Vocals：
+砂狼白子（CV:安雪璃）
+早濑优香（CV:小敢）
+黑馆晴奈（CV:MACE）
+伊落玛丽（CV:曹雅雯）
+久田泉奈（CV:Z君）
+制作人Producer：S9ryne
+执行策划Executive Producer：Vision Zhang
+作词Lyrics：南羽/Sakula小舞
+作曲Composer：HJLL
+编曲Arranger：HJLL
+录音棚Recording Studio：烁Blaze-Sparkle
+录音监制Recording Producer：绯川蛋
+人声修对Editing Engineer：HJLL
+混音Mixing Engineer：HJLL/S9ryne
+母带制作Mastering Studio：Dash Sound
+Na\~LiLaBaLaBa\~准备好了就出发\~",ok,
+335,,「放課後スイーツ部の夏休み！」 ナツのサプライズ編,「放課後スイーツ部の夏休み！」 ナツのサプライズ編,"【#放課後スイーツ部の夏休み！ 】
+第3話も無事公開❣️
+
+今回は
+「😳ナツのサプライズ編！😳」
+
+ラストまであと1話・・・
+ナツは何にロマンを感じたのでしょうか！？
+是非チェックしてください♪
+
+#ダイドーブルアカキャンペーン #ダイドー #ブルアカ
+
+▼詳細はこちら
+http://bit.ly/3wJ1vw2",ok,
+336,,准备出发！ (伴奏),准备出发！ (伴奏),"音乐制作Music Production：DashSound
+动画制作Animation Production：ARCUS_Anime
+演唱Vocals：
+砂狼白子（CV:安雪璃）
+早濑优香（CV:小敢）
+黑馆晴奈（CV:MACE）
+伊落玛丽（CV:曹雅雯）
+久田泉奈（CV:Z君）
+制作人Producer：S9ryne
+执行策划Executive Producer：Vision Zhang
+作词Lyrics：南羽/Sakula小舞
+作曲Composer：HJLL
+编曲Arranger：HJLL
+录音棚Recording Studio：烁Blaze-Sparkle
+录音监制Recording Producer：绯川蛋
+人声修对Editing Engineer：HJLL
+混音Mixing Engineer：HJLL/S9ryne
+母带制作Mastering Studio：Dash Sound
+Na\~LiLaBaLaBa\~准备好了就出发\~",ok,
+337,,彩りキャンバス,彩りキャンバス,"放学后甜品部作为少女乐队SUGAR RUSH在屋顶演奏的出道曲「彩りキャンバス」！
+[nex-tone.link/A00158938](https://nex-tone.link/A00158938)
+>ブルーアーカイブ「彩りキャンバス」
+SUGAR RUSH",ok,
+338,,彩りキャンバス(Short Ver.),彩りキャンバス(Short Ver.),"剪辑过的「彩りキャンバス」，比全曲短一些。
+[nex-tone.link/A00158938](https://nex-tone.link/A00158938)
+>ブルーアーカイブ「彩りキャンバス」
+SUGAR RUSH",ok,
+339,,彩りキャンバス(Instrumental Ver.),彩りキャンバス(Instrumental Ver.),"「彩りキャンバス」的无人声版。
+[nex-tone.link/A00158938](https://nex-tone.link/A00158938)
+>ブルーアーカイブ「彩りキャンバス」
+SUGAR RUSH",ok,
+340,,パフェダイアリーズ,パフェダイアリーズ,"青春あんさんぶる系列第6弹，放学后甜品部的各位一起演唱的「パフェダイアリーズ」。
+听着听着就想吃甜品了...！
+[nex-tone.link/A00159005](https://nex-tone.link/A00159005)
+>ブルーアーカイブ　青春あんさんぶる Vol.6 「放課後スイーツ部」
+放課後スイーツ部《アイリ(CV:水森ちこ)、カズサ(CV:夏吉ゆうこ)、ナツ(CV:長縄まりあ)、ヨシミ(CV:真野あゆみ)》",ok,
+341,,パフェダイアリーズ(Instrumental Ver.),パフェダイアリーズ(Instrumental Ver.),"「パフェダイアリーズ」的无人声版。
+[nex-tone.link/A00159005](https://nex-tone.link/A00159005)
+>ブルーアーカイブ　青春あんさんぶる Vol.6 「放課後スイーツ部」
+放課後スイーツ部《アイリ(CV:水森ちこ)、カズサ(CV:夏吉ゆうこ)、ナツ(CV:長縄まりあ)、ヨシミ(CV:真野あゆみ)》",ok,
+342,,ボイスドラマ Vol.6 「真夏の海と幻のスイーツ!」,ボイスドラマ Vol.6 「真夏の海と幻のスイーツ!」,"专辑「青春あんさんぶる Vol.6」内的广播剧。
+[nex-tone.link/A00159005](https://nex-tone.link/A00159005)
+>ブルーアーカイブ　青春あんさんぶる Vol.6 「放課後スイーツ部」
+放課後スイーツ部《アイリ(CV:水森ちこ)、カズサ(CV:夏吉ゆうこ)、ナツ(CV:長縄まりあ)、ヨシミ(CV:真野あゆみ)》",ok,
+343,,好きなんです!,好きなんです!,"絆ダイアローグ系列第3弹，日富美同学演唱的「好きなんです!」。
+是一首能给人带来元气的歌呢！
+[nex-tone.link/A00158939](https://nex-tone.link/A00158939)
+>ブルーアーカイブ　絆ダイアローグ Vol.3 「ヒフミ」
+ヒフミ(CV:本渡楓)",ok,
+344,,好きなんです！(Instrumental Ver.),好きなんです！(Instrumental Ver.),"「好きなんです！」的无人声版。
+[nex-tone.link/A00158939](https://nex-tone.link/A00158939)
+>ブルーアーカイブ　絆ダイアローグ Vol.3 「ヒフミ」
+ヒフミ(CV:本渡楓)",ok,
+345,,Dialogue Vol.3「とまらない心を聞かせて」,Dialogue Vol.3「とまらない心を聞かせて」,"专辑「絆ダイアローグ Vol.3」内的广播剧。
+[nex-tone.link/A00158939](https://nex-tone.link/A00158939)
+>ブルーアーカイブ　絆ダイアローグ Vol.3 「ヒフミ」
+ヒフミ(CV:本渡楓)",ok,
+346,,Glitch Street (Short),Glitch Street (Short),Glitch Street的片段，用于主线剧情Vol1.3.43中，阿比多斯与大蛇战斗、守卫自治区的场景。,ok,
+347,Theme_153,Theme_153,Theme_153,Constant Moderato的变奏，标志着一行人新的开始，我们青春的新的开始。,ok,
+348,Theme_206,Let me go Seaside,Let me go Seaside,"阿里乌斯小队泳装活动使用曲目。
+随着DJ的演奏挥动你的双手吧！",ok,
+349,Theme_217,Shoujo Sorrow,Shoujo Sorrow,"Shoujo Delight的变奏版本。
+解答第六条古则、也是解开星野心结时的曲目。",ok,
+350,Theme_228,0k@eri,0k@eri,"最早使用于白子*恐怖的回忆大厅中。
+将伤痛留在过去，回到已经离开了太久的归处。",ok,
+351,Theme_234,U-n.I,U-n.I,"最早使用于星野（临战）的回忆大厅中。
+记录着与珍爱之人共度美好时光的曲目。",ok,
+352,Theme_237,Peaceful Day,Peaceful Day,"最早使用于泳装亚津子回忆大厅的曲目。
+仿佛能看到少女闪耀发光的笑容。",ok,
+353,,Paint It Now(Game Ver.),Paint It Now(Game Ver.),"阿里乌斯小队泳装活动的ED，由新任DJ纱织为您倾情演奏。
+
+轶事：
+在最初版本的MV中，片尾的作曲显示为Mitsukiyo，但在2024年8月2日，KARUT说明这是制作错误，会在以后修正。现在，游戏内MV已经修改为了正确的版本。
+
+[https://x.com/TriplebulletS/status/1819315843983200703](https://x.com/TriplebulletS/status/1819315843983200703)",ok,
+354,,夕映えの約束 (Game Ver.),夕映えの約束 (Game Ver.),"主线剧情Vol1.3.38插入曲，包含游戏内剧情音效。
+
+> タイトル：夕映えの約束
+Music : Mitsukiyo
+Lyrics : kotono
+Song : SERENTIUM
+Guitar : NezMayo
+Bass : Kyunghwan Yoo
+Mix/Master : 821sound",ok,
+355,,ぷかぷかぴ～す,ぷかぷかぴ～す,"絆ダイアローグ系列第4弹！
+这一次轮到对策委员会的星野同学了！
+软软的旋律，听着让人很放松呢！
+[nex-tone.link/A00159099](https://nex-tone.link/A00159099)
+> ブルーアーカイブ　絆ダイアローグ Vol.4 「ホシノ」
+ホシノ(CV:花守ゆみり)",ok,
+356,,ぷかぷかぴ～す(Instrumental Ver),ぷかぷかぴ～す(Instrumental Ver),"「ぷかぷかぴ～す」的无人声版。
+[nex-tone.link/A00159099](https://nex-tone.link/A00159099)
+> ブルーアーカイブ　絆ダイアローグ Vol.4 「ホシノ」
+ホシノ(CV:花守ゆみり)",ok,
+357,,Dialogue Vol.4「幸福を探す遠道」,Dialogue Vol.4「幸福を探す遠道」,"专辑「絆ダイアローグ Vol.4」内的广播剧。
+[nex-tone.link/A00159099](https://nex-tone.link/A00159099)
+> ブルーアーカイブ　絆ダイアローグ Vol.4 「ホシノ」
+ホシノ(CV:花守ゆみり)",ok,
+358,,「放課後スイーツ部の夏休み！」水分補給も忘れずに編,「放課後スイーツ部の夏休み！」水分補給も忘れずに編,"【#放課後スイーツ部の夏休み！ 】
+みなさん本当にありがとう〜〜！！
+最終話も無事公開です❣️
+
+第4話は
+「💧水分補給も忘れずに編！💧」
+
+オリジナルボイスドラマ、
+みなさん楽しんでいただけましたか？？
+キャンペーンはまだまだ続くので、
+暑い夏、水分補給を忘れずに楽しんでくださいね♪
+
+#ダイドーブルアカキャンペーン #ダイドー #ブルアカ
+
+▼詳細はこちら
+http://bit.ly/3wJ1vw2a",ok,
+359,,希望の朝へ (向着黎明奔去),希望の朝へ (向着黎明奔去),"作词：夕野ヨシミ(IOSYS)
+作曲：Mitsukiyo
+编曲：Mitsukiyo/何方
+歌手：东山奈央/石上静香
+混音/母带：何方
+吉他录制 : JuNN
+贝斯录制: Kyunghwan Yoo
+导唱: Shabel Tonya
+制作协力：【Aegir,inc】
+
+无论是谁，都有着希冀和追求幸福的资格。故事的走向，就由我们来决定！向着充满希望的黎明，无忧无虑地奔跑吧！
+
+《蔚蓝档案》一周年纪念专辑《向着黎明奔去》现已上线，包含中、日双语版本。感谢老师的支持，祝老师入职一周年快乐！",ok,
+360,,向着黎明奔去,向着黎明奔去,"作词：St
+作曲：Mitsukiyo
+编曲：Mitsukiyo/何方
+歌手：龟娘/汪滢滢
+混音/母带：何方
+吉他录制 : JuNN
+贝斯录制: Kyunghwan Yoo
+导唱: Shabel Tonya
+制作协力：【Aegir,inc】
+
+无论是谁，都有着希冀和追求幸福的资格。故事的走向，就由我们来决定！向着充满希望的黎明，无忧无虑地奔跑吧！
+
+《蔚蓝档案》一周年纪念专辑《向着黎明奔去》现已上线，包含中、日双语版本。感谢老师的支持，祝老师入职一周年快乐！",ok,
+361,Theme_197,SHANHAIJING Tragicomedy,SHANHAIJING Tragicomedy,用于山海经活动，以民族乐器曲调展现山海经风格,ok,
+362,Theme_223,Scarlet Chrysanthemum,Scarlet Chrysanthemum,山海经和红冬交流会，曲风融合比较轻快也不错,ok,
+363,Theme_233,Theme_233,Theme_233,,empty,
+364,,JUMP！BEAT！PLAY！,JUMP！BEAT！PLAY！,"游戏开发部的学员们不小心掉入了音游的世界，需要她们齐心协力打出一个又一个perfect！伴随音符的跳跃，创造五彩斑斓的奇迹！游戏开发部主题曲正式上线！戴上耳机和小桃，小绿，爱丽丝，柚子一起闯关吧！
+
+> JUMP！BEAT！PLAY！ (《蔚蓝档案》游戏部主题曲) - 苏枕袖/阎么么/皛四白/宅在家里什么都不会
+词Lyrics：MUE
+曲Composer：S９ryne/VeetaCrush/Nevia
+编曲Arranger：S９ryne/VeetaCrush/Nevia
+制作人Producer：S９ryne
+音乐制作Music Production：@DashSound
+演唱Vocals：才羽桃（CV：苏枕袖）/才羽绿（CV：阎么么）/天童爱丽丝（CV：四白）/花冈柚子（CV：宅会）
+执行策划Executive Producer：Vision Zhang
+录音棚Recording Studio：烁Blaze-Sparkle
+录音师Recording Engineer：JINX
+录音监制Recording Producer：绯川蛋
+人声修对Editing Engineer：HJLL/VeetaCrush
+混音Mixing Engineer：VeetaCrush
+母带制作Mastering Studio：Dash Sound",ok,
+365,,JUMP！BEAT！PLAY！ (伴奏),JUMP！BEAT！PLAY！ (伴奏),"游戏开发部的学员们不小心掉入了音游的世界，需要她们齐心协力打出一个又一个perfect！伴随音符的跳跃，创造五彩斑斓的奇迹！游戏开发部主题曲正式上线！戴上耳机和小桃，小绿，爱丽丝，柚子一起闯关吧！
+
+> JUMP！BEAT！PLAY！ (《蔚蓝档案》游戏部主题曲) - 苏枕袖/阎么么/皛四白/宅在家里什么都不会
+词Lyrics：MUE
+曲Composer：S９ryne/VeetaCrush/Nevia
+编曲Arranger：S９ryne/VeetaCrush/Nevia
+制作人Producer：S９ryne
+音乐制作Music Production：@DashSound
+演唱Vocals：才羽桃（CV：苏枕袖）/才羽绿（CV：阎么么）/天童爱丽丝（CV：四白）/花冈柚子（CV：宅会）
+执行策划Executive Producer：Vision Zhang
+录音棚Recording Studio：烁Blaze-Sparkle
+录音师Recording Engineer：JINX
+录音监制Recording Producer：绯川蛋
+人声修对Editing Engineer：HJLL/VeetaCrush
+混音Mixing Engineer：VeetaCrush
+母带制作Mastering Studio：Dash Sound",ok,
+366,,Quintilis Abydos,Quintilis Abydos,明快的日常曲目，稍稍懒懒散散的也没关系。,ok,
+367,,Fruity Vacation,Fruity Vacation,节奏感强烈的曲目，似乎是一段快乐的假日时光、一段奇妙的偶遇。,ok,
+368,,ワンダー・ファニー・ハーモニー,ワンダー・ファニー・ハーモニー,"歌手：サクラコ(CV:加隈亜衣)、ヒナタ(CV:日高里菜)、マリー(CV:小澤亜李)、ウイ(CV:後藤沙緒里)、シミコ(CV:富田美憂)、ヒフミ(CV:本渡楓)、アズサ(CV:種田梨沙)、ハナコ(CV:豊田萌絵)、コハル(CV:赤尾ひかる)、ミカ(CV:東山奈央)、ツルギ(CV:小林ゆう)、イチカ(CV:鷲見友美ジェナ)
+编曲：夕野ヨシミ(IOSYS)
+作词：ミツキヨ
+
+> トリニティ総合学園のサクラコ(CV:加隈亜衣)、ヒナタ(CV:日高里菜)、マリー(CV:小澤亜李)、ウイ(CV:後藤沙緒里)、シミコ(CV:富田美憂)、ヒフミ(CV:本渡楓)、アズサ(CV:種田梨沙)、ハナコ(CV:豊田萌絵)、コハル(CV:赤尾ひかる)、ミカ(CV:東山奈央)、ツルギ(CV:小林ゆう)、イチカ(CV:鷲見友美ジェナ)が歌う「ワンダー・ファニー・ハーモニー」を収録！",ok,
+369,,ワンダー・ファニー・ハーモニー (Short Ver),ワンダー・ファニー・ハーモニー (Short Ver),"歌手：サクラコ(CV:加隈亜衣)、ヒナタ(CV:日高里菜)、マリー(CV:小澤亜李)、ウイ(CV:後藤沙緒里)、シミコ(CV:富田美憂)、ヒフミ(CV:本渡楓)、アズサ(CV:種田梨沙)、ハナコ(CV:豊田萌絵)、コハル(CV:赤尾ひかる)、ミカ(CV:東山奈央)、ツルギ(CV:小林ゆう)、イチカ(CV:鷲見友美ジェナ)
+编曲：夕野ヨシミ(IOSYS)
+作词：ミツキヨ
+
+> トリニティ総合学園のサクラコ(CV:加隈亜衣)、ヒナタ(CV:日高里菜)、マリー(CV:小澤亜李)、ウイ(CV:後藤沙緒里)、シミコ(CV:富田美憂)、ヒフミ(CV:本渡楓)、アズサ(CV:種田梨沙)、ハナコ(CV:豊田萌絵)、コハル(CV:赤尾ひかる)、ミカ(CV:東山奈央)、ツルギ(CV:小林ゆう)、イチカ(CV:鷲見友美ジェナ)が歌う「ワンダー・ファニー・ハーモニー」を収録！",ok,
+370,,ワンダー・ファニー・ハーモニー (Instrumental Ver),ワンダー・ファニー・ハーモニー (Instrumental Ver),"歌手：サクラコ(CV:加隈亜衣)、ヒナタ(CV:日高里菜)、マリー(CV:小澤亜李)、ウイ(CV:後藤沙緒里)、シミコ(CV:富田美憂)、ヒフミ(CV:本渡楓)、アズサ(CV:種田梨沙)、ハナコ(CV:豊田萌絵)、コハル(CV:赤尾ひかる)、ミカ(CV:東山奈央)、ツルギ(CV:小林ゆう)、イチカ(CV:鷲見友美ジェナ)
+编曲：夕野ヨシミ(IOSYS)
+作词：ミツキヨ
+
+> トリニティ総合学園のサクラコ(CV:加隈亜衣)、ヒナタ(CV:日高里菜)、マリー(CV:小澤亜李)、ウイ(CV:後藤沙緒里)、シミコ(CV:富田美憂)、ヒフミ(CV:本渡楓)、アズサ(CV:種田梨沙)、ハナコ(CV:豊田萌絵)、コハル(CV:赤尾ひかる)、ミカ(CV:東山奈央)、ツルギ(CV:小林ゆう)、イチカ(CV:鷲見友美ジェナ)が歌う「ワンダー・ファニー・ハーモニー」を収録！",ok,
+371,Theme_224,Flip Flap Festival!,Flip Flap Festival!,很欢快的电子鼓点，月影祭堂堂开幕！,ok,
+372,,KIRISAME (City Pop Rearrange),KIRISAME (City Pop Rearrange),"KIRISAME的city pop（都市流行）版本，在寂静安稳的旋律中和泉奈共度秋夜
+
+> Composed by Nor
+Rearranged by NECORD
+
+来源：[https://www.youtube.com/watch?v=XwvJrUkLiVE](https://www.youtube.com/watch?v=XwvJrUkLiVE)",ok,
+373,,Strawberry milk complex,Strawberry milk complex,"草莓牛奶聚合体？
+
+Mixing&Mastering: [ESTE](https://x.com/ineste523/status/1774761856382763135)
+Composition&Arrangement: [Mitsukiyo](https://x.com/mitsukiyo_5/status/1774661609681772877)
+
+来源：[https://www.youtube.com/watch?v=B5O2m5d81zg](https://www.youtube.com/watch?v=B5O2m5d81zg)",ok,
+374,,Constant Moderato × Step by Step (CN Mashup),Constant Moderato × Step by Step (CN Mashup),"> 我在开服前就曾给中国玩家带来过新的音乐。
+>
+> 我将之前公开过的《Step by Step》和《Constant Moderato》两首歌进行了融合，作为中国地区的首曝PV音乐
+>
+> ——Mitsukiyo，国服开发者采访：[https://www.bilibili.com/video/BV1Wp4y1j7Cy](https://www.bilibili.com/video/BV1Wp4y1j7Cy)",ok,
+375,,わたしたちのクエスト,わたしたちのクエスト,"发条之花的帕凡舞曲篇第2章与日服短片「Beautiful Day Dreamer」主题曲，游戏部的故事才刚刚开始，还将继续编织下去。
+
+作词：夕野ヨシミ(IOSYS)
+作曲：Mitsukiyo",ok,
+376,,わたしたちのクエスト(Instrumental Ver.),わたしたちのクエスト(Instrumental Ver.),"发条之花的帕凡舞曲篇第2章与日服短片「Beautiful Day Dreamer」主题曲的伴奏，游戏部的故事才刚刚开始，还将继续编织下去。
+
+作词：夕野ヨシミ(IOSYS)
+作曲：Mitsukiyo",ok,
+377,,Memories of Kindness / 상냥함의 기억,Memories of Kindness / 상냥함의 기억,"最终章ED的韩语版。伴随着温柔的歌声，星光落地，夜空迎来日出，基沃托斯回归了和平。
+
+演唱：YOUNHA/윤하
+作词：夕野ヨシミ(IOSYS)
+作曲：Mitsukiyo
+译词：Z:U",ok,
+378,,Memories of Kindness,Memories of Kindness,"最终章ED的英语版。伴随着温柔的歌声，星光落地，夜空迎来日出，基沃托斯回归了和平。
+
+演唱：YOUNHA/윤하
+作词：夕野ヨシミ(IOSYS)
+作曲：Mitsukiyo
+译词：Miori Celesta",ok,
+379,,Memories of Kindness / 優しさの記憶(Instrumental Ver.),Memories of Kindness / 優しさの記憶(Instrumental Ver.),"最终章ED的伴奏。伴随着温柔的歌声，星光落地，夜空迎来日出，基沃托斯回归了和平。
+
+演唱：鹿乃
+作词：夕野ヨシミ(IOSYS)
+作曲：Mitsukiyo",ok,
+381,,Library of Omen（OST）,Library of Omen（OST）,Library of Omen的原声OST收录版本,ok,
+382,,SAKURA PUNCH（OST）,SAKURA PUNCH（OST）,SAKURA PUNCH的原声OST收录版本,ok,
+383,,Fevertime（OST）,Fevertime（OST）,Fevertime的原声OST收录版本,ok,
+384,,CrossFire Hard Arrange（OST）,CrossFire Hard Arrange（OST）,CrossFire Hard Arrange的原声OST收录版本,ok,
+385,,Denshi Toujou!（OST）,Denshi Toujou!（OST）,Denshi Toujou!的官方原声OST收录版本,ok,
+386,,Kaiten Screw!!!（OST）,Kaiten Screw!!!（OST）,Kaiten Screw!!!的原声OST收录版本,ok,
+387,,Mechanical JUNGLE Hard Arrange （OST）,Mechanical JUNGLE Hard Arrange （OST）,Mechanical JUNGLE Hard Arrange的OST收录版本,ok,
+388,,Fearful Utopia（OST）,Fearful Utopia（OST）,Fearful Utopia的原声OST收录版本,ok,
+389,,Out of Control（OST）,Out of Control（OST）,Out of Control的原声OST收录版本,ok,
+390,,Interface（OST）,Interface（OST）,Interface的原声OST收录版本,ok,
+391,,Alert（OST）,Alert（OST）,Alert的原声OST收录版本,ok,
+392,,Fade Out（OST）,Fade Out（OST）,Fade Out的原声OST收录版本,ok,
+393,,CrossFire （OST）,CrossFire （OST）,CrossFire的原声OST收录版本,ok,
+394,,Party time（OST）,Party time（OST）,Party time的原声OST收录版本,ok,
+395,,Tech N Tech（OST）,Tech N Tech（OST）,Tech N Tech的原声OST收录版本,ok,
+396,,Endless Carnival（OST）,Endless Carnival（OST）,Endless Carnival的原声OST收录版本,ok,
+397,,Mischievous Step（OST）,Mischievous Step（OST）,Mischievous Step的原声OST收录版本,ok,
+398,,Mechanical JUNGLE（OST）,Mechanical JUNGLE（OST）,,empty,
+399,,Virtual Storm（OST）,Virtual Storm（OST）,Virtual Storm的原声OST收录版本,ok,
+400,,Accelerator（OST）,Accelerator（OST）,Accelerator的原声OST收录版本,ok,
+401,,Rolling beat（OST）,Rolling beat（OST）,Rolling beat的原声OST收录版本,ok,
+402,,After the Beep（OST）,After the Beep（OST）,After the Beep的原声OST收录版本,ok,
+403,,Future Lab（OST）,Future Lab（OST）,Future Lab的原声OST收录版本,ok,
+404,,Signal of Abydos（OST）,Signal of Abydos（OST）,Signal of Abydos的原声OST收录版本,ok,
+405,,ARES（OST）,ARES（OST）,ARES的原声OST收录版本,ok,
+406,,Vibes（OST）,Vibes（OST）,Vibes的原声OST收录版本,ok,
+407,,Sugar story（OST）,Sugar story（OST）,Sugar story的原声OST收录版本,ok,
+408,,Water Drop（OST）,Water Drop（OST）,Water Drop的原声OST收录版本,ok,
+409,,Plug and Play（OST）,Plug and Play（OST）,Plug and Play的原声OST收录版本,ok,
+410,,Daily Routine 247（OST）,Daily Routine 247（OST）,Daily Routine 247的原声OST收录版本,ok,
+411,,Lemonade Diary（OST）,Lemonade Diary（OST）,Lemonade Diary的原声OST收录版本,ok,
+412,,Future Bossa（OST）,Future Bossa（OST）,Future Bossa的原声OST收录版本,ok,
+413,,Irasshaimase（OST）,Irasshaimase（OST）,Irasshaimase的原声OST收录版本,ok,
+414,,MX Adventure（OST）,MX Adventure（OST）,MX Adventure的原声OST版本,ok,
+415,,Step by Step（OST）,Step by Step（OST）,Step by Step的原声OST收录版本,ok,
+416,,Shooting Stars（OST）,Shooting Stars（OST）,Shooting Stars的原声OST收录版本,ok,
+417,,Constant Moderato （OST）,Constant Moderato （OST）,Constant Moderato的原声OST收录版本,ok,
+418,,Midsummer cat（OST）,Midsummer cat（OST）,Midsummer cat的原声OST收录版本,ok,
+419,,Connected Sky（OST）,Connected Sky（OST）,Connected Sky的原声OST收录版本,ok,
+420,,Target for love(Instrumental Ver),Target for love(Instrumental Ver),"国际服主题曲的伴奏，In the story of us so marvelous.
+欢迎来到基沃托斯，老师！
+
+演唱：이진아/Lee Jin-ah、Mitsukiyo、DANI
+作词：DANI
+作曲：이진아/Lee Jin-ah、Mitsukiyo",ok,
+421,,Target for love Piano Ver.(Covered by FONZI M),Target for love Piano Ver.(Covered by FONZI M),国际服主题曲的钢琴版，Covered by FONZI M。,ok,
+422,,Unwelcome School(Jazz Trio Ver.),Unwelcome School(Jazz Trio Ver.),Unwelcome School的爵士乐版，包含于国际服「Happy 100th day！」的纪念数位周边中。,ok,
+423,,美食追求の道 ～いただきます!～,美食追求の道 ～いただきます!～,"[https://nex-tone.link/A00165623](https://nex-tone.link/A00165623)
+
+美食研究会的主题曲，吃货们别具一格的美食追求之路
+> ブルーアーカイブ　青春あんさんぶる Vol.7 「美食研究会」
+美食研究会《ハルナ(CV:田所あずさ)、アカリ(CV:森嶋優花)、イズミ(CV:久保ユリカ)、ジュンコ(CV:金元寿子)》",ok,
+424,,美食追求の道 ～いただきます!～(Instrumental Ver),美食追求の道 ～いただきます!～(Instrumental Ver),"[https://nex-tone.link/A00165623](https://nex-tone.link/A00165623)
+
+美食研究会主题曲的伴奏版本
+> ブルーアーカイブ　青春あんさんぶる Vol.7 「美食研究会」
+美食研究会《ハルナ(CV:田所あずさ)、アカリ(CV:森嶋優花)、イズミ(CV:久保ユリカ)、ジュンコ(CV:金元寿子)》",ok,
+425,,ボイスドラマ Vol.7 「山グルメ研究会」,ボイスドラマ Vol.7 「山グルメ研究会」,"[https://nex-tone.link/A00165623](https://nex-tone.link/A00165623)
+
+美食研究会广播剧四人成形
+> ブルーアーカイブ　青春あんさんぶる Vol.7 「美食研究会」
+美食研究会《ハルナ(CV:田所あずさ)、アカリ(CV:森嶋優花)、イズミ(CV:久保ユリカ)、ジュンコ(CV:金元寿子)》",ok,
+426,,主殿のお傍でニンニンニン,主殿のお傍でニンニンニン,"[https://nex-tone.link/A00165624](https://nex-tone.link/A00165624)
+
+久田泉奈的主题曲，主公大人请多依赖可爱忍忍吧！
+> ブルーアーカイブ　絆ダイアローグ Vol.5 「イズナ」
+イズナ(CV:阿澄佳奈)",ok,
+427,,主殿のお傍でニンニンニン(Instrumental Ver),主殿のお傍でニンニンニン(Instrumental Ver),"[https://nex-tone.link/A00165624](https://nex-tone.link/A00165624)
+
+久田泉奈主题曲的伴奏版本
+> ブルーアーカイブ　絆ダイアローグ Vol.5 「イズナ」
+イズナ(CV:阿澄佳奈)",ok,
+428,,Dialogue Vol.5「そしてイズナは宣言する」,Dialogue Vol.5「そしてイズナは宣言する」,"[https://nex-tone.link/A00165624](https://nex-tone.link/A00165624)
+
+久田泉奈个人小剧场，忍者如此宣言......
+> ブルーアーカイブ　絆ダイアローグ Vol.5 「イズナ」
+イズナ(CV:阿澄佳奈)",ok,
+429,,月導,月導,"[https://nex-tone.link/A00165625](https://nex-tone.link/A00165625)
+
+月雪宫子的主题曲，在月夜下独自陪伴着你
+>ブルーアーカイブ　絆ダイアローグ Vol.6 「ミヤコ」
+ミヤコ(CV:藤田茜)",ok,
+430,,月導(Instrumental Ver),月導(Instrumental Ver),"[https://nex-tone.link/A00165625](https://nex-tone.link/A00165625)
+
+月雪宫子主题曲的伴奏版本
+>ブルーアーカイブ　絆ダイアローグ Vol.6 「ミヤコ」
+ミヤコ(CV:藤田茜)",ok,
+431,,Dialogue Vol.6「眠れぬウサギは夜光にたゆたう」,Dialogue Vol.6「眠れぬウサギは夜光にたゆたう」,"[https://nex-tone.link/A00165625](https://nex-tone.link/A00165625)
+
+月雪宫子个人小剧场，无法入睡的兔子在夜光中随风摇曳
+>ブルーアーカイブ　絆ダイアローグ Vol.6 「ミヤコ」
+ミヤコ(CV:藤田茜)",ok,
+432,,Paint It Now,Paint It Now,"[https://nex-tone.link/A00164794](https://nex-tone.link/A00164794)
+
+Paint It Now的专辑收录版本
+> ブルーアーカイブ「Paint It Now」
+サオリ(CV:石上静香)",ok,
+433,,Paint It Now(Short Ver),Paint It Now(Short Ver),"[https://nex-tone.link/A00164794](https://nex-tone.link/A00164794)
+
+Paint It Now的缩减版本
+> ブルーアーカイブ「Paint It Now」
+サオリ(CV:石上静香)",ok,
+434,,Paint It Now(Instrumental Ver),Paint It Now(Instrumental Ver),"[https://nex-tone.link/A00164794](https://nex-tone.link/A00164794)
+
+Paint It Now的伴奏版本
+> ブルーアーカイブ「Paint It Now」
+サオリ(CV:石上静香)",ok,
+435,,Paint It Now(Short Instrumental Ver),Paint It Now(Short Instrumental Ver),"[https://nex-tone.link/A00164794](https://nex-tone.link/A00164794)
+
+Paint It Now的伴奏缩减版本
+> ブルーアーカイブ「Paint It Now」
+サオリ(CV:石上静香)",ok,
+436,,トモダチOneStep(Game instrumental Ver.）,トモダチOneStep(Game instrumental Ver.）,"トモダチOneStep（Game ver.）的伴奏版本
+
+作词·作曲：Nor
+演唱：苍森美弥(CV:堀江由衣)、伊落 玛丽(CV:小泽亚李)、歌住 樱子(CV:加隈亚衣)",ok,
+437,Theme_226,Tremendous Celebration,Tremendous Celebration,突然决定偶像出道的樱子大人！？,ok,
+438,Theme_232,The Eruption,The Eruption,"*神名十文字的第2名预言者。其真身是被神名十文字骇入的漂流工程船的导航控制系统AI。
+名字的起源被认为是生命之树的第2个质点【CHOKMAH】*
+
+:::: right
+*—— 『戍卫王国的古代守护者』*
+::::",ok,
+439,Theme_239,NekoTime,NekoTime,夜晚下浪漫的曲调，稍显忧愁却不失休闲,ok,
+440,Theme_240,InuTime,InuTime,欢快调皮的曲调，同样适合活泼开朗的学生,ok,
+441,Theme_241,DAN! DAN!! INVADER!!!,DAN! DAN!! INVADER!!!,危机迫在眉睫，不要偷懒起身战斗...应该吧？,ok,
+442,Theme_242,Theme_242,Theme_242,,empty,
+443,,トモダチOneStep (Game Ver.),トモダチOneStep (Game Ver.),"トモダチOneStep的游戏内演出版本
+
+作词·作曲：Nor
+演唱：苍森美弥(CV:堀江由衣)、伊落 玛丽(CV:小泽亚李)、歌住 樱子(CV:加隈亚衣)",ok,
+444,Theme_225,Prophets,Prophets,气氛终于开始紧迫起来......,ok,
+445,,Do you wanna kiss angel (中文版),Do you wanna kiss angel (中文版),"请老师来听听未花的心声吧，她有很多话想要告诉您。
+
+演唱：龟娘（中）/ 东山奈央（日）
+词：Luna Safari/Sakula小舞
+曲：何方/xTOx
+编曲：何方/xTOx
+混音母带：何方
+动画制作：ARCUS_Anime",ok,
+446,,Do you wanna kiss angel (日文版),Do you wanna kiss angel (日文版),"请老师来听听未花的心声吧，她有很多话想要告诉您。
+
+演唱：龟娘（中）/ 东山奈央（日）
+词：Luna Safari
+曲：何方/xTOx
+编曲：何方/xTOx
+混音母带：何方
+动画制作：ARCUS_Anime",ok,
+447,,Do you wanna kiss angel (伴奏),Do you wanna kiss angel (伴奏),"请老师来听听未花的心声吧，她有很多话想要告诉您。
+
+演唱：龟娘（中）/ 东山奈央（日）
+词：Luna Safari/Sakula小舞
+曲：何方/xTOx
+编曲：何方/xTOx
+混音母带：何方
+动画制作：ARCUS_Anime",ok,
+448,,彩りキャンバス/彩色畫布 Cover by 彩奈小編,彩りキャンバス/彩色畫布 Cover by 彩奈小編,"為三周年還有官方商店開幕！用閃亮的歌聲開始現場演唱(????)
+
+[https://www.youtube.com/watch?v=73jiLjjR0r8](https://www.youtube.com/watch?v=73jiLjjR0r8)",ok,
+449,,꿈길 위의 꽃 / 夢路の花 (Korean Ver.),꿈길 위의 꽃 / 夢路の花 (Korean Ver.),"空崎日奈在格黑娜晚会上所弹唱的歌曲，是为格黑娜全校，为老师，所献上的歌曲。
+
+Composed by Mitsukiyo
+Lyrics by Mitsukiyo
+Korean Translation by Z:U
+Vocal Park Shin-hee",ok,
+450,,채색 캔버스 / 彩りキャンバス (Korean Ver.),채색 캔버스 / 彩りキャンバス (Korean Ver.),"传奇乐队Sugar Rush演唱的歌曲！
+
+> Composed/Arranged by Mitsukiyo (STUDIOALOH)
+Lyrics by Mitsukiyo (STUDIOALOH)
+Korean Translation by Z:U
+Vocals Park Shi Yoon, Kim Soonmi
+Mixed/Mastered by ESTE (STUDIOALOH)",ok,
+451,,Rolling Beat (PV ver.),Rolling Beat (PV ver.),于[Vol2.2预告PV](www.youtube.com/watch?v=4NBexps8-kM)中使用的Rolling Beat的较短版本。,ok,
+452,,Mint Choco Days,Mint Choco Days,"官方MV：[https://www.youtube.com/watch?v=JyRJ2EiYCqs](https://www.youtube.com/watch?v=JyRJ2EiYCqs)
+
+Vocal：栗村爱莉（CV. 오로아）
+Composition & Arrangement: Mitsukiyo (STUDIOALOH)
+Lyrics: Z:U
+
+![](files/1348/jicQHFIERl4H6TnEFMHWjKVKeFxvC7dk.png)",ok,
+453,,채색 캔버스 / 彩りキャンバス (Bass Boost Ver.),채색 캔버스 / 彩りキャンバス (Bass Boost Ver.),来源于：[https://www.youtube.com/watch?v=1ChMka0Y5c8](https://www.youtube.com/watch?v=1ChMka0Y5c8)，是彩りキャンバス伴奏的低音增强版。,ok,
+454,,ありがとう、そしてこれからも。,ありがとう、そしてこれからも。,"蔚蓝档案4周年纪念曲。
+
+词：ワカツジスバル
+曲：ミツキヨ
+演唱：カズサ(CV:夏吉ゆうこ)、キキョウ(CV:小松未可子)、キサキ(CV:相坂優歌)、コユキ(CV:乾夏寧)、サオリ(CV:石上静香)、シロコ*テラー(CV:小倉唯)、ヒナ(CV:広橋涼)、ホシノ(CV:花守ゆみり)、マリー(CV:小澤亜李)、マリナ(CV:平井祥恵)、ユウカ(CV:春花らん)",ok,
+455,,ありがとう、そしてこれからも。(Instrumental Ver.),ありがとう、そしてこれからも。(Instrumental Ver.),"蔚蓝档案4周年纪念曲。
+
+词：ワカツジスバル
+曲：ミツキヨ
+演唱：カズサ(CV:夏吉ゆうこ)、キキョウ(CV:小松未可子)、キサキ(CV:相坂優歌)、コユキ(CV:乾夏寧)、サオリ(CV:石上静香)、シロコ*テラー(CV:小倉唯)、ヒナ(CV:広橋涼)、ホシノ(CV:花守ゆみり)、マリー(CV:小澤亜李)、マリナ(CV:平井祥恵)、ユウカ(CV:春花らん)",ok,
+456,,勇者アリスの大冒険！,勇者アリスの大冒険！,"天童爱丽丝的主题曲，勇者大冒险
+
+> ブルーアーカイブ　絆ダイアローグ Vol.8 「アリス」
+アリス(CV:田中美海)",ok,
+457,,勇者アリスの大冒険！(Instrumental Ver.),勇者アリスの大冒険！(Instrumental Ver.),"勇者アリスの大冒険！的伴奏版本
+> ブルーアーカイブ　絆ダイアローグ Vol.8 「アリス」
+アリス(CV:田中美海)",ok,
+458,,Dialogue Vol.8「アリスクエスト～辿り着く誓約の大樹～」,Dialogue Vol.8「アリスクエスト～辿り着く誓約の大樹～」,"天童爱丽丝的个人小剧场，勇者爱丽丝抵达誓约之树～
+> ブルーアーカイブ　絆ダイアローグ Vol.8 「アリス」
+アリス(CV:田中美海)",ok,
+459,,コントロールできない感情という変数,コントロールできない感情という変数,"早濑优香的主题曲，无法控制情感的变量
+> ブルーアーカイブ　絆ダイアローグ Vol.7 「ユウカ」
+ユウカ(CV:春花らん)",ok,
+460,,コントロールできない感情という変数(Instrumental Ver.),コントロールできない感情という変数(Instrumental Ver.),"コントロールできない感情という変数的伴奏版本
+> ブルーアーカイブ　絆ダイアローグ Vol.7 「ユウカ」
+ユウカ(CV:春花らん)",ok,
+461,,Dialogue Vol.7「想い重ねる数字の証明。」,Dialogue Vol.7「想い重ねる数字の証明。」,"早濑优香的个人小剧场，想要证明重叠的数学
+> ブルーアーカイブ　絆ダイアローグ Vol.7 「ユウカ」
+ユウカ(CV:春花らん)",ok,
+462,,進み続ける兎たち,進み続ける兎たち,"RABBIT小队的主题曲，不断前行的兔子们
+> ブルーアーカイブ　青春あんさんぶる Vol.8 「RABBIT小隊」
+RABBIT小隊《ミヤコ(CV:藤田茜)、サキ(CV:友永朱音)、モエ(CV:井澤詩織)、ミユ(CV:後藤邑子)》",ok,
+463,,進み続ける兎たち(Instrumental Ver.),進み続ける兎たち(Instrumental Ver.),"進み続ける兎たち的伴奏版本
+> ブルーアーカイブ　青春あんさんぶる Vol.8 「RABBIT小隊」
+RABBIT小隊《ミヤコ(CV:藤田茜)、サキ(CV:友永朱音)、モエ(CV:井澤詩織)、ミユ(CV:後藤邑子)》",ok,
+464,,ボイスドラマ Vol.8 「暴風雨vs子ウサギたちの暗闘！」,ボイスドラマ Vol.8 「暴風雨vs子ウサギたちの暗闘！」,"RABBIT小队的广播剧场，暴风雨与兔子们的暗斗
+> ブルーアーカイブ　青春あんさんぶる Vol.8 「RABBIT小隊」
+RABBIT小隊《ミヤコ(CV:藤田茜)、サキ(CV:友永朱音)、モエ(CV:井澤詩織)、ミユ(CV:後藤邑子)》",ok,
+465,,トモダチOneStep,トモダチOneStep,"圣三一偶像活动的演奏曲
+> ブルーアーカイブ「トモダチOneStep」
+Antique Seraphim",ok,
+466,,トモダチOneStep(Short Ver.),トモダチOneStep(Short Ver.),"トモダチOneStep的缩减版本
+> ブルーアーカイブ「トモダチOneStep」
+Antique Seraphim",ok,
+467,,トモダチOneStep(instrumental Ver.),トモダチOneStep(instrumental Ver.),"トモダチOneStep的伴奏版本
+> ブルーアーカイブ「トモダチOneStep」
+Antique Seraphim",ok,
+468,,トモダチOneStep(Short instrumental Ver.),トモダチOneStep(Short instrumental Ver.),"トモダチOneStep的伴奏缩减版本
+> ブルーアーカイブ「トモダチOneStep」
+Antique Seraphim",ok,
+469,,温柔的回忆 / 優しさの記憶（中文版）,温柔的回忆 / 優しさの記憶（中文版）,"由阿洛娜的中文配音演员 Sakula小舞 翻唱的《温柔的回忆》（《優しさの記憶》的中文版），非官方资源。
+
+Lyric / vocal : Sakula小舞（阿洛娜中文配音）
+
+Mix : LTC
+
+Direct : 绯川蛋（黑服中文配音）
+
+Record : 金克斯
+
+来源于：[https://www.bilibili.com/video/BV1s7k1Y7E5S/](https://www.bilibili.com/video/BV1s7k1Y7E5S/)",ok,
+470,Theme_236,P.A.J.A.M.A Sleep Over,P.A.J.A.M.A Sleep Over,活动「秘密的午夜派对 新年钟声里的捉迷藏」使用曲，明明是午夜的派对，却有着紧迫的电音节奏,ok,
+471,Theme_255,Sweet Allegro,Sweet Allegro,有一种倾尽真心迎来成功的感觉,ok,
+472,Theme_256,The Loop of Life,The Loop of Life,跳跃的节奏中洋溢着一种让人心情愉悦的趣味。,ok,
+473,,Colorful Mess（OST）,Colorful Mess（OST）,Colorful Mess的原声OST收录版本,ok,
+474,,Neo City Dive（OST）,Neo City Dive（OST）,Neo City Dive的原声OST收录版本,ok,
+475,,Vivid Night（OST）,Vivid Night（OST）,Vivid Night的原声OST收录版本,ok,
+476,,Pixel Time（OST）,Pixel Time（OST）,Pixel Time的原声OST收录版本,ok,
+477,,Hue（OST）,Hue（OST）,Hue的原声OST收录版本,ok,
+478,,Snow Pantomime（OST）,Snow Pantomime（OST）,Snow Pantomime的原声OST收录版本,ok,
+479,,Barrier（OST）,Barrier（OST）,Barrier的原声OST收录版本,ok,
+480,,Koi is Love（OST）,Koi is Love（OST）,Koi is Love的原声OST收录版本,ok,
+481,,Black Suit（OST）,Black Suit（OST）,Black Suit的原声OST收录版本,ok,
+482,,Luminous Memory（OST）,Luminous Memory（OST）,Luminous Memory的原声OST收录版本,ok,
+483,,Crucial Issue（OST）,Crucial Issue（OST）,Crucial Issue的原声OST收录版本,ok,
+484,,Water Drop（OST 2）,Water Drop（OST 2）,Water Drop的原声OST收录版本,ok,
+485,,JACKPOT 777（OST）,JACKPOT 777（OST）,JACKPOT 777的原声OST收录版本,ok,
+486,,Formless Dream（OST）,Formless Dream（OST）,Formless Dream的原声OST收录版本,ok,
+487,,Oxygen Destroyer（OST）,Oxygen Destroyer（OST）,Oxygen Destroyer的原声OST收录版本,ok,
+488,,Bunny Bunny Carrot Carrot（OST）,Bunny Bunny Carrot Carrot（OST）,Bunny Bunny Carrot Carrot的原声OST收录版本,ok,
+489,,OperationD（OST）,OperationD（OST）,OperationD的原声OST收录版本,ok,
+490,,Undefined Behavior（OST）,Undefined Behavior（OST）,Undefined Behavior的原声OST收录版本,ok,
+491,,GGF（OST）,GGF（OST）,GGF的原声OST收录版本,ok,
+492,,"someday, sometime（OST）","someday, sometime（OST）","someday, sometime的原声OST收录版本",ok,
+493,,Hello to Halo（OST）,Hello to Halo（OST）,Hello to Halo的原声OST收录版本,ok,
+494,,Aoharu（OST）,Aoharu（OST）,Aoharu的原声OST收录版本,ok,
+495,,Midnight Trip（OST）,Midnight Trip（OST）,Midnight Trip的原声OST收录版本,ok,
+496,,Glitch Street（OST）,Glitch Street（OST）,Glitch Street的原声OST收录版本,ok,
+497,,Romantic Smile（OST）,Romantic Smile（OST）,Romantic Smile的原声OST收录版本,ok,
+498,,NRG FielD（OST）,NRG FielD（OST）,NRG FielD的原声OST收录版本,ok,
+499,,Guruguru Usagi（OST）,Guruguru Usagi（OST）,Guruguru Usagi的原声OST收录版本,ok,
+500,,Alkaline Tears（OST）,Alkaline Tears（OST）,Alkaline Tears的原声OST收录版本,ok,
+501,,Hifumi Daisuki（OST）,Hifumi Daisuki（OST）,Hifumi Daisuki的原声OST收录版本,ok,
+502,,Coffee Cats（OST）,Coffee Cats（OST）,Coffee Cats的原声OST收录版本,ok,
+503,,Kyrie Eleison（OST）,Kyrie Eleison（OST）,Kyrie Eleison的原声OST收录版本,ok,
+504,,Kaphar（OST）,Kaphar（OST）,Kaphar的原声OST收录版本,ok,
+505,,Lovely Picnic（OST）,Lovely Picnic（OST）,Lovely Picnic的原声OST收录版本,ok,
+506,,Honey Jam（OST）,Honey Jam（OST）,Honey Jam的原声OST收录版本,ok,
+507,,Morose Dreamer（OST）,Morose Dreamer（OST）,,empty,
+508,,Agnus Dei（OST）,Agnus Dei（OST）,,empty,
+509,,Dolce Biblioteca（OST）,Dolce Biblioteca（OST）,,empty,
+510,,Blood Stained Faith（OST）,Blood Stained Faith（OST）,,empty,
+511,,Colorful Beach（OST）,Colorful Beach（OST）,,empty,
+512,,After School Dessert（OST）,After School Dessert（OST）,,empty,
+513,,Codex of Omen（OST）,Codex of Omen（OST）,,empty,
+514,,FEEEEVER TIME（OST）,FEEEEVER TIME（OST）,,empty,
+515,,RE Aoharu（OST）,RE Aoharu（OST）,,empty,
+516,,Moment（OST）,Moment（OST）,,empty,
+517,,Walkthrough（OST）,Walkthrough（OST）,,empty,
+518,,Aira（OST）,Aira（OST）,,empty,
+519,,Constant Moderato Piano Arrange（OST）,Constant Moderato Piano Arrange（OST）,,empty,
+520,,Unwelcome School（OST）,Unwelcome School（OST）,,empty,
+521,,NERINERI CHALLENGE（OST）,NERINERI CHALLENGE（OST）,,empty,
+522,,Funky Road（OST）,Funky Road（OST）,,empty,
+523,,Interface Hard Arrange（OST）,Interface Hard Arrange（OST）,,empty,
+524,,Shady Girls（OST）,Shady Girls（OST）,,empty,
+525,,Encroached Sky（OST）,Encroached Sky（OST）,,empty,
+526,,Let me think about it（OST）,Let me think about it（OST）,,empty,
+527,,SAKURA PUNCH Hard Arrange（OST）,SAKURA PUNCH Hard Arrange（OST）,,empty,
+528,,Kaiten Hurricane!!!（OST）,Kaiten Hurricane!!!（OST）,,empty,
+529,,Polyphonic（OST）,Polyphonic（OST）,,empty,
+530,,Foolish Days（OST）,Foolish Days（OST）,,empty,
+531,,Ark in the Blood Sky（OST）,Ark in the Blood Sky（OST）,,empty,
+532,,Virtual Storm Hard Arrange（OST）,Virtual Storm Hard Arrange（OST）,,empty,
+533,,Alert Hard Arrange（OST）,Alert Hard Arrange（OST）,,empty,
+534,,System All Green（OST）,System All Green（OST）,,empty,
+535,,Final Destination of Ark（OST）,Final Destination of Ark（OST）,,empty,
+536,,Tech N Tech Hard Arrange（OST）,Tech N Tech Hard Arrange（OST）,,empty,
+537,,Step of Terror（OST）,Step of Terror（OST）,,empty,
+538,,Summer Bounce Hard Arrange（OST）,Summer Bounce Hard Arrange（OST）,,empty,
+539,,Responsibility（OST）,Responsibility（OST）,,empty,
+540,,Summer Bounce（OST）,Summer Bounce（OST）,,empty,
+541,,Summertime Archive（OST）,Summertime Archive（OST）,,empty,
+542,,Welcome School（OST）,Welcome School（OST）,,empty,
+543,,Aoharu Band Arrange（OST）,Aoharu Band Arrange（OST）,,empty,
+544,,Blue New Battle（OST）,Blue New Battle（OST）,,empty,
+545,,Tasty New Year（OST）,Tasty New Year（OST）,,empty,
+546,,Our New Story（OST）,Our New Story（OST）,,empty,
+547,,Han-nari（OST）,Han-nari（OST）,,empty,
+548,,Poppin' Memories（OST）,Poppin' Memories（OST）,,empty,
+549,,Burning Love（OST）,Burning Love（OST）,,empty,
+550,,IROHANI HOP（OST）,IROHANI HOP（OST）,,empty,
+551,,TOMODACHI Summer（OST）,TOMODACHI Summer（OST）,,empty,
+552,,KARAKURhythm（OST）,KARAKURhythm（OST）,,empty,
+553,,wave & Conquer（OST）,wave & Conquer（OST）,,empty,
+554,,Luxury Cool（OST）,Luxury Cool（OST）,,empty,
+555,,Cotton Candy Island（OST）,Cotton Candy Island（OST）,,empty,
+556,,GIVE ME CHOCO♡（OST）,GIVE ME CHOCO♡（OST）,,empty,
+557,,Hinagesi（OST）,Hinagesi（OST）,,empty,
+558,,Na Na Natsu!（OST）,Na Na Natsu!（OST）,,empty,
+559,,Illuminated Night（OST）,Illuminated Night（OST）,,empty,
+560,,Illuminated Night Hard Arrange（OST）,Illuminated Night Hard Arrange（OST）,,empty,
+561,,Dive into Summer（OST）,Dive into Summer（OST）,,empty,
+562,,Nichirin（OST）,Nichirin（OST）,,empty,
+563,,Raise the Huddle（OST）,Raise the Huddle（OST）,,empty,
+564,,Getsurin（OST）,Getsurin（OST）,,empty,
+565,,Shooting Athletes（OST）,Shooting Athletes（OST）,,empty,
+566,,Goal Wo Nerae!（OST）,Goal Wo Nerae!（OST）,,empty,
+567,,Dancing Falsehood（OST）,Dancing Falsehood（OST）,,empty,
+568,,Gestalt Angst（OST）,Gestalt Angst（OST）,,empty,
+569,,Tsukikage（OST）,Tsukikage（OST）,,empty,
+570,,! ⸮ WAS IT A CAT I SAW？!（OST）,! ⸮ WAS IT A CAT I SAW？!（OST）,,empty,
+571,,KIRISAME（OST）,KIRISAME（OST）,,empty,
+572,,Dark Shadows（OST）,Dark Shadows（OST）,,empty,
+573,,Fruitful Blossom（OST）,Fruitful Blossom（OST）,,empty,
+574,,Usagi Flap（OST）,Usagi Flap（OST）,,empty,
+575,,Unwelcome Guest（OST）,Unwelcome Guest（OST）,,empty,
+576,,Fall into the rabbit hole（OST）,Fall into the rabbit hole（OST）,,empty,
+577,,Operation☆DOTABATA!（OST）,Operation☆DOTABATA!（OST）,,empty,
+578,,Noble Hallway（OST）,Noble Hallway（OST）,,empty,
+579,,Trigger For Ambition（OST）,Trigger For Ambition（OST）,,empty,
+580,,Kitsunebi（OST）,Kitsunebi（OST）,,empty,
+581,,Up to 21°C（OST）,Up to 21°C（OST）,,empty,
+582,,Hidden Treasure（OST）,Hidden Treasure（OST）,,empty,
+583,,Hunter Bible（OST）,Hunter Bible（OST）,,empty,
+584,,Takaramonogatari（OST）,Takaramonogatari（OST）,,empty,
+585,,Tok9 Train（OST）,Tok9 Train（OST）,,empty,
+586,,Ramune Lagoon（OST）,Ramune Lagoon（OST）,,empty,
+587,,Summer Attack!（OST）,Summer Attack!（OST）,,empty,
+588,,Blooming moon（OST）,Blooming moon（OST）,,empty,
+589,,Utaha No Uta（OST）,Utaha No Uta（OST）,,empty,
+590,,Cherry Berry Merry（OST）,Cherry Berry Merry（OST）,,empty,
+591,,Container Corner（OST）,Container Corner（OST）,,empty,
+592,,HIGH-VELOCITY（OST）,HIGH-VELOCITY（OST）,,empty,
+593,,Indoor Outdoor（OST）,Indoor Outdoor（OST）,,empty,
+594,,Action 68（OST）,Action 68（OST）,,empty,
+595,,Dreaming Trip（OST）,Dreaming Trip（OST）,,empty,
+596,,F1ghtback（OST）,F1ghtback（OST）,,empty,
+597,,Chilling Out（OST）,Chilling Out（OST）,,empty,
+598,,Starry Confession（OST）,Starry Confession（OST）,,empty,
+599,,Ridiculous（OST）,Ridiculous（OST）,,empty,
+600,,Yumeji Party（OST）,Yumeji Party（OST）,,empty,
+601,,Serene Scenario（OST）,Serene Scenario（OST）,,empty,
+602,,"괜찮아, 지금 이대로 / It Will Be Alright","괜찮아, 지금 이대로 / It Will Be Alright",![already_staff.png](files/1348/L39yMAxlr4SRIDjtEMVBMkVsW9JWEKIk.png),ok,
+603,,一緒の約束,一緒の約束,对策委员会的主题曲，一起的约定,ok,
+604,,一緒の約束(Instrumental Ver.),一緒の約束(Instrumental Ver.),一緒の約束的伴奏版本,ok,
+605,,ボイスドラマ Vol.9 「マラソン大会入賞対策委員会」,ボイスドラマ Vol.9 「マラソン大会入賞対策委員会」,对策委员会的广播剧场，赛跑比赛获奖那件事,ok,
+606,,純真レゾンデートル,純真レゾンデートル,风纪委员会的主题曲，纯真的理由,ok,
+607,,純真レゾンデートル(Instrumental Ver.),純真レゾンデートル(Instrumental Ver.),純真レゾンデートル的伴奏版本,ok,
+608,,ボイスドラマ Vol.10 「風紀を乱す者たちへ」,ボイスドラマ Vol.10 「風紀を乱す者たちへ」,风纪委员会的广播小剧场，扰乱风纪之人,ok,
+609,,夜明けのコーヒーの香り,夜明けのコーヒーの香り,尾刃叶渚的主题曲，黎明时分咖啡的香气,ok,
+610,,夜明けのコーヒーの香り(Instrumental Ver.),夜明けのコーヒーの香り(Instrumental Ver.),夜明けのコーヒーの香り的伴奏版本,ok,
+611,,Dialogue Vol.9「休暇と出会いのスペシャルブレンド」,Dialogue Vol.9「休暇と出会いのスペシャルブレンド」,尾刃叶渚的个人小剧场，假期与邂逅的特别调配,ok,
+612,Theme_268,Love Story,Love Story,温柔幸福的旋律，和少女甜甜的约会,ok,
+613,Theme_267,Theme_267,Theme_267,,empty,
+614,Theme_266,Theme_266,Theme_266,,empty,
+615,Theme_265,Theme_265,Theme_265,,empty,
+616,Theme_264,Breaking Silence,Breaking Silence,空洞、幽静伴有些许活跃的曲调，从平静到活泼的微妙变化,ok,
+617,Theme_262,Odekake,Odekake,,empty,
+618,Theme_257,Funk 4 Dummies,Funk 4 Dummies,,empty,
+619,Theme_252,Playful Maniac,Playful Maniac,,empty,
+620,Theme_251,The Runaway Until You Die,The Runaway Until You Die,,empty,
+621,Theme_247,Mission Possible,Mission Possible,,empty,
+622,Theme_245,Expo Festa,Expo Festa,活动「Code: BOX 迫近千年的阴影 ~ 一个问题与两个答案 ~ 」使用曲，熟悉带感的鼓点无论听多少次都不会腻,ok,
+623,Theme_244,Sunset Memory,Sunset Memory,带有遗憾的浪漫结局...美好的故事,ok,
+624,,夕映えの約束 / 저녁놀의 약속 / The Promise at Sunset (Korean Ver.),夕映えの約束 / 저녁놀의 약속 / The Promise at Sunset (Korean Ver.),"The Promise at Sunset (Korean Ver.)
+Composition & Arrangement Mitsukiyo
+Lyrics kotono
+Korean Translation Z:U, Mitsukiyo
+Vocal SERENTIUM
+
+来源于：[https://www.youtube.com/watch?v=tsro8hUWIfY](https://www.youtube.com/watch?v=tsro8hUWIfY)",ok,
+625,,夕映えの約束 / The Promise at Sunset,夕映えの約束 / The Promise at Sunset,"The Promise at Sunset
+저녁놀의 약속
+
+Composition & Arrangement Mitsukiyo
+Lyrics kotono
+Vocal SERENTIUM",ok,
+626,,夕映えの約束 / The Promise at Sunset (Instrumental Ver.),夕映えの約束 / The Promise at Sunset (Instrumental Ver.),,empty,
+627,Theme_258,Theme_258,Theme_258,空灵悠长的旋律飘过极光的夜空,ok,
+628,Theme_235,Sugary Holiday,Sugary Holiday,活动「疫饼危机 ～ 奇迹的一张 ～ 」使用曲，欢快转为循环的下降旋律，寓意着即将到来的危机（奇迹）,ok,
+629,,Oriental Drop (Dream Pop Rearrange),Oriental Drop (Dream Pop Rearrange),"Composed by KARUT
+Rearranged by Sungmin Shin (NECORD)
+Guitar by Sangmin Sung (NECORD)
+
+来源于：[https://www.youtube.com/watch?v=rfrnVkmHzuM](https://www.youtube.com/watch?v=rfrnVkmHzuM)",ok,
+630,,彩りキャンバス/Irodori Canvas Cover by Arcie,彩りキャンバス/Irodori Canvas Cover by Arcie,"CM Arcie翻唱的Irodori Canvas。
+来源于[https://www.youtube.com/watch?v=J07aR0mb4BI](https://www.youtube.com/watch?v=J07aR0mb4BI)",ok,
+631,,"꽃, 바람, 그대 / Flower, Wind, and You / 花，风，汝","꽃, 바람, 그대 / Flower, Wind, and You / 花，风，汝","Flower, Wind, and You的专辑收录版本",ok,
+632,,"꽃, 바람, 그대 / Flower, Wind, and You / 花，风，汝 (Instrumental)","꽃, 바람, 그대 / Flower, Wind, and You / 花，风，汝 (Instrumental)","꽃, 바람, 그대 / Flower, Wind, and You / 花，风，汝的伴奏版本",ok,
+633,Theme_250,Play Ball!,Play Ball!,活动「开球！ ～ 目标！满垒本垒打 ～ 」使用曲,ok,
+634,Theme_261,Theme_261,Theme_261,,empty,
+635,Theme_263,Rewind Again,Rewind Again,黄昏时期的类爵士曲调,ok,
+636,,Mint Choco Days (Instrumental),Mint Choco Days (Instrumental),"官方MV：[https://www.youtube.com/watch?v=JyRJ2EiYCqs](https://www.youtube.com/watch?v=JyRJ2EiYCqs)
+
+Vocal：栗村爱莉（CV. 오로아）
+Composition & Arrangement: Mitsukiyo (STUDIOALOH)
+Lyrics: Z:U
+
+![](files/1348/jicQHFIERl4H6TnEFMHWjKVKeFxvC7dk.png)",ok,
+637,,It Will Be Alright (Instrumental),It Will Be Alright (Instrumental),![already_staff.png](files/1348/L39yMAxlr4SRIDjtEMVBMkVsW9JWEKIk.png),ok,
+638,,"Sensei, it's time to clock out","Sensei, it's time to clock out",![already_staff.png](files/1348/L39yMAxlr4SRIDjtEMVBMkVsW9JWEKIk.png),ok,
+639,,「ToSchool 〜君がそばにいる日常〜」opening,「ToSchool 〜君がそばにいる日常〜」opening,"2025愚人节的日服特别Galgame标题曲
+
+bluearchive.jp/toschool/",ok,
+640,,「ToSchool 〜君がそばにいる日常〜」ending,「ToSchool 〜君がそばにいる日常〜」ending,"2025愚人节的日服特别Galgame片尾曲
+
+bluearchive.jp/toschool/",ok,
+641,,대 판데모니움 찬가 / 大万魔殿颂歌,대 판데모니움 찬가 / 大万魔殿颂歌,"2025愚人节的国际服特别节目。
+
+来源于[https://www.youtube.com/watch?v=kLh-b781R2g](https://www.youtube.com/watch?v=kLh-b781R2g)",ok,
+642,,Encountered,Encountered,"以2nd PV BGM「Glitch Street」的续作为印象而创作的歌曲，用作6th PV的BGM。
+
+此曲为6th PV中使用的版本。",ok,
+643,,うららか☆SYUGYOU,うららか☆SYUGYOU,,empty,
+644,,うららか☆SYUGYOU(Instrumental Ver.),うららか☆SYUGYOU(Instrumental Ver.),,empty,
+645,,ボイスドラマ Vol.11 「たとえばこんな、ある日のこと～みんなで修行をやったなら～」,ボイスドラマ Vol.11 「たとえばこんな、ある日のこと～みんなで修行をやったなら～」,,empty,
+646,,Victory Sky,Victory Sky,,empty,
+647,,Victory Sky(Instrumental Ver.),Victory Sky(Instrumental Ver.),,empty,
+648,,Dialogue Vol.10 「コールサイン00の賑やかな休息」,Dialogue Vol.10 「コールサイン00の賑やかな休息」,,empty,
+649,,Walking Night,Walking Night,,empty,
+650,,Walking Night(Instrumental Ver.),Walking Night(Instrumental Ver.),,empty,
+651,,Dialogue Vol.11 「新たな学びは、誰かのために」,Dialogue Vol.11 「新たな学びは、誰かのために」,,empty,
+652,,Train Showdown（OST）,Train Showdown（OST）,,empty,
+653,Theme_253,WE'RE CCC,WE'RE CCC,活动「海兰德铁路狂飙事故 ～ 于是列车灰飞烟灭 ～  」使用曲,ok,
+654,Theme_275,Theme_275,Theme_275,,empty,
+655,,Luminous Memory (Title),Luminous Memory (Title),,empty,
+656,Theme_276,Last Station,Last Station,活动剧情「海兰德铁路狂飙事故\~于是列车灰飞烟灭\~」ED,ok,
+657,Theme_274,Theme_274,Theme_274,"神名十文字的第6名预言者。其真身是被神名十文字骇入的红冬联邦学院的种子库。
+名字的起源被认为是生命之树的第6个质点【TIPHARETH】
+:::: right
+—— 『称颂苦难的美丽赎罪者』
+::::",ok,
+658,,Glitch Street (Title),Glitch Street (Title),,empty,
+659,,Golden Shangri-la（OST）,Golden Shangri-la（OST）,,empty,
+660,,Oriental Drop（OST）,Oriental Drop（OST）,,empty,
+661,,The Dragon Express（OST）,The Dragon Express（OST）,,empty,
+662,,Oriental Bounce （OST）,Oriental Bounce （OST）,,empty,
+663,,Rendezvous（OST）,Rendezvous（OST）,,empty,
+664,,Rendezvous Recorder ver（OST）,Rendezvous Recorder ver（OST）,,empty,
+665,,SHANHAIJING Tragicomedy（OST）,SHANHAIJING Tragicomedy（OST）,,empty,
+666,,Let me go Seaside（OST）,Let me go Seaside（OST）,,empty,
+667,,Tremendous Celebration（OST）,Tremendous Celebration（OST）,,empty,
+668,,Bluemark Canvas（OST）,Bluemark Canvas（OST）,,empty,
+669,,Flip Flap Festival!（OST）,Flip Flap Festival!（OST）,,empty,
+670,,P.A.J.A.M.A Sleep Over（OST）,P.A.J.A.M.A Sleep Over（OST）,,empty,
+671,,Expo Festa（OST）,Expo Festa（OST）,,empty,
+672,,Gregorius I Symphony（OST）,Gregorius I Symphony（OST）,,empty,
+673,,Fury of Set（OST）,Fury of Set（OST）,,empty,
+674,,0k@eri（OST）,0k@eri（OST）,,empty,
+675,,Realm Rumble（OST）,Realm Rumble（OST）,,empty,
+676,,HIGH5LANDER（OST）,HIGH5LANDER（OST）,,empty,
+677,,Sudden Onset Disaster（OST）,Sudden Onset Disaster（OST）,,empty,
+678,,Achromatic Prism（OST）,Achromatic Prism（OST）,,empty,
+679,,U-n.I（OST）,U-n.I（OST）,,empty,
+680,,Shoujo Sorrow（OST）,Shoujo Sorrow（OST）,,empty,
+681,,Shoujo Delight（OST）,Shoujo Delight（OST）,,empty,
+682,,U mak3 m3 smil3（OST）,U mak3 m3 smil3（OST）,,empty,
+683,,Dazzle Everyday（OST）,Dazzle Everyday（OST）,,empty,
+684,,Miracle（OST）,Miracle（OST）,,empty,
+685,,Candy Step（OST）,Candy Step（OST）,,empty,
+686,,Tomodachi OneStep (Korean Version),Tomodachi OneStep (Korean Version),圣三一偶像活动的演奏曲《トモダチOneStep》的韩语版本。,ok,
+687,,Tomodachi OneStep (Korean Short Version),Tomodachi OneStep (Korean Short Version),圣三一偶像活动的演奏曲《トモダチOneStep》的韩语短版本。,ok,
+688,,Twinkle☆Magic,Twinkle☆Magic,"Composition & Arrangement KARUT
+Lyrics Z:U
+Vocal Tuning TSK
+Mixing & Mastering KARUT
+Vocal Utazumi Sakurako (CV. Lee Daeun)
+Chorus Wakaba Hinata (CV. Song Harim), Iochi Mari (CV. Shin Nari)",ok,
+689,,Twinkle☆Magic (Instrumental),Twinkle☆Magic (Instrumental),"Composition & Arrangement KARUT
+Lyrics Z:U
+Vocal Tuning TSK
+Mixing & Mastering KARUT
+Vocal Utazumi Sakurako (CV. Lee Daeun)
+Chorus Wakaba Hinata (CV. Song Harim), Iochi Mari (CV. Shin Nari)",ok,
+690,,"Sensei, do you prefer tea first, or milk first","Sensei, do you prefer tea first, or milk first","Composition & Arrangement KARUT
+Lyrics Z:U
+Vocal Tuning TSK
+Mixing & Mastering KARUT
+Vocal Utazumi Sakurako (CV. Lee Daeun)
+Chorus Wakaba Hinata (CV. Song Harim), Iochi Mari (CV. Shin Nari)",ok,
+691,Theme_230,Succession,Succession,此刻，正是理念碰撞的时刻,ok,
+692,Theme_231,Oukaranman,Oukaranman,在这片白雪覆盖的百鬼夜行北部自治区，将会发生怎样的故事——,ok,
+693,Theme_246,Theme_246,Theme_246,两代勘解由小路家族族人的对峙,ok,
+694,Theme_279,Theme_279,Theme_279,令人不安的，诡谲的怪谈,ok,
+695,Theme_280,Lonely Flower,Lonely Flower,委员长之间，终于坦诚相待,ok,
+696,,P.A.J.A.M.A Sleep Over (Jazz Fusion Arrange),P.A.J.A.M.A Sleep Over (Jazz Fusion Arrange),">Composed by KARUT
+Rearranged by Yoo Kyunghwan
+Bass Yoo Kyunghwan
+Guitar Jung Dongjun (JuNN)
+Drum Kang Seokgwon
+Piano Cho Yeeyoung",ok,
+697,,Bunny Bunny Carrot Carrot (Fusion Electronic Arrange),Bunny Bunny Carrot Carrot (Fusion Electronic Arrange),">Composed by Mitsukiyo
+Rearranged by Lee Jonghyuk (NECORD)",ok,
+698,,Pixel Time (Bossa Nova Arrange),Pixel Time (Bossa Nova Arrange),">Composed by Mitsukiyo (STUDIOALOH)
+Rearranged by seibin (STUDIOALOH)",ok,
+699,,Operation☆DOTABATA! (Latin Arrange),Operation☆DOTABATA! (Latin Arrange),">Composed by Mitsukiyo (STUDIOALOH)
+Rearranged by Mitsukiyo (STUDIOALOH)",ok,
+700,,FEEEEVER TIME (CHIIIILL Arrange),FEEEEVER TIME (CHIIIILL Arrange),">Composed by Nor
+Rearranged by Sangnoksu",ok,
+701,,Indoor Outdoor (Unplugged Arrange),Indoor Outdoor (Unplugged Arrange),">Composed by Nor
+Rearranged by Z:U (STUDIOALOH)",ok,
+702,,Goal wo Nerae! (Acoustic Arrange),Goal wo Nerae! (Acoustic Arrange),">Composed by KARUT (STUDIOALOH)
+Rearranged by Sung Sangmin (NECORD)",ok,
+703,,Shooting Athletes (Chilling Athletes Arrange),Shooting Athletes (Chilling Athletes Arrange),">Composed by KARUT (STUDIOALOH)
+Rearranged by ChestnutWhale",ok,
+704,,Sweet Allegro (Lo-fi Arrange),Sweet Allegro (Lo-fi Arrange),">Composed by EmoCosine
+Rearranged by kaon (STUDIOALOH)",ok,
+705,,Utaha no Uta (Lo-fi & Chill Arrange),Utaha no Uta (Lo-fi & Chill Arrange),">Composed by KARUT
+Rearranged by Ahn Sooeung & Yoo Jongho (NECORD)",ok,
+706,,优香的泡面计时器,优香的泡面计时器,,empty,
+707,,诺亚的晨唤语音,诺亚的晨唤语音,,empty,
+708,,优香的熟睡辅助语音,优香的熟睡辅助语音,,empty,
+709,,诺亚是你的伸展教练,诺亚是你的伸展教练,,empty,
+710,,パトランプハーモニー！,パトランプハーモニー！,"> ブルーアーカイブ　青春あんさんぶる Vol.12 「ヴァルキューレ」
+ヴァルキューレ《カンナ(CV:松岡美里)、キリノ(CV:中島優衣)、フブキ(CV:平山笑美)》",ok,
+711,,パトランプハーモニー！(Instrumental Ver.),パトランプハーモニー！(Instrumental Ver.),> ヴァルキューレ《カンナ(CV:松岡美里)、キリノ(CV:中島優衣)、フブキ(CV:平山笑美)》,ok,
+712,,ボイスドラマ Vol.12「こちらヴァルキューレ、市民の皆様にお伝えします！」,ボイスドラマ Vol.12「こちらヴァルキューレ、市民の皆様にお伝えします！」,> ヴァルキューレ《カンナ(CV:松岡美里)、キリノ(CV:中島優衣)、フブキ(CV:平山笑美)》,ok,
+713,,イマハカラメル ―Sweeten Up Later,イマハカラメル ―Sweeten Up Later,"> ブルーアーカイブ　絆ダイアローグ Vol.12 「ヨシミ」
+ヨシミ(CV:真野あゆみ)",ok,
+714,,イマハカラメル ―Sweeten Up Later(Instrumental Ver.),イマハカラメル ―Sweeten Up Later(Instrumental Ver.),"> ブルーアーカイブ　絆ダイアローグ Vol.12 「ヨシミ」
+ヨシミ(CV:真野あゆみ)",ok,
+715,,Dialogue Vol.12「甘いお菓子と乙女の心得」,Dialogue Vol.12「甘いお菓子と乙女の心得」,"> ブルーアーカイブ　絆ダイアローグ Vol.12 「ヨシミ」
+ヨシミ(CV:真野あゆみ)",ok,
+716,,憧れの日々,憧れの日々,"> ブルーアーカイブ　絆ダイアローグ Vol.13 「フウカ」
+フウカ(CV:ファイルーズあい)",ok,
+717,,憧れの日々(Instrumental Ver.),憧れの日々(Instrumental Ver.),"> ブルーアーカイブ　絆ダイアローグ Vol.13 「フウカ」
+フウカ(CV:ファイルーズあい)",ok,
+718,,Dialogue Vol.13「たまには、優雅な休息を」,Dialogue Vol.13「たまには、優雅な休息を」,"> ブルーアーカイブ　絆ダイアローグ Vol.13 「フウカ」
+フウカ(CV:ファイルーズあい)",ok,
+719,Theme_289,Summer Survival!,Summer Survival!,活动「百花竞争唯一朵 ～ 堂堂正正，水上决胜 ～  」活动曲,ok,
+721,,夕映えの約束,夕映えの約束,https://nex-tone.link/A00196324,ok,
+722,,夕映えの約束(instrumental Ver.),夕映えの約束(instrumental Ver.),https://nex-tone.link/A00196324,ok,
+723,,笑顔 はなまる Happy Day,笑顔 はなまる Happy Day,"> 梅花園が歌う「笑顔 はなまる Happy Day」を収録！さらにアルバム版では、ボイスドラマ Vol.13「大怪獣バイカゴン現る！」も収録！
+
+https://nex-tone.link/A00197545",ok,
+724,,笑顔 はなまる Happy Day(Instrumental Ver.),笑顔 はなまる Happy Day(Instrumental Ver.),"> 梅花園が歌う「笑顔 はなまる Happy Day」を収録！さらにアルバム版では、ボイスドラマ Vol.13「大怪獣バイカゴン現る！」も収録！
+
+https://nex-tone.link/A00197545",ok,
+725,,大怪獣バイカゴン現る！,大怪獣バイカゴン現る！,"> 梅花園が歌う「笑顔 はなまる Happy Day」を収録！さらにアルバム版では、ボイスドラマ Vol.13「大怪獣バイカゴン現る！」も収録！
+
+https://nex-tone.link/A00197545",ok,
+726,,"Hand in Hand, Heart in Heart","Hand in Hand, Heart in Heart","> ノノミが歌う「Hand in Hand, Heart in Heart」を収録！さらにアルバム版では、Dialogue Vol.14「アビドスアイドルプロジェクトの足跡」も収録！
+
+https://nex-tone.link/A00197543",ok,
+727,,"Hand in Hand, Heart in Heart(Instrumental Ver.)","Hand in Hand, Heart in Heart(Instrumental Ver.)","> ノノミが歌う「Hand in Hand, Heart in Heart」を収録！さらにアルバム版では、Dialogue Vol.14「アビドスアイドルプロジェクトの足跡」も収録！
+
+https://nex-tone.link/A00197543",ok,
+728,,アビドスアイドルプロジェクトの足跡,アビドスアイドルプロジェクトの足跡,"> ノノミが歌う「Hand in Hand, Heart in Heart」を収録！さらにアルバム版では、Dialogue Vol.14「アビドスアイドルプロジェクトの足跡」も収録！
+
+https://nex-tone.link/A00197543",ok,
+729,,記憶と記録の間に,記憶と記録の間に,"> ノアが歌う「記憶と記録の間に」を収録！さらにアルバム版では、Dialogue Vol.15「Eau de Noaはどこまでも透明なのに」も収録！
+
+https://nex-tone.link/A00197544",ok,
+730,,記憶と記録の間に(Instrumental Ver.),記憶と記録の間に(Instrumental Ver.),"> ノアが歌う「記憶と記録の間に」を収録！さらにアルバム版では、Dialogue Vol.15「Eau de Noaはどこまでも透明なのに」も収録！
+
+https://nex-tone.link/A00197544",ok,
+731,,Eau de Noaはどこまでも透明なのに,Eau de Noaはどこまでも透明なのに,"> ノアが歌う「記憶と記録の間に」を収録！さらにアルバム版では、Dialogue Vol.15「Eau de Noaはどこまでも透明なのに」も収録！
+
+https://nex-tone.link/A00197544",ok,
+732,Theme_291,Shining Seaside,Shining Seaside,活动「夏空下的约定」活动曲,ok,
+733,Theme_292,Theme_292,Theme_292,在海边的轻松悠闲的时光,ok,
+734,Theme_293,Theme_293,Theme_293,,empty,
+735,Theme_294,Theme_294,Theme_294,,empty,
+736,Theme_295,Theme_295,Theme_295,Hip-hop风格的曲子，很符合兰舞一贯的风格,ok,
+737,Theme_298,You’re My Princess,You’re My Princess,星空海滨下与公主的约定,ok,
+738,Theme_299,Theme_299,Theme_299,,empty,
+739,Theme_300,Theme_300,Theme_300,和茶话会主持者一起在海边休憩的时光,ok,
+740,,Romantic Seaside (Game ver.),Romantic Seaside (Game ver.),活动剧情「夏空下的约定」ED。和茶话会的大家在海边驰骋吧！,ok,
+741,,Love Parade (Feat. DovIvI),Love Parade (Feat. DovIvI),,empty,
+742,,Love Parade (Instrumental),Love Parade (Instrumental),,empty,
+743,,有时候的时候,有时候的时候,"国服二周年主题曲。
+词：Sakula小舞
+曲： HJLL
+编曲：S 9 ryne",ok,
+744,,有时候的时候 (伴奏),有时候的时候 (伴奏),"国服二周年主题曲。
+词：Sakula小舞
+曲： HJLL
+编曲：S 9 ryne",ok,
+745,Theme_249,Music for Your Soul,Music for Your Soul,旋律充满艺术感的同时，又不失一丝俏皮,ok,
+746,Theme_243,Our Hearts,Our Hearts,追逐艺术的少女想要实现的愿望,ok,
+747,Theme_254,OOZ0RA,OOZ0RA,,empty,
+748,Theme_281,Laboratorium Occultum,Laboratorium Occultum,活动「我们是神秘学研究会！ ～ 学院怪异与远古咒语 ～ 」活动曲。欢迎来到狂猎艺术学院！,ok,
+751,Theme_283,4You Harmonica Arrange,4You Harmonica Arrange,昴的口琴声，承载着不忍卒读的回忆和对未来的希冀,ok,
+752,Theme_285,Theme_285,Theme_285,不堪回首的回忆,ok,
+753,Theme_287,Theme_287,Theme_287,,empty,
+754,Theme_296,Wachawacha Rush,Wachawacha Rush,活动「献给谁的艺术 ～ 赝品之画与美学的归宿 ～ 」活动曲,ok,
+755,Theme_297,Theme_297,Theme_297,昴思考时的曲子，口琴的旋律总是让人思绪万千,ok,
+756,,Sparkle Express (MV ver.),Sparkle Express (MV ver.),"Song by EmoCosine
+Vocal Serentium",ok,
+757,,HIGH5LANDER Eurobeat Remix,HIGH5LANDER Eurobeat Remix,"Track by Nor
+Remixed by KARUT (STUDIOALOH)
+Guitar Jung Dongjun (JuNN)",ok,
+758,,Romantic Seaside,Romantic Seaside,,empty,
+759,,Romantic Seaside(Drama Ver.),Romantic Seaside(Drama Ver.),,empty,
+760,,Romantic Seaside(Drama Short Ver.),Romantic Seaside(Drama Short Ver.),,empty,
+761,,Romantic Seaside(Instrumental Ver.),Romantic Seaside(Instrumental Ver.),,empty,
+762,,Romantic Seaside(Short Instrumental Ver.),Romantic Seaside(Short Instrumental Ver.),,empty,
+763,,看板娘のヒミツ素顔,看板娘のヒミツ素顔,,empty,
+764,,看板娘のヒミツ素顔(Instrumental Ver.),看板娘のヒミツ素顔(Instrumental Ver.),,empty,
+765,,Dialogue Vol.16「お祭りを楽しむ、1人の少女として。」,Dialogue Vol.16「お祭りを楽しむ、1人の少女として。」,,empty,
+766,,発明！ロマン！Engineer Dream！！,発明！ロマン！Engineer Dream！！,,empty,
+767,,発明！ロマン！Engineer Dream！！(Instrumental Ver.),発明！ロマン！Engineer Dream！！(Instrumental Ver.),,empty,
+768,,ボイスドラマVol.14「夢のロマン・ピザマシン誕生」,ボイスドラマVol.14「夢のロマン・ピザマシン誕生」,,empty,
+769,,アスナのまにまに？,アスナのまにまに？,,empty,
+770,,02-アスナのまにまに？(Instrumental Ver.),02-アスナのまにまに？(Instrumental Ver.),,empty,
+771,,Dialogue Vol.17「アスナも歩けば幸運に当たる。」,Dialogue Vol.17「アスナも歩けば幸運に当たる。」,,empty,
+772,Theme_302,Someday Certainly inst arrange,Someday Certainly inst arrange,活动「魔法少女的重火力 ～ 艾拉的野心与正义的资格 ～ 」活动曲。来成为魔法少女吧！,ok,
+773,Theme_303,Theme_303,Theme_303,很容易让人联想起游乐场的庆典的曲子,ok,
+774,Theme_332,Theme_332,Theme_332,,empty,
+775,Theme_333,Theme_333,Theme_333,,empty,
+776,,Someday Certainly (Game Ver.),Someday Certainly (Game Ver.),,empty,
+777,,Irodori Canvas (EN Ver.),Irodori Canvas (EN Ver.),,empty,
+778,,Kokoro Gradation (JP Ver.),Kokoro Gradation (JP Ver.),,empty,
+779,Theme_282,Theme_282,Theme_282,,empty,
+780,Theme_284,Theme_284,Theme_284,,empty,
+781,Theme_286,Theme_286,Theme_286,,empty,
+782,Theme_288,Theme_288,Theme_288,,empty,
+783,Theme_297_Inst2,游戏内曲目 | Theme_297_Inst2 | 剧情,Theme_297_Inst2,,empty,
+784,,마음 그라데이션 / Kokoro Gradation (Korean Ver.) (MV ver.),마음 그라데이션 / Kokoro Gradation (Korean Ver.) (MV ver.),,empty,
+785,,Kokoro Gradation (EN Ver.) (by Raon),Kokoro Gradation (EN Ver.) (by Raon),,empty,
+786,Theme_317,OTKMARCHING!,OTKMARCHING!,活动「冬空の文芸復興～健全なる文化の交流について～」用曲,ok,
+787,,온도 / 溫度,온도 / 溫度,来源于https://www.youtube.com/watch?v=GwiGZBnbmEc,ok,
+788,,Sparkle Express (feat. Serentium),Sparkle Express (feat. Serentium),,empty,
+789,,Sparkle Express (Backing Track),Sparkle Express (Backing Track),,empty,
+790,,Kokoro Gradation (Korean Version),Kokoro Gradation (Korean Version),,empty,
+791,,Kokoro Gradation (Instrumental),Kokoro Gradation (Instrumental),,empty,
+792,,Let's Go With...,Let's Go With...,,empty,
+793,,Let's Go With...(Instrumental Ver.),Let's Go With...(Instrumental Ver.),,empty,
+794,,Someday Certainly,Someday Certainly,,empty,
+795,,Someday Certainly(Short Ver.),Someday Certainly(Short Ver.),,empty,
+796,,Someday Certainly(Instrumental Ver.),Someday Certainly(Instrumental Ver.),,empty,
+797,,Someday Certainly(Short Instrumental Ver.),Someday Certainly(Short Instrumental Ver.),,empty,
+798,,黒翼が奏でる正義,黒翼が奏でる正義,,empty,
+799,,黒翼が奏でる正義(Instrumental Ver.),黒翼が奏でる正義(Instrumental Ver.),,empty,
+800,,紡ぐ時間,紡ぐ時間,,empty,
+801,,紡ぐ時間(Instrumental Ver.),紡ぐ時間(Instrumental Ver.),,empty,
+802,,Dialogue Vol.18「待機への期待～先生を添えて～」,Dialogue Vol.18「待機への期待～先生を添えて～」,,empty,
+803,,Happy×Smiley,Happy×Smiley,,empty,
+804,,Happy×Smiley(Instrumental Ver.),Happy×Smiley(Instrumental Ver.),,empty,
+805,,Dialogue Vol.19「朝顔ハナエの健康のススメ！」,Dialogue Vol.19「朝顔ハナエの健康のススメ！」,,empty,
+806,Theme_227,Encountered,Encountered,,empty,
+807,Theme_318,Run Way My Way,Run Way My Way,,empty,
+808,,Warmth,Warmth,,empty,
+809,,Warmth (Instrumental),Warmth (Instrumental),,empty,
+810,,"I was waiting for you, Sensei","I was waiting for you, Sensei",,empty,
+811,,Romantic Seaside (Korean Version),Romantic Seaside (Korean Version),,empty,
+812,,Romantic Seaside (Korean Drama Version),Romantic Seaside (Korean Drama Version),,empty,
+813,,Romantic Seaside (Korean Short Drama Version),Romantic Seaside (Korean Short Drama Version),,empty,
+814,,Romantic Seaside (Backing Track),Romantic Seaside (Backing Track),,empty,
+815,,Romantic Seaside (Short Backing Track),Romantic Seaside (Short Backing Track),,empty,
+816,,PRST Academy（OST）,PRST Academy（OST）,PRST Academy的原声OST收录版本,ok,
+817,,PRST Marching（OST）,PRST Marching（OST）,PRST Marching的原声OST收录版本,ok,
+818,,Merry blue（OST）,Merry blue（OST）,Merry blue的原声OST收录版本,ok,
+819,,nesno wons（OST）,nesno wons（OST）,Nesno wons的原声OST收录版本,ok,
+820,,OTKPARA!（OST）,OTKPARA!（OST）,OTKPARA!的原声OST收录版本,ok,
+821,,Scarlet Chrysanthemum（OST）,Scarlet Chrysanthemum（OST）,Scarlet Chrysanthemum的原声OST收录版本,ok,
+822,,Sugary Holiday（OST）,Sugary Holiday（OST）,Sugary Holiday的原声OST收录版本,ok,
+823,,DAN! DAN!! INVADER!!!（OST）,DAN! DAN!! INVADER!!!（OST）,DAN! DAN!! INVADER!!!的原声OST收录版本,ok,
+824,,Mission Possible（OST）,Mission Possible（OST）,Mission Possible的原声OST收录版本,ok,
+825,,The Runaway Until You Die（OST）,The Runaway Until You Die（OST）,The Runaway Until You Die的原声OST收录版本,ok,
+826,,Play Ball!（OST）,Play Ball!（OST）,Play Ball!的原声OST收录版本,ok,
+827,,Music for Your Soul（OST）,Music for Your Soul（OST）,Music for Your Soul的原声OST收录版本,ok,
+828,,WE'RE CCC（OST）,WE'RE CCC（OST）,WE'RE CCC的原声OST收录版本,ok,
+829,,Odekake（OST）,Odekake（OST）,Odekake的原声OST收录版本,ok,
+830,,Starry Night（OST）,Starry Night（OST）,Starry Night的原声OST收录版本,ok,
+831,,It Takes Two To Tiramisu（OST）,It Takes Two To Tiramisu（OST）,It Takes Two To Tiramisu的原声OST收录版本,ok,
+832,,Metal † Crisis（OST）,Metal † Crisis（OST）,Metal † Crisis的原声OST收录版本,ok,
+833,,Bishoujo tachi no Cliché（OST）,Bishoujo tachi no Cliché（OST）,Bishoujo tachi no Cliché的原声OST收录版本,ok,
+834,,OHAYOU Daily morning（OST）,OHAYOU Daily morning（OST）,OHAYOU Daily morning的原声OST收录版本,ok,
+835,,Starry Sky（OST）,Starry Sky（OST）,Starry Sky的原声OST收录版本,ok,
+836,,Our Oath（OST）,Our Oath（OST）,Our Oath的原声OST收录版本,ok,
+837,,Peaceful Day（OST）,Peaceful Day（OST）,Peaceful Day的原声OST收录版本,ok,
+838,,NekoTime（OST）,NekoTime（OST）,NekoTime的原声OST收录版本,ok,
+839,,InuTime（OST）,InuTime（OST）,InuTime的原声OST收录版本,ok,
+840,,Playful Maniac（OST）,Playful Maniac（OST）,Playful Maniac的原声OST收录版本,ok,
+841,,Sweet Allegro（OST）,Sweet Allegro（OST）,Sweet Allegro的原声OST收录版本,ok,
+842,,The Loop of Life（OST）,The Loop of Life（OST）,The Loop of Life的原声OST收录版本,ok,
+843,,Funk 4 Dummies（OST）,Funk 4 Dummies（OST）,Funk 4 Dummies的原声OST收录版本,ok,
+844,,温もりのそばで、羽を預けて,温もりのそばで、羽を預けて,"絆ダイアローグ系列第20弹，日奈演唱的歌曲，包含着日奈的心意。
+nex-tone.link/A00209140
+>ブルーアーカイブ　絆ダイアローグ Vol.20 「ヒナ」
+ヒナ(CV:広橋涼)",ok,
+845,,温もりのそばで、羽を預けて(Instrumental Ver),温もりのそばで、羽を預けて(Instrumental Ver),"温もりのそばで、羽を預けて的无人声版。
+nex-tone.link/A00209140
+>ブルーアーカイブ　絆ダイアローグ Vol.20 「ヒナ」
+ヒナ(CV:広橋涼)",ok,
+846,,Dialogue Vol.20「poco a poco」,Dialogue Vol.20「poco a poco」,"专辑「絆ダイアローグ Vol.20」内的广播剧。
+>ブルーアーカイブ　絆ダイアローグ Vol.20 「ヒナ」
+ヒナ(CV:広橋涼)",ok,
+847,,出発進行！ハイランダー！！,出発進行！ハイランダー！！,"絆ダイアローグ系列第16弹，光、望、和青叶同学共同演唱的「出発進行！ハイランダー！！」。
+和她们一起在吵闹的列车上旅行吧！
+nex-tone.link/A00209139
+>ブルーアーカイブ　青春あんさんぶる Vol.16 「ハイランダー」
+ハイランダー《ヒカリ(CV:石見舞菜香)、ノゾミ(CV:星谷美緒)、アオバ(CV:田嶌紗蘭)》",ok,
+848,,出発進行！ハイランダー！！(Instrumental Ver.),出発進行！ハイランダー！！(Instrumental Ver.),"出発進行！ハイランダー！！的无人声版。
+nex-tone.link/A00209139
+>ブルーアーカイブ　青春あんさんぶる Vol.16 「ハイランダー」
+ハイランダー《ヒカリ(CV:石見舞菜香)、ノゾミ(CV:星谷美緒)、アオバ(CV:田嶌紗蘭)》",ok,
+849,,ボイスドラマVol.16「途中下車で行く列車旅」,ボイスドラマVol.16「途中下車で行く列車旅」,"专辑 「青春あんさんぶる Vol.16」内的广播剧。
+nex-tone.link/A00209139
+>ブルーアーカイブ　青春あんさんぶる Vol.16 「ハイランダー」
+ハイランダー《ヒカリ(CV:石見舞菜香)、ノゾミ(CV:星谷美緒)、アオバ(CV:田嶌紗蘭)》",ok,
+850,,幸せになるよ,幸せになるよ,,empty,
+851,,幸せになるよ(Instrumental Ver.),幸せになるよ(Instrumental Ver.),,empty,
+852,,Dialogue Vol.21「君の無邪気な海の希望」,Dialogue Vol.21「君の無邪気な海の希望」,,empty,
+853,,Encountered (Title),Encountered (Title),,empty,
+854,Theme_248,Theme_248,Theme_248,,empty,
+855,Theme_304,Theme_304,Theme_304,,empty,
+856,Theme_305,Theme_305,Theme_305,,empty,
+857,Theme_306,Theme_306,Theme_306,,empty,
+858,Theme_310,Theme_310,Theme_310,,empty,
+859,Theme_307,Theme_307,Theme_307,,empty,
+860,Theme_312,Theme_312,Theme_312,,empty,
+861,Theme_314_Short,游戏内曲目 | Theme_314_Short,Theme_314_Short,,empty,
+862,Theme_314_Short2,游戏内曲目 | Theme_314_Short2,Theme_314_Short2,,empty,
+863,Theme_328,Theme_328,Theme_328,,empty,
+864,Theme_330,Steel Horizon,Steel Horizon,,empty,
+865,Theme_331,Theme_331,Theme_331,,empty,
+866,Theme_340,Theme_340,Otomegokoro,,empty,
+867,Theme_341,Theme_341,Theme_341,,empty,
+868,Theme_342,Theme_342,Theme_342,,empty,
+869,Theme_308,Theme_308,Brave Time,,empty,
+870,Theme_309,Theme_309,Theme_309,,empty,
+871,Theme_311,Theme_311,Theme_311,,empty,
+872,Theme_316_Light,游戏内曲目 | Theme_316_Light,Theme_316_Light,,empty,
+873,Theme_316_Short,游戏内曲目 | Theme_316_Short,Theme_316_Short,,empty,
+874,Theme_316,Theme_316,Theme_316,,empty,
+875,Theme_329,Theme_329,Theme_329,,empty,
+876,Theme_339,Theme_339,Theme_339,,empty,
+877,,Mint Choco Days (Album Ver.),Mint Choco Days (Album Ver.),,empty,
+878,,Mint Choco Days (Instrumental) (Album Ver.),Mint Choco Days (Instrumental) (Album Ver.),,empty,
+879,,"Sensei, what a coincidence to see you at this hour!","Sensei, what a coincidence to see you at this hour!",,empty,
+880,,"Sensei, at this hour…","Sensei, at this hour…",,empty,
+881,,Prismatic Diary,Prismatic Diary,,empty,
+882,,I'm happy… that Sensei liked it,I'm happy… that Sensei liked it,,empty,
+883,,The Incandescent Blue and the Comet,The Incandescent Blue and the Comet,,empty,
+884,,"I want to be like you, Sensei","I want to be like you, Sensei",,empty,
+885,,Prismatic Diary (Instrumental),Prismatic Diary (Instrumental),,empty,
+886,,The Incandescent Blue and the Comet (Instrumental),The Incandescent Blue and the Comet (Instrumental),,empty,
+887,Theme_144,Theme_144,Theme_144,,empty,
+888,Theme_313,Theme_313,Theme_313,,empty,
+889,Theme_326,Theme_326,Theme_326,,empty,
+890,Theme_327,Theme_327,Theme_327,,empty,
+891,,憧れの残響,憧れの残響,,empty,
+892,,准备出发！（琵琶版）,准备出发！（琵琶版）,此曲用于国服2026年新春网页活动【鼓乐鸣·钟鼎盛】用曲。,ok,
+893,,Flip Flap Festival!（竹笛版）,Flip Flap Festival!（竹笛版）,此曲用于国服2026年新春网页活动【鼓乐鸣·钟鼎盛】用曲。,ok,
+894,Theme_334,,The Tsuchinoko is Out There,,empty,
+900,,,ボイスドラマVol.17「開発！ボーダーランド湯～園地！」,,empty,
+901,,,つかむ希望の空,,empty,
+902,,,つかむ希望の空(Instrumental Ver.),,empty,
+903,,,Dialogue Vol.22「活動記録～ドラム缶掃除について～」,,empty,
+904,,,黒崎コユキはハチャメチャ ALL OK！,,empty,
+905,,,02-黒崎コユキはハチャメチャ ALL OK！(Instrumental Ver.),,empty,
+906,,,Dialogue Vol.23「恐怖体験！ 密室から脱出せよ！」,,empty,
+907,Theme_319,,Theme_319,灵感的小曲！,ok,
+908,Theme_320,,Theme_320,灵感的小曲？,ok,
+909,Theme_321,,Theme_321,,empty,
+910,Theme_322,,Theme_322,,empty,
+911,Theme_323,,Theme_323,,empty,
+912,Theme_324,,Theme_324,[联邦学生会长?](https://kivo.wiki/data/character/592) 的小曲,ok,
+913,Theme_337,,Theme_337,,empty,
+914,Theme_338,,Theme_338,,empty,
+915,Theme_352,,Theme_352,,empty,

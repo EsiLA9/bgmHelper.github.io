@@ -13,7 +13,7 @@
         <p class="eyebrow">bgmHelper.github.io</p>
         <h1>把 Python 小工具搬到浏览器里。</h1>
         <p class="lede">
-          直接在 GitHub Pages 上加载映射表、导入本地歌词文件、预览内容并跳转到对应编辑页。
+          直接在 GitHub Pages 上加载映射表和本地简介缓存，把 `introduction` 自动拼到歌词文本前。
         </p>
       </div>
       <div class="masthead-status" aria-label="状态概览">
@@ -50,6 +50,12 @@
             <span class="control-title">自定义 CSV</span>
             <span class="control-subtitle">接受带有 `database_id` 和 `dev_code` 列的文件。</span>
             <input id="csvInput" type="file" accept=".csv,text/csv">
+          </label>
+
+          <label class="control-block">
+            <span class="control-title">导入修复 CSV</span>
+            <span class="control-subtitle">接受带有 `id` / `database_id` 和 `introduction` 的修复表，双击会复制该行介绍并打开编辑页。</span>
+            <input id="introFixCsvInput" type="file" accept=".csv,text/csv">
           </label>
 
           <label class="control-block">
@@ -105,12 +111,11 @@
 
         <div class="detail-actions">
           <div class="url-box">
-            <span class="url-label">目标 URL</span>
-            <a id="targetUrl" href="#" target="_blank" rel="noreferrer noopener">尚未生成</a>
+            <span class="url-label">拼接情况</span>
+            <strong id="stitchStatus" class="status-value">尚未生成</strong>
           </div>
           <div class="action-row">
             <button id="copyButton" type="button">复制内容</button>
-            <button id="openButton" type="button" class="ghost-button">打开链接</button>
             <button id="markButton" type="button" class="ghost-button">标记已处理</button>
           </div>
           <p class="clipboard-hint">首次复制时，请记得在浏览器弹窗中允许访问剪贴板。</p>
@@ -125,9 +130,13 @@
             <span class="meta-label">数据库 ID</span>
             <strong id="databaseIdLabel" class="meta-value">-</strong>
           </div>
+          <div class="meta-card meta-card-intro">
+            <span class="meta-label">简介状态</span>
+            <strong id="introductionStatusLabel" class="meta-value">未拼接</strong>
+          </div>
         </div>
 
-        <pre id="preview" class="preview" tabindex="0">请先加载 CSV 和歌词文件。</pre>
+        <pre id="preview" class="preview" tabindex="0">请先加载映射表、简介缓存和歌词文件。</pre>
       </section>
     </main>
   </div>

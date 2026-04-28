@@ -364,6 +364,42 @@ input[type="file"]::file-selector-button:hover {
   font-size: 0.85rem;
 }
 
+.file-meta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+.intro-status {
+  flex-shrink: 0;
+  padding: 5px 9px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  background: rgba(128, 142, 152, 0.14);
+  color: #667781;
+}
+
+.intro-status.pending {
+  background: rgba(69, 125, 173, 0.14);
+  color: #2d6f99;
+}
+
+.intro-status.success {
+  background: rgba(47, 157, 126, 0.14);
+  color: var(--accent);
+}
+
+.intro-status.empty {
+  background: rgba(215, 165, 81, 0.14);
+  color: var(--warning);
+}
+
+.intro-status.error {
+  background: rgba(186, 92, 92, 0.14);
+  color: #b14646;
+}
+
 .detail-actions {
   display: grid;
   gap: 16px;
@@ -378,11 +414,11 @@ input[type="file"]::file-selector-button:hover {
   background: rgba(255, 255, 255, 0.56);
 }
 
-.url-box a {
+.url-box .status-value {
+  display: block;
   font-family: var(--font-mono);
   font-size: 0.92rem;
   color: #176a55;
-  text-decoration: none;
   overflow-wrap: anywhere;
 }
 
@@ -401,7 +437,7 @@ input[type="file"]::file-selector-button:hover {
 
 .meta-grid {
   display: grid;
-  grid-template-columns: minmax(0, 1.7fr) minmax(120px, 0.7fr);
+  grid-template-columns: minmax(0, 1.7fr) repeat(2, minmax(120px, 0.7fr));
   gap: 10px;
   margin-top: 14px;
 }
